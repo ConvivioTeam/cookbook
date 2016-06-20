@@ -5,5 +5,5 @@
 * [New Client Recipe](new_client_recipe/README.md)
 * [Delivery Recipe](delivery_recipe/README.md)
 * [Improvement Recipe](improvement_recipe/README.md)
-* [Money Recipe](money_recipe/README.md)
+* [Business Operation Recipe](money_recipe/README.md)
 
