@@ -26,8 +26,8 @@ You'll need a heavy-bottomed saucepan.
 
 #### Optionally …
 
-- tin of tomatoes
-- tin of chick peas
+- tin of chopped tomatoes
+- tin of chick peas, drained
 
 ## Method
 
@@ -39,6 +39,6 @@ You'll need a heavy-bottomed saucepan.
 6. Add approximately a third of the vegetable stock, enough to ensure all the aubergine is bathed in stock. Add the bay leaves, cloves and cardamom. Bring to the boil, then take the heat down so the mixture is just simmering. 
 7. Stir every 20/30 mins. Allow the simmering curry to reduce right down before adding more stock, as necessary. You may not use up all the stock; you may need to add more. At the end, the liquid should be almost completely reduced. The longer you can allow the dish to simmer the better it will taste - 2hrs is the minimum; 3hrs and the flavour is much, much better. Salt to taste.<br /><br />
 ![](aubergine_curry_simmering.jpg)<br /><br />
-8. Optionally, you may want to add tomatoes and/or chick peas to the meal. The tomatoes make the curry much sweeter than otherwise, and is a delicious variant. If you do, add them for the last hour of simmering only.
+8. Optionally, you may want to add tomatoes and/or chick peas to the curry. The tomatoes make the curry much sweeter than otherwise, and is a delicious variant. If you do, add them for the last hour of simmering only.
 
 Serve with pilau rice and chapati, and some mango chutney or cucumber and mint raita on the side.
