@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Talent Recipe](talent_recipe/README.md)
-* New Client Recipe
+* [New Client Recipe](/new_client_recipe/README.md)
 
