@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* Talent Recipe
+* [Talent Recipe](talent_recipe/README.md)
 
