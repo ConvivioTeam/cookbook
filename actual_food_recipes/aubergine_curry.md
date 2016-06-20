@@ -37,4 +37,4 @@ You'll need a heavy-bottomed saucepan.
 7. Stir every 20/30 mins. Allow the simmering curry to reduce right down before adding more stock, as necessary. You may not use up all the stock; you may need to add more. At the end, the liquid should be almost completely reduced. The longer you can allow the dish to simmer the better it will taste - 2hrs is the minimum; 3hrs and the flavour is much, much better.
 8. Optionally, you may want to add tomatoes and/or chick peas to the meal. The tomatoes make the curry much sweeter than otherwise, and is a delicious variant. If you do, add them for the last hour of simmering only.
 
-Serve, with pilau rice and chapati, with some mango chutney or cucumber and mint raita on the side.
+Serve with pilau rice and chapati, and some mango chutney or cucumber and mint raita on the side.
