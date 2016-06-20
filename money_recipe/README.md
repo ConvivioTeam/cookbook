@@ -1,3 +1,3 @@
-# Money Recipe
+# Business Operation Recipe
 
-This is the way we forecast, set targets, raise invoices, get paid, receive bills, make payments, report on finances, and manage our money.
+This is the way we run the business day to day, including making decisions, forecasting, set targets, raising invoices, getting paid, receiving bills, making payments, reporting on finances, and more.
