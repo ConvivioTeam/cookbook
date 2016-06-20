@@ -1,4 +1,5 @@
 # Aubergine Curry
+**Joe Baker**
 
 I love aubergine. I haven't always, but I do now. This recipe is one of my own invention, inspired by an aubergine curry cooked for me by my friend Shila. Shila cooked an aubergine curry for us one evening. It was so delicious that I quizzed her about what she'd done as we ate, and then tried desperately not to forget what she'd said.
 
