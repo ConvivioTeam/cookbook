@@ -1,6 +1,8 @@
 # Vegetarian Paella
 **Joe Baker**
 
+![](veg_paella.jpg)
+
 I first tasted paella during a couple of holidays in Majorca before I turned vegetarian and immediately fell in love with the dish. Since turning vegetarian (about 15 years ago) I've learned a non-meat paella that is super-simple but utterly delicious. Paella, with no seafood, you say? I know! But this is utterly delicious. Try it and see!
 
 ***Serves: 4-6; Vegetarian/Vegan; Preparation time: 15 mins; Cooking time: 45 mins***
@@ -26,7 +28,7 @@ You'll need a large, flat heavy-bottomed frying pan, skillet or shallow casserol
 - 1.2l (2pt) vegetable stock
   - e.g. 4 tsps Marigold Swiss Vegetable Bouillon, mixed with 1.2l boiling water 
 - 1 large tbsp tomato purée
-- 100g cachew nuts, to garnish
+- 100g cashew nuts or almonds, to garnish
 
 ## Method
 
@@ -40,7 +42,7 @@ You'll need a large, flat heavy-bottomed frying pan, skillet or shallow casserol
   - If you've chosen fresh mushrooms, add them now.
   - If you chose dried shiitake, they'll already in the stock.
 6. Turn the heat up high and bring everything to the boil. Stir thoroughly and ensure all the rice is nicely covered by the liquid. Take the heat right down and let the mixture simmer. Cook for approximately 20 mins, stirring occasionally to stop the rice sticking to the pan.
-7. While the paella simmers away, put the cashew nuts into a dry frying pan. Spinkle a little paprika and salt over them. Turn on the heat gently, and cook until lightly toasted.
+7. While the paella simmers away, put the cashew nuts or almonds into a dry frying pan. Spinkle a little paprika and salt over them. Turn on the heat gently, and cook until lightly toasted.
 8. As if my magic, the paella is ready when the liquid has all been absorbed but the paella is still moist.
 
 Serve, with a sprinkle of the toasted cashew nuts to garnish each portion. The paella is best eaten with a warm flatbread.  
