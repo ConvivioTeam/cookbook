@@ -8,5 +8,5 @@
    * [Git Repository Conventions](business_operation_recipe/git-repository-conventions.md)
 * [Actual Food Recipes](actual_food_recipes/README.md)
    * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
-   * Vegetarian Paella
+   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
 
