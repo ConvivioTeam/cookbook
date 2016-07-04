@@ -26,7 +26,8 @@ You'll need a large, flat heavy-bottomed frying pan, skillet or shallow casserol
   - 50g dried shiitake mushrooms have a great meaty taste
 - 250/300g Spanish paella rice
 - 1.2l (2pt) vegetable stock
-  - e.g. 4 tsps Marigold Swiss Vegetable Bouillon, mixed with 1.2l boiling water 
+  - e.g. 4 tsps Marigold Swiss Vegetable Bouillon, mixed with 1.2l boiling water<br \>
+    (Marigold Swiss Vegetable Bouillon has lots of salt in it, so if you're using your own stock you may want to add more salt.)
 - 1 large tbsp tomato purée
 - 100g cashew nuts or almonds, to garnish
 
