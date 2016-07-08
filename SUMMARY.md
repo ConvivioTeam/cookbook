@@ -6,7 +6,7 @@
 * [Delivery Recipe](delivery_recipe/README.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
    * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
-       * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines/content_guidelines.md)
+       * [Content Guidelines](business_operation_recipe/brand_guidelines/contentguidelines.md)
    * [Git Repository Conventions](business_operation_recipe/git-repository-conventions.md)
    * [Submit Expenses](business_operation_recipe/submit_expenses.md)
    * [Holiday and Sickness](business_operation_recipe/holidays_and_sickness.md)
