@@ -8,5 +8,7 @@
   * [Git Repository Conventions](business_operation_recipe/git-repository-conventions.md)
   * [Submit Expenses](business_operation_recipe/submit_expenses.md)
   * [Holiday and Sickness](business_operation_recipe/holidays_and_sickness.md)
+  * [Disciplinary Procedure](business_operation_recipe/disciplinary_procedure.md)
+  * [Grievance Procedure](business_operation_recipe/grievance_procedure.md)
 * [Actual Food Recipes](actual_food_recipes/README.md)
    * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
