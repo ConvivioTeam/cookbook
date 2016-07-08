@@ -10,7 +10,6 @@
    * [Holiday and Sickness](business_operation_recipe/holidays_and_sickness.md)
    * [Disciplinary Procedure](business_operation_recipe/disciplinary_procedure.md)
    * [Grievance Procedure](business_operation_recipe/grievance_procedure.md)
-   * Brand Guidelines
 * [Actual Food Recipes](actual_food_recipes/README.md)
    * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
    * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
