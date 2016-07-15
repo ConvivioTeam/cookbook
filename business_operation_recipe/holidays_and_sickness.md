@@ -1,6 +1,6 @@
 # Holidays and Sickness
 
-We all receive 25 days paid holiday each year in addition to the usual UK bank holidays. You'll need a keep a few days spare while we close the office between Christmas and New Year.
+We all receive 25 days paid holiday each year in addition to the usual UK bank holidays. You'll need to keep a few days spare while we close the office between Christmas and New Year.
 
 ## Requesting Holiday
 
