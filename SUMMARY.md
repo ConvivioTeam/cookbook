@@ -6,7 +6,7 @@
     * [Principles For Building New Client Relationships](new_client_recipe/principles-of-building-new-client-relationships.md)
     * [Researching](new_client_recipe/researching.md)
     * [Connecting](new_client_recipe/connecting.md)
-    * Nurturing
+    * [Nurturing](new_client_recipe/nurturing.md)
     * Learning and Thinking
     * Proposing
     * Agreeing

@@ -64,10 +64,8 @@ Sometimes we'll be contacted by a potential new client. In that case the steps a
 If the client approaches us out of the blue with an RFP or other procurement process already rolling then we need to:
 1. Establish a personal relationship with one of their key contacts, not just the procurement staff. Set up an in-person meeting, or a call at the very least.
 
-2. Explain our processes and principles, and highlight areas where theirs might not fit. Discuss alternative approaches.
-3. If the client won't consider this then they are probably not a good match for us, and we should consider declining.
+1. Explain our processes and principles, and highlight areas where theirs might not fit. Discuss alternative approaches.
+2. If the client won't consider this then they are probably not a good match for us, and we should consider declining.
 
-
-
-Once we have an initial connection, it's time to move on to Nurturing the relationship.
+Once we have an initial connection, it's time to move on to [Nurturing](/new_client_recipe/nurturing.md) the relationship.
 
