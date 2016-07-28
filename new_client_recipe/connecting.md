@@ -1,8 +1,8 @@
 # Connecting
 
-Once we feel we have enough research to begin a sensible and useful conversation with a potential client, we seek to connect with them.
+Once we feel we have enough [research](/new_client_recipe/researching.md) to begin a sensible and useful conversation with a potential client, we seek to connect with them.
 
-We do not do mass marketing. No glossy mailshots, no call-centres cold calling. That is not the way to find your soulmate and begin a good relationship. We believe in a personal, tailored approach.
+We don't do mass marketing. No glossy mailshots, no spam, no cold calling. That is not the way to find your soulmate and begin a good relationship. We believe in a personal, tailored approach.
 
 However, we also don't expect to ring a client, or drop them an email, and immediately start a relationship and get handed some work.
 
@@ -45,7 +45,6 @@ The key things to consider are:
 * Drop them a simple short email with something useful and a brief explanation of who you are and why you thought they'd be interested.
 
 
-
 **But don't:**
 
 * Phone out of the blue. It's disrespectful of people's time and planning.
@@ -53,11 +52,22 @@ The key things to consider are:
 * Try to be wacky to get their attention.
 
 
+## Clients Who Connect With Us
+
+Sometimes we'll be contacted by a potential new client. In that case the steps are:
+
+1. Enter the organisation and contact people into Contactually.
+
+2. Create a card for the new client opportunity in the new client pipeline in Contactually.
 
 
-Clients Who Connect With Us
+If the client approaches us out of the blue with an RFP or other procurement process already rolling then we need to:
+1. Establish a personal relationship with one of their key contacts, not just the procurement staff. Set up an in-person meeting, or a call at the very least.
 
-Sometimes we'll be contacted by a client, and the 
+2. Explain our processes and principles, and highlight areas where theirs might not fit. Discuss alternative approaches.
+3. If the client won't consider this then they are probably not a good match for us, and we should consider declining.
 
 
+
+Once we have an initial connection, it's time to move on to Nurturing the relationship.
 
