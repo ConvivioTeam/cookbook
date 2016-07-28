@@ -4,7 +4,7 @@
 * [Talent Recipe](talent_recipe/README.md)
 * [New Client Recipe](new_client_recipe/README.md)
     * [Principles For Building New Client Relationships](new_client_recipe/principles-of-building-new-client-relationships.md)
-    * Researching
+    * [Researching](new_client_recipe/researching.md)
     * Connecting
     * Nurturing
     * Learning and Thinking
