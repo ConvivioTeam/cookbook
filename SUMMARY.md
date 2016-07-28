@@ -4,6 +4,7 @@
 * [Talent Recipe](talent_recipe/README.md)
 * [New Client Recipe](new_client_recipe/README.md)
 * [Delivery Recipe](delivery_recipe/README.md)
+   * [Risk Management](delivery_recipe/risk_management.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
    * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
        * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
