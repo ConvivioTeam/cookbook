@@ -23,7 +23,7 @@ The key things to consider are:
 
 ## Steps To Take
 
-1. Move the new client opportunity card into the Connecting column in Contactually.
+1. Move the new client opportunity card into the Connecting column on the [New Clients pipeline screen](https://www.contactually.com/pipelines/86389) in Contactually.
 
 2. Create ideas for ways to connect. Involve others if necessary. See below for some inspiration.
 
@@ -56,9 +56,9 @@ The key things to consider are:
 
 Sometimes we'll be contacted by a potential new client. In that case the steps are:
 
-1. Enter the organisation and contact people into Contactually.
+1. Enter the [contact details for the people](https://www.contactually.com/contacts) into Contactually.
 
-2. Create a card for the new client opportunity in the new client pipeline in Contactually.
+2. Create a card for the new client opportunity in the [new client pipeline](https://www.contactually.com/pipelines/86389) in Contactually.
 
 
 If the client approaches us out of the blue with an RFP or other procurement process already rolling then we need to:

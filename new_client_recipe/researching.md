@@ -6,11 +6,11 @@ That means we first need to understand what makes a client an ideal match for us
 
 1. Research to find those types of organisations. This could be in online trade publications, at events, through our network, or through knowing about organisations we would love to work with.
 
-2. Once we've found potentials add them into our CRM, Contactually, and create a card in the New Clients pipeline under the 'Researching' column.
+2. Next identify suitable contact people at that organisation, and add their details into our CRM, [Contactually](https://www.contactually.com/contacts).
 
-3. Next identify the ideal contacts at that organisation, and add their details into Contactually too.
+3. Create a card in the [New Clients pipeline](https://www.contactually.com/pipelines/86389) under the 'Researching' column.
 
-4. Then do more research on what they are working on, what is important to them, what their strategy is, and what problems they face.
+4. Research what they are working on, what is important to them, what their strategy is, and what problems they face, and create notes in the CRM to remind us in future.
 
 
 During this we may find out that the organisation is not a good match, in which case mark the card in the new client pipeline as 'lost' even at this early stage. We want to track how early we 'lose' new business. We will never win everything, but our aim should be to move the loses earlier and earlier in the process. This is the perfect stage at which to lose. Marking something as lost now, rather than at a later stag is a big success.

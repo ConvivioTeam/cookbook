@@ -7,11 +7,12 @@
     * [Researching](new_client_recipe/researching.md)
     * [Connecting](new_client_recipe/connecting.md)
     * [Nurturing](new_client_recipe/nurturing.md)
-    * Learning and Thinking
+    * [Learning and Thinking](new_client_recipe/learning-and-thinking.md)
     * Proposing
     * Agreeing
     * Beginning
     * [Inspiration](new_client_recipe/inspiration.md)
+    * [Assessing](new_client_recipe/assessing.md)
 * [Delivery Recipe](delivery_recipe/README.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Git Repository Conventions](business_operation_recipe/git-repository-conventions.md)
