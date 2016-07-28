@@ -11,6 +11,7 @@
     * Proposing
     * Agreeing
     * Beginning
+    * [Inspiration](new_client_recipe/inspiration.md)
 * [Delivery Recipe](delivery_recipe/README.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Git Repository Conventions](business_operation_recipe/git-repository-conventions.md)
