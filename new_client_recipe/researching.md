@@ -15,3 +15,5 @@ That means we first need to understand what makes a client an ideal match for us
 
 During this we may find out that the organisation is not a good match, in which case mark the card in the new client pipeline as 'lost' even at this early stage. We want to track how early we 'lose' new business. We will never win everything, but our aim should be to move the loses earlier and earlier in the process. This is the perfect stage at which to lose. Marking something as lost now, rather than at a later stag is a big success.
 
+Once we have the basics of research on a client, the contacts and the potential opportunity in place, we can move onto [Connecting](/new_client_recipe/connecting.md) with them.
+
