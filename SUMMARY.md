@@ -3,6 +3,16 @@
 * [Introduction](README.md)
 * [Talent Recipe](talent_recipe/README.md)
 * [New Client Recipe](new_client_recipe/README.md)
+    * [Principles For Building New Client Relationships](new_client_recipe/principles-of-building-new-client-relationships.md)
+    * [Researching](new_client_recipe/researching.md)
+    * [Connecting](new_client_recipe/connecting.md)
+    * [Nurturing](new_client_recipe/nurturing.md)
+    * [Learning and Thinking](new_client_recipe/learning-and-thinking.md)
+    * Proposing
+    * Agreeing
+    * Beginning
+    * [Inspiration](new_client_recipe/inspiration.md)
+    * [Assessing](new_client_recipe/assessing.md)
 * [Delivery Recipe](delivery_recipe/README.md)
    * [Risk Management](delivery_recipe/risk_management.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
