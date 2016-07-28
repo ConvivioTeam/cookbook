@@ -60,3 +60,5 @@ It’s often difficult to measure a risk or the value behind the risk but it’s
 What’s vital in the management of risks is identifying them, talking openly about them, having someone “own” the risk and reviewing them regularly.
 
 If you’re prepared for a risk to occur then you’ve already reduced its impact which hopefully has saved the delivery.
+
+For more on risk management see [Developing a Positive Attitude to Risk](delivery_recipe/positive_risk_attitude.md)
