@@ -15,7 +15,13 @@
     * [Assessing](new_client_recipe/assessing.md)
 * [Delivery Recipe](delivery_recipe/README.md)
    * [Risk Management](delivery_recipe/risk_management.md)
-   * [Posotove Risk Attitude](delivery_recipe/positive_risk_attitude.md)
+      * [Positive Risk Attitude](delivery_recipe/positive_risk_attitude.md)
+   * User Stories
+   * Backlogs & Priorities
+   * Planning
+   * The Sprint
+   * Sprint Review
+   * Sprint Retrospective
 * [Business Operation Recipe](business_operation_recipe/README.md)
    * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
        * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
