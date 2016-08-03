@@ -16,12 +16,12 @@
 * [Delivery Recipe](delivery_recipe/README.md)
     * [Risk Management](delivery_recipe/risk_management.md)
         * [Positive Risk Attitude](delivery_recipe/positive_risk_attitude.md)
-    * User Stories
-    * Backlogs & Priorities
-    * Planning
-    * The Sprint
-    * Sprint Review
-    * Sprint Retrospective
+    * [User Stories](delivery_recipe/user_stories.md)
+    * [Backlogs & Priorities](delivery_recipe/backlogs_priorities.md)
+    * [Planning](delivery_recipe/sprint_planning.md)
+    * [The Sprint](delivery_recipe/sprint_cycle.md)
+    * [Sprint Review](delivery_recipe/sprint_review.md)
+    * [Sprint Retrospective](delivery_recipe/sprint_retrospective.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
         * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
