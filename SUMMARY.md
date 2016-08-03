@@ -9,8 +9,8 @@
     * [Nurturing](new_client_recipe/nurturing.md)
     * [Learning and Thinking](new_client_recipe/learning-and-thinking.md)
     * [Proposing](new_client_recipe/proposing.md)
-    * Agreeing
-    * Beginning
+    * [Agreeing](new_client_recipe/agreeing.md)
+    * [Beginning](new_client_recipe/beginning.md)
     * [Inspiration](new_client_recipe/inspiration.md)
     * [Assessing](new_client_recipe/assessing.md)
 * [Delivery Recipe](delivery_recipe/README.md)
