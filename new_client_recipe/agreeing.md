@@ -6,13 +6,14 @@ Once we have presented our proposal to the client we then need to agree to work 
 
 Either way, we'll want to do a thorough retrospective of our process at this stage
 
-**Steps to take:**
+**Steps to take**
 
 1. Schedule a retrospective with everyone from Convivio and our partners who were involved in the process.
 
 2. Use the [retrospective worksheet](https://docs.google.com/spreadsheets/d/1yyE8u4BqP5Vo_hnEddvupVduZ__ORjuRDLPL6tWL26U/edit#gid=0) \(the link is to the template folder, there will be a copy in the google drive folder for this opportunity\)
 
 3. Step through discussing the points, and looking for outcomes at the end
+
 
 ## Contract
 

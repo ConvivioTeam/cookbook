@@ -2,7 +2,7 @@
 
 So, we've assessed a new opportunity and decided to proceed. That means it's time for some learning and thinking to answer some key questions.
 
-## Steps to take
+**Steps to take**
 
 1. A member of the team from Convivio or a partner should work through all the information the client has provided to us \(in writing and verbally\).
 
@@ -38,9 +38,11 @@ We'll get to developing our proposal soon, but first we want to learn enough abo
 * What is the 'right size' of a first phase of delivery to address the top priorities?
 
 * Is there an understanding that digital services are living things, and we need to work in partnership, rather than just deliver a project? If not, what do we need to do to explain and educate on this?
+
 * How will our cookbook recipes help in delivering this service?
 
 * What is the story we can tell in our proposal?
+
 
 Once we have done the initial learning and thinking, it's time to [develop our proposal](/new_client_recipe/proposing.md).
 

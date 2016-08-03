@@ -17,9 +17,10 @@ At a very high level, our proposal should set out:
 3. Our recommendations
 
 4. Evidence to demonstrate our expertise and professionalism, and support our recommendations
+
 5. The story of working together - what's going to happen if they appoint us?
 
-## Steps To Take
+**Steps To Take**
 
 1. Organise a proposal workshop with the team from Convivio and partners.
 2. At the workshop create a '[storyboard](https://docs.google.com/document/d/1ldyxcGL1CS6HpPQoWgf87F7Ul5Tsqr-fl14UnJK6fCg/edit)' for the proposal _\(that's the template, a copy will be in the Proposing folder of the Opportunity folder on Google Drive\)_. Create a big version on the wall if meeting in person, and then just capture notes here. This shows each part of the story we need to tell, taking into account what the client has asked for, what we should cover \(see 'developing our proposal' above\), and particularly any questions we think the client needs a positive answer to in order to decide there is a good match.
@@ -39,8 +40,6 @@ We use [Pandadoc](https://app.pandadoc.com/a/#/dashboard/) _\(internal link\)_ f
 The written proposal will contain the detail. In the presentation we want to focus on the key parts, and tell more stories to support them. Review the storyboard, and decide which sections we should focus on most. What case studies should we present? What stories can we tell? What can we show them in terms of our process and tools?
 
 We should also use this as a chance to ask great questions.
-
-
 
 Once we've presented our proposal we move to the [agreeing](/new_client_recipe/agreeing.md) stage.
 

@@ -21,7 +21,7 @@ The key things to consider are:
 * Don't pretend to be anything you or Convivio are not. We call this putting on a 'telephone voice'. Just be yourself representing us the way we are.
 
 
-## Steps To Take
+**Steps To Take**
 
 1. Move the new client opportunity card into the Connecting column on the [New Clients pipeline screen](https://www.contactually.com/pipelines/86389) in Contactually.
 
