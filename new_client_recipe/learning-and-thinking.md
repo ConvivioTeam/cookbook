@@ -1,14 +1,6 @@
 # Learning and Thinking
 
-So far we've been nurturing a relationship with a contact, and now they've brought us an opportunity to work together. That means it's time for some learning and thinking to answer these key questions:
-
-1. Do we understand what the client needs?
-
-2. Can we provide it better than most other agencies?
-
-3. Should we pursue this opportunity?
-4. How should we approach it?
-5. What else do we need to know to make a great proposal?
+So, we've assessed a new opportunity and decided to proceed. That means it's time for some learning and thinking to answer some key questions.
 
 ## Steps to take
 
@@ -17,11 +9,11 @@ So far we've been nurturing a relationship with a contact, and now they've broug
 2. They should then write up a [New Opportunity Brief](https://docs.google.com/document/d/1_10cfMeMU-NlqYnKUjdjs5lmgfe3qBCEFwosYkQID5s/edit#heading=h.ehi1utb0s9ar) _\(that's the template version, but there'll be a copy in the root of the google drive folder for this opportunity ready for you to edit\)_. We put the information into this standard format so that \(a\) it's easy for other team members to quickly read up on the important things; \(b\) it makes us think about the right stuff; and \(c\) we can see if there are any important gaps in the information provided.
 
 3. Have another member of the team review this document and challenge it. What's missing? What isn't clear? Update it.
-4. Have two team-members work through the [New Opportunity Evaluation](https://docs.google.com/spreadsheets/d/15SuupWAB1X8Ge4QNfjpEDoF2jvUWfMkkikmkHbRsnZg/edit#gid=0) _\(that's the template version, but there'll be a copy in the root of the google drive folder for this opportunity ready for you to edit\)._
-5. Decide whether to pursue this opportunity. The score from the evaluation is only a starter for conversation. Have that discussion and make a decision. Don't be afraid to say no, as we are specialists and not everything will be a good fit.
-6. Plan in the time for the right team to work on the proposal. Book it out on the [Float schedule](https://convivio.float.com/) _\(internal link\)_.
-7. Go back to the client with any questions that have arisen. Update the New Opportunity Brief as necessary.
-8. Do any extra learning and thinking that has been identified.
+
+4. Plan in the time for the right team to work on the proposal. Book it out on the [Float schedule](https://convivio.float.com/) _\(internal link\)_.
+
+5. Go back to the client with any questions that have arisen. Update the New Opportunity Brief as necessary.
+6. Plan in a meeting with the team \(who should all have read the New Opportunity Brief in advance\) to run through the learning and thinking questions below.
 
 ## Learning and Thinking before Proposing
 
@@ -41,8 +33,9 @@ We'll get to developing our proposal soon, but first we want to learn enough abo
 
 * How would we prioritise what needs to be done?
 
+* What is the 'right size' of a first phase project to address the top priorities?
+* How will our cookbook recipes help?
+* What is the story we can tell in our proposal?
 
-
-
-Once we've decided to proceed, and we have done the initial learning and thinking, it's time to develop our proposal.
+Once we have done the initial learning and thinking, it's time to develop our proposal.
 
