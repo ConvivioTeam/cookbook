@@ -18,8 +18,9 @@ Then, the recipe we follow is:
 
 6. [Proposing](/new_client_recipe/proposing.md): We create a proposal document, presentation and anything else that helps the client to understand our proposed approach.
 
-7. Agreeing: Together we agree a plan of action for the collaboration and capture this in a contract to support the relationship.
-8. Beginning: We provide a smooth transition to active delivery of the proposal.
+7. [Agreeing](/new_client_recipe/agreeing.md): Together we agree a plan of action for the collaboration and capture this in a contract to support the relationship.
+
+8. [Beginning](/new_client_recipe/beginning.md): We provide a smooth transition to active delivery of the proposal.
 
 
 
