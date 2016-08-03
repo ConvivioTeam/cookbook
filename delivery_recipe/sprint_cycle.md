@@ -1,6 +1,6 @@
 # The Sprint Cycle
 
-The sprint is two week period of activity by the delivery team to work on and deliver the stories taken into the sprint. It’s the job of the Product Owner and Scrummaster to keep noise and interruptions away from the delivery team during this time to allow them to focus on the priority stories.
+The sprint a is two week period of activity by the delivery team to work on and deliver the stories taken into the sprint. It’s the job of the Product Owner and Scrummaster to keep noise and interruptions away from the delivery team during this time to allow them to focus on the priority stories.
 
 During the sprint members of the delivery team will select stories from the sprint backlog. As stories are worked on their progress is recorded in our delivery tool (usually Rally or Pivotal or something similar) so that we can clearly report whether or not the sprint is on target.
 
