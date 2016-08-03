@@ -2,10 +2,6 @@
 
 Each and every sprint begins with a sprint planning session. Sprint planning takes place with the Product Owner (PO) and the Delivery Team. It’s the PO’s job to explain the purpose of the sprint to the delivery team, to help them understand how each of the stories fits into the objectives set for the sprint. That understanding helps them make decisions about how to approach stories, their implementation and to challenge requirements and assumptions too.
 
-## Scouting the backlog
-
-Before we go into a planning session it’s important to spend time scouting the backlog to make sure it’s in good shape. The Scrummaster should be working with the PO to make sure that the highest priority stories are placed at the top of the product backlog, that they’re written well, easily understood, that they include any necessary supporting documentation and that the problem they solve fits with what the project and what the sprint is trying to achieve. There’s nothing worse than going into a sprint planning session with a bunch of half-written stories.
-
 ## Planning
 
 The planning session should be time boxed to 8 hours in total. If you finish in less time then give yourself a pat on the back. If you don’t finish in time it’s going to seem like a long day. Planning is an intensive day. You’ll learn a hard lesson and you’ll be far better prepared for the next session.

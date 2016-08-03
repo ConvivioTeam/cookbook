@@ -1,6 +1,6 @@
 # Backlogs and Priorities
 
-In a nutshell, a backlog is a list of user stories. We prioritise that backlog in order of what we think will deliver the most value. Simple.
+In a nutshell, a backlog is a prioritised list of user stories. The priorities are based on the value the stories will deliver, the dependencies on other parts of what we'll deliver, the amount of effort required to develop and any time critical events.
 
 ## Two Backlogs
 

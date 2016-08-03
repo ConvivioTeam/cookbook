@@ -31,6 +31,14 @@ If a user story doesn’t pass the tests then the failure is recorded and we pas
 
 ## Over or Under Estimating
 
-There will be occasions when not all stories are completed within the sprint or the stories are completed early. The planning session provides estimates and not guarantees of what will be delivered. When the estimates are not accurate it’s important to take the reasons for this and discuss them in the sprint review and the sprint retrospectives so that we can learn and improve the next time. It’s also important to discuss this openly with the Product Owner so they understand the reasons for the inaccuracy because this promotes openness and helps develop trust and confidence. Experience shows that over time, particularly on longer phases of work, the peaks and troughs of estimation accuracy even themselves out. Where the customer benefits is where a team works together for longer they find naturally more efficient ways of working and velocity increases.
+Estimates, by their very nature, are not exact. What we're looking to do with user story estimates is give ourselves a reasonably accurate estimation of the work we can expect to complete in a sprint.
+
+If, at the end of the sprint, not all user stories are finished (done-done) then this doesn't mean that the sprint has failed. What this does show is that we discovered a story to require more effort than expected, that a module didn't provide the input we expected or that there was some other influence that affected the sprint.
+
+If we have incomplete stories at the end of a sprint then we push those back into the backlog and it's up to the Product Owner whether or not they're priority stories for the next sprint. What we need to do is understand if there were particular reasons why our estimates were not accurate and take action to avoid those happening again in future.
+
+When you're delivering work on such a regular basis it quickly becomes apparent just how transparent the process is. People need to understand that when a sprint "slips" we discover that very quickly and are able to adapt and fix any issues very quickly. 
+
+In reality, experience shows us that our accuracy over the course of a longer term assignment improves as we understand more about what we're delivering. The velocity also tends to increase as the team becomes more efficient. Tracking the estimates and velocity over time show that the agile approach delivers consistently, at a high velocity, with regular improvements and with the high quality we should all expect.
 
 Next stage: [Sprint Review](delivery_recipe/sprint_review.md)

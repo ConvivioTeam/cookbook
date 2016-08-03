@@ -26,9 +26,9 @@ This is the solution that’s going to solve the problem. Describe what you want
 
 ## Show me an example
 
-You: I want to back up my harddrive
-Me: Who is I? What kind of user are you? What is your role? Specifically what do you want to back up? Do you need to back up everything? Why back up?
-You: As a superuser, I want to specify particular files or folders to backup so that my hard drive doesn’t become filled up with things I don’t need to keep locally
+You: I want people to be able to book their interview slots
+Me: Who are these people? What kind of user are they? What is their role? What will they want to achieve? Why do they need this?
+You: As an interviewee, I want to be able to book my own interview slot online, so I can quickly and easily arrange this to fit in with my work schedule
 
 Very quickly you’ve explained the problem clearly, I know who you are, specifically what you need and why. By understanding the what and the why we can discuss and explore the possible solutions to help with our estimates during project planning.
 
