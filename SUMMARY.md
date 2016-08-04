@@ -16,6 +16,7 @@
 * [Delivery Recipe](delivery_recipe/README.md)
     * [Risk Management](delivery_recipe/risk_management.md)
         * [Positive Risk Attitude](delivery_recipe/positive_risk_attitude.md)
+    * [Kanban](delivery_recipe/kanban.md)
     * [Scrum](delivery_recipe/scrum.md)
         * [User Stories](delivery_recipe/user_stories.md)
         * [Backlogs & Priorities](delivery_recipe/backlogs_priorities.md)
