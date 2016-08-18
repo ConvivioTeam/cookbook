@@ -15,6 +15,7 @@
     * [Assessing](new_client_recipe/assessing.md)
 * [Delivery Recipe](delivery_recipe/README.md)
     * [Risk Management](delivery_recipe/risk_management.md)
+        * [Assessing Risks](delivery_recipe/assessing_risks.md)
         * [Positive Risk Attitude](delivery_recipe/positive_risk_attitude.md)
     * [Kanban](delivery_recipe/kanban.md)
     * [Scrum](delivery_recipe/scrum.md)
