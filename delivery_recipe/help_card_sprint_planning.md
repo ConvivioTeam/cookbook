@@ -12,11 +12,11 @@ The planning meeting is timeboxed to 8 hours. However, most of the time we’ll 
 
 This is a mandatory meeting for the delivery team, the delivery manager and the product owner. Additionally certain subject matter experts from the client or 3rd parties may need to attend all or part of the meeting.
 
-| **Delivery Team **     | Discusses the user stories in detail, agrees approach to each story, estimates the effort required. |
-| -------------         | -------------                                                                                        |
-| **Delivery Manager **  | Runs the meeting, keeps the agenda, focus on objectives.                                            |
-| -------------         | -------------                                                                                        |
-| **Product Owner **     | Explains the objectives for the meeting. Supports the delivery team.                                |
+| ** Delivery Team **     | Discusses the user stories in detail, agrees approach to each story, estimates the effort required |
+| -------------------     | -------------------                                                                                |
+| ** Delivery Manager **  | Runs the meeting, keeps the agenda, focus on objectives                                            |
+| -------------------     | -------------------                                                                                |
+| ** Product Owner **     | Explains the objectives for the meeting. Supports the delivery team                                |
 
 ## Before the Meeting
 
