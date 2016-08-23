@@ -26,6 +26,8 @@
         * [The Sprint](delivery_recipe/sprint_cycle.md)
         * [Sprint Review](delivery_recipe/sprint_review.md)
         * [Sprint Retrospective](delivery_recipe/sprint_retrospective.md)
+    * [Scrum Help Cards](delivery_recipe/scrum_help_cards.md)
+        * [Help Card - Sprint Planning](delivery_recipe/help_card_sprint_planning.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
         * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)

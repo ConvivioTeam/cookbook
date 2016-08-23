@@ -2,7 +2,7 @@
 
 We've put together a series of help cards for you to reference during the most regular meetings. These will help you keep on the Agile track and deliver in the Convivio way.
 
-[Sprint Planning]()
+[Sprint Planning](delivery_recipe/help_card_sprint_planning.md)
 [Sprint Review]()
 [Sprint Retrospective]()
 
