@@ -68,6 +68,7 @@ There are two artefacts that sprint planning will produce:
 
 * a list of user stories and tasks that will achieve the sprint goal
 
-| one | two |
+
+| one   | two  |
 | three | four |
-| five | six |
+| five  | six  |
