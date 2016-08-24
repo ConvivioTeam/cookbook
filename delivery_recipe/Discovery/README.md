@@ -4,7 +4,7 @@ A discovery is the first part of a delivery stream.
 
 It allows us to collaborate with the client to explore the mission that has been set for the stream.
 
-A discovery is not a one off thing. It's required to start a stream of work, but then key points of change or challenge may highlight the need for another discovery.
+A discovery is not a one-off thing. It's required to start a stream of work, but then key points of change or challenge may highlight the need for another discovery.
 
 The process for discovery is:
 
@@ -17,4 +17,5 @@ The process for discovery is:
 4. Present the [Discovery Findings](/delivery_recipe/Discovery/discovery-findings.md)
 
 5. Transition to a [Prototyping](/delivery_recipe/Prototyping/README.md) phase to test the findings
+
 

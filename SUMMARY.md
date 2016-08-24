@@ -20,6 +20,7 @@
         * [Discovery Planning](delivery_recipe/Discovery/discovery-planning.md)
         * [Discovery Modules](delivery_recipe/Discovery/discovery-modules.md)
         * [Discovery Findings](delivery_recipe/Discovery/discovery-findings.md)
+        * [Discovery Principles](delivery_recipe/Discovery/discovery-principles.md)
     * [Prototyping](delivery_recipe/Prototyping/README.md)
     * [Delivery](delivery_recipe/Delivery/README.md)
     * [Kanban](delivery_recipe/kanban.md)
