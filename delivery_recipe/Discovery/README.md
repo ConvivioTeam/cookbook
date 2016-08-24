@@ -13,6 +13,8 @@ The process for discovery is:
 2. Do [Discovery Planning](/delivery_recipe/Discovery/discovery-planning.md) to decide which modules are required and how to deliver them
 
 3. Deliver the required [Discovery Modules](/delivery_recipe/Discovery/discovery-modules.md)
-4. Present the Discovery Findings
-5. Transition to a Prototyping phase to test the findings
+
+4. Present the [Discovery Findings](/delivery_recipe/Discovery/discovery-findings.md)
+
+5. Transition to a [Prototyping](/delivery_recipe/Prototyping/README.md) phase to test the findings
 
