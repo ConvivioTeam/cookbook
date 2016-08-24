@@ -1,4 +1,4 @@
-\#Strategy
+# Strategy
 
 The aim of this phase of our work with a client is to:
 
