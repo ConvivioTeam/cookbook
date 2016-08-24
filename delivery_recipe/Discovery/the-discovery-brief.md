@@ -20,19 +20,24 @@ Good missions to set for a discovery would be along the lines of:
 
 * Reduce the calls to our support desk by 15%
 
+
 Bad examples are:
 
 * Build us a new website
 
+* We need a system to store all our customer data
 * We need to move to the cloud
 
 * We need a mobile app
 
-These aren't suitable missions because they state an output rather than an outcome. The output could be delivered but the organisation might not see any benefit from its investment of time and money.
+
+These aren't suitable missions because they state an output rather than an outcome. The output could be delivered perfectly but the organisation still might not see any benefit from its investment of time and money. Also, it closes off potentially better solutions to the underlying problem.
+
+So — keep the mission focused on the problem to be solved, not potential solutions.
 
 ## The Timebox
 
-There is no 'right' duration for a discovery period but most are between 2 and 6 weeks. Much shorter than this means it's unlikely you're digging into the mission, opportunities and any obstacles properly. Much longer than this and the stream of work loses momentum because the goal is too 
+There is no 'right' duration for a discovery period but most are between 2 and 6 weeks. Much shorter than this means it's unlikely you're digging into the mission, opportunities and any obstacles properly. Much longer than this and you effectively slip into a waterfall approach of trying to plan everything precisely upfront, and by the time you come to deliver it, lots will have changed.
 
-The Budget
+It's worth setting a timebox. It's okay if not everything gets done in that time, what's important is to set some momentum for the stream of work.
 
