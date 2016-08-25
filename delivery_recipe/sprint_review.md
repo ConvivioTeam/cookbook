@@ -13,3 +13,4 @@ The demo will walk the audience through each of the completed stories. Each of t
 This is a good time to build relationships with the wider team, to speak to people individually and as a group. Use this time to help people understand what’s being delivered, encourage them to provide feedback and suggestions for improvement, talk to them about how this fits in with the larger programme of work and where the development plans to go next.
 
 Next stage: [Sprint Retrospective](delivery_recipe/sprint_retrospective.md)
+Help card: [Sprint Review](delivery_recipe/help_card_sprint_review.md)

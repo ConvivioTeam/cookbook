@@ -20,3 +20,4 @@ At the end of the planning session you should have:
 * The sprint objectives recorded in the sprint summary document
 
 Next stage: [The Sprint](delivery_recipe/sprint_cycle.md)
+Help card: [Sprint Planning](delivery_recipe/help_card_sprint_planning.md)
