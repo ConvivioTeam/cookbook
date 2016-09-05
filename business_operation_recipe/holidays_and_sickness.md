@@ -1,10 +1,10 @@
 # Holidays and Sickness
 
-We all receive a minimum of 25 days paid holiday each year in addition to the usual UK bank holidays. You'll need to keep a few days spare while we close the office between Christmas and New Year.
+We all receive a minimum of 25 days paid holiday each year in addition to the usual UK bank holidays.
 
 We're in the process of experimenting with unlimited holidays. We're going to encourage people to take their full 25 day holiday allowance. If you decide that you need more holiday, your brain needs a rest, you want to spend more time pedalling up mountains, sampling wine in France or enjoying the surf in Cornwall then the policy is there to support your work/life balance. 
 
-Before you book any holiday just make sure you talk it through with peers and that you apply common-sense thinking. If the time off doesn't affect your projects or sales then you're free to flex your work balance. 
+Before you book any holiday just make sure you talk it through with peers and that you apply common-sense thinking. If the time off doesn't affect your projects, sales or personal development then you're free to flex your work balance. 
 
 We'll be monitoring holiday more closely during this experiment so that we all understand the impact, positive and negative, that holiday has on us and on the company.
 
