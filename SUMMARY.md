@@ -23,6 +23,7 @@
         * [Discovery Principles](delivery_recipe/Discovery/discovery-principles.md)
     * [Prototyping](delivery_recipe/Prototyping/README.md)
     * [Delivery](delivery_recipe/Delivery/README.md)
+        * [Steering Group Meetings](delivery_recipe/Delivery/steering_group_meetings.md)
     * [Kanban](delivery_recipe/kanban.md)
     * [Scrum](delivery_recipe/scrum.md)
         * [User Stories](delivery_recipe/user_stories.md)
