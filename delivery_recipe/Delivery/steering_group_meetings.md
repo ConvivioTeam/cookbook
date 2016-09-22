@@ -2,9 +2,13 @@
 
 ## What is a steering group?
 
-A steering group is generally made up of senior managers within the client’s business. Steering groups are set up to provide direction to a project, programme of work or a constant organisational change.
+A steering group is generally made up of stakeholders within the client’s business. Steering groups are set up to provide direction to a project, programme of work or a constant organisational change.
 
-It’s the group’s job to listen to the updates from the project team, to help resolve any issues and to discuss and make decisions about proposals for the future. Those proposals can include a change in direction for the project, a change in budget, risk management requests for support. The people in the steering group are usually in a position to support and remove blockers when required by the project.
+## What is the purpose of a steering group?
+
+The steering group is put in place to maximise the value delivered by the stream of work, and to minimise and manage the risks.
+
+It’s the group’s job to listen to the updates from the project team, to help resolve any issues and to discuss and make decisions about proposals for the future. Those proposals can include a change in direction for the project, a change in budget, risk management requests for support. The people in the steering group are usually in a position to support and remove blockers when required by the project. 
 
 ## How often should a steering group meeting be held?
 
