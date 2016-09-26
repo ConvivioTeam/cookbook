@@ -41,6 +41,7 @@
     * [Risk Management](delivery_recipe/risk_management.md)
             * [Assessing Risks](delivery_recipe/assessing_risks.md)
             * [Positive Risk Attitude](delivery_recipe/positive_risk_attitude.md)
+    * [The Coach](delivery_recipe/the_coach.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
         * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
