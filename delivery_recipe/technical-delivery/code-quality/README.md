@@ -37,13 +37,17 @@ For example, when working on Drupal projects we subscribe to the community-agree
 Code changes should always be reviewed. This includes:
 
 * peer review, through, for example, pull requests;
-* [testing](/delivery_recipe/technical-delivery/testing/README.md), both:
-  * automated testing, and,
-  * user testing.
+* [testing](/delivery_recipe/technical-delivery/testing/README.md), through combinations of:
+  * automated testing,
+  * user testing,
+  * design review, and,
+  * UX review.
   
 ### Version control is important
 
 With a number of developers working on a software project it is important that changes to the codebase are managed effectively. A version control tool is vital. There are a number of options, of course, but we prefer to work with [Git](https://git-scm.com/) where possible.
+
+There are also good disciplines for branching models and workflows in version control. [Gitflow](http://nvie.com/posts/a-successful-git-branching-model/) is what we usually prefer, but [other workflows](https://www.atlassian.com/git/tutorials/comparing-workflows/) may be more appropriate in certain circumstances.  
 
 If it is possible, we prefer to make our projects themselves open source. 
 

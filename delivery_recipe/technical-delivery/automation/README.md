@@ -13,13 +13,13 @@ There are many [task runners](https://www.smashingmagazine.com/2016/06/harness-m
 #### Frontend
 Task runners such as [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/) are important and useful frontend development tools, for tasks such as: 
 
-- Compiling SASS
-- Minifying SASS
-- Minifying JS
-- Concatenating/Uglifying JS
+- Compiling and minifying CSS
+- Compiling and minifying JS
 - Compressing images
 - Watching for changes and running certain tasks on file change
 - Refreshing the browser on file change
+
+Frontend dependencies should be managed with a package management tool, the most widely advocated being [NPM](https://www.npmjs.com/) with [Browserify](http://browserify.org) (though [other options](https://www.slant.co/topics/1488/~front-end-package-managers) are available, in certain circumstances).  
 
 #### Backend
 
@@ -29,9 +29,13 @@ Other similar dependency managers are available and should be employed for other
 
 ## Continuous integration
 
-We use [continuous integration](http://www.martinfowler.com/articles/continuousIntegration.html) automation tools (and the [process and practices associated with continuous integration](https://www.thoughtworks.com/continuous-integration)) to continually build the development environment, run [tests](../testing/README.md) and return results. Automated builds are usually triggered when code is checked into the designated branch of the code source control repository, for example, after a feature pull request has been successfully reviewed and merged. 
+We use [continuous integration](http://www.martinfowler.com/articles/continuousIntegration.html) automation tools (and the [process and practices associated with continuous integration](https://www.thoughtworks.com/continuous-integration)) to continually build the development environment, run [tests](../testing/README.md) and return results. Automated builds are usually triggered when code is checked into the designated branch of the code source control repository, for example, after a feature pull request has been successfully reviewed and merged.
 
 This practice ensures errors are detected early by the development team, so they can be fixed and prevented from escalating or being accidentally deployed to production.
+
+#### Build it when you need it
+
+An important benefit of automating the process of development and deployment through continuous integration is that many tasks can be run on the deployment server (dev, staging, QA, production or wherever) during deployment. Automated tasks, especially those covered by package and dependency management, can be run on the server by the automation tools themselves. This saves unnecessary code from being committed into the project repository, keeping it clean and reserved for project-specific code only.
 
 ## Continuous deployment
 
