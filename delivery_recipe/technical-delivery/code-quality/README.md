@@ -39,8 +39,8 @@ Code changes should always be reviewed. This includes:
 * peer review, through, for example, pull requests;
 * design and UX reviews;
 * [testing](/delivery_recipe/technical-delivery/testing/README.md), both:
-  * automated testing,
-  * user testing,
+  * automated testing, and
+  * user testing.
   
 ### Version control is important
 
