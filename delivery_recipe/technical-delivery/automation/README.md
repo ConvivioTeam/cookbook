@@ -23,7 +23,7 @@ Task runners such as [Grunt](http://gruntjs.com/), [Gulp](http://gulpjs.com/) ar
 
 #### Backend
 
-We advocate PHP development uses the [Composer](https://getcomposer.org/) dependency manager as much as possible. Composer is becoming increasingly-well supported by open-source PHP software projects and the de facto standard for building PHP software distributions and projects.
+We advocate PHP development using the [Composer](https://getcomposer.org/) dependency manager as much as possible. Composer is becoming increasingly-well supported by open-source PHP software projects and the de facto standard for building PHP software distributions and projects.
   
 Other similar dependency managers are available and should be employed for other languages and technologies. 
 
