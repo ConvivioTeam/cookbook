@@ -1,3 +1,25 @@
 {
-  "plugins": ["collapsible-menu"]
+  "title": "The Convivio Cookbook",
+  "plugins": ["collapsible-menu"],
+  "links": {
+    "sharing": {
+      "google": null,
+      "facebook": null,
+      "twitter": null,
+      "all": null,
+      "instapaper": null
+    },
+    "sidebar": {
+      "email": {
+        "label": "Get in touch",
+        "title": "hello@weareconvivio.com",
+        "link": "mailto:hello@weareconvivio.com"
+      },
+      "twitter": {
+        "label": "Follow us on Twitter",
+        "title": "@weareconvivio",
+        "link": "https://twitter.com/weareconvivio"
+      }
+    }
+  }
 }
