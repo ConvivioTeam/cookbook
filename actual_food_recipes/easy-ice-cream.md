@@ -1,3 +1,6 @@
+---
+type: recipe
+---
 # Easy Ice Cream
 
 Ice cream is delicious, right? But it can also be easy to make - and then you can experiment with flavours more too.

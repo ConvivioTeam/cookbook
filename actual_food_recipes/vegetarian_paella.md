@@ -1,3 +1,6 @@
+---
+type: recipe
+---
 # Vegetarian Paella
 **Joe Baker**
 

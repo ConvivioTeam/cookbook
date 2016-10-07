@@ -1,0 +1,27 @@
+{% extends template.self %}
+
+
+{% block body %}
+
+{{ super() }}
+
+{# This block doesn't work for some reason. #}
+
+{% endblock %}
+
+{% block style %}
+{{ super() }}
+
+<link rel="stylesheet" href="/styles/styles.css">
+
+<!--<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>-->
+
+
+{% endblock %}
+
+{% block javascript %}
+{{ super() }}
+
+{# This block doesn't work for some reason. #}
+
+{% endblock %}

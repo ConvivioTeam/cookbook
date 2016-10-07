@@ -1,3 +1,7 @@
+---
+type: recipe
+---
+
 # Aubergine Curry
 **Joe Baker**
 
