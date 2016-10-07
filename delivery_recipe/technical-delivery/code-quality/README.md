@@ -37,11 +37,10 @@ For example, when working on Drupal projects we subscribe to the community-agree
 Code changes should always be reviewed. This includes:
 
 * peer review, through, for example, pull requests;
-* [testing](/delivery_recipe/technical-delivery/testing/README.md), through combinations of:
+* design and UX reviews;
+* [testing](/delivery_recipe/technical-delivery/testing/README.md), both:
   * automated testing,
   * user testing,
-  * design review, and,
-  * UX review.
   
 ### Version control is important
 
