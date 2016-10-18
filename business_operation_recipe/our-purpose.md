@@ -13,6 +13,9 @@ We define the company in five layers, building up towards our purpose. Each laye
 * Purpose: The single reason why our company exists.
 
 
+
+![](/assets/ConvivioPurpose.png)
+
 ## Our Five Values
 
 1. **Healthy: **putting people first, looking after ourselves and others, looking long-term, working sustainably. Working with integrity, being honest and frank, being ethical, earning trust. Doing the right thing.
@@ -56,5 +59,4 @@ We define the company in five layers, building up towards our purpose. Each laye
 ## Our One Purpose
 
 1. We help organisations work better for people
-
 
