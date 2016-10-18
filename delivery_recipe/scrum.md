@@ -16,6 +16,8 @@ Scrum is an easy framework to understand but involves a lot more work to impleme
 
 Scrum is an iterative journey. There is a 2 week cycle time, referred to as **sprints**, during which we discuss and agree priorities, we agree technical approaches, we perform user experience research, we investigate content, we develop and build, we test and we deliver. Most important of all, we talk. Lots.
 
+![The key steps in a two week sprint cycle](/images/sprint-cycle.png)
+
 The key steps in scrum are: 
 
 * [Sprint Planning](delivery_recipe/sprint_planning.md) - Scrum starts with a planning session where we look at the priorities set by the Product Owner
