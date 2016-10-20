@@ -25,6 +25,7 @@
     * [Delivery](delivery_recipe/Delivery/README.md)
         * [Steering Group Meetings](delivery_recipe/Delivery/steering_group_meetings.md)
         * [Kanban](delivery_recipe/kanban.md)
+        * [Kick Starting a Project](delivery_recipe/kick_starting_a_project.md)
         * [Scrum](delivery_recipe/scrum.md)
             * [User Stories](delivery_recipe/user_stories.md)
             * [Backlogs & Priorities](delivery_recipe/backlogs_priorities.md)
