@@ -1,35 +1,42 @@
 # Kick Starting a Project
 
-Once a project has been sold the next step is usually an intense discovery process to map out processes, to look at possible solutions and to identify the high level requirements (epics). At the end of the discovery process the next step is to hand the client over to the project delivery team to begin the process of developing what’s been agreed.
+Once we agree a programme of work the next step is usually an intense discovery process to map out processes, to look at possible solutions and to identify the high level requirements (epics). At the end of the discovery process the next step is to move to the delivery phase to begin the process of developing what's been agreed.
 
-## Where to start
+## Getting started
 
-It can be daunting when you first begin a project. The expectations are high, there is excitement among those who have been involved in the process so far and it’s your job to pick up the baton and see this through to the finish.
+It can be daunting when you first begin any project or change programme. The expectations are high, there is excitement among those who have been involved in the process so far and it’s your job to pick up the baton and see this through to the finish.
 
-The first step in the process of taking the project into the delivery phase is the handover from the discovery or sales team to the project delivery team. To maintain continuity and the trust of the client the handover will involve:
+## Developing client relationships
+
+Before anything starts it’s good to begin by sitting down with the Product Owner to talk through the work and what they can expect. There is no harm in going over some of the requirements that have already been discussed.
+
+You will need to be clear about both of your positions, where the responsibilities lie, setting out the approach the team will take, how the epics will be prioritised, broken down into stories and then further down into specific tasks. Explain the product backlog, why this needs to be reviewed and updated regularly. Make sure the Product Owner understands Scrum and specifically what is required of them. These changes are your joint responsibility. It's imperative that you both understand and agree the approach.
+
+You'll be meeting with the client regularly so now is a good time to book those initial meetings, get the dates in people’s diaries, get the rooms booked and make sure there’s nothing obvious that can get this project off to a bad start. Explain why the meetings are important and how they will affect the life of the project.
+
+## Discovery
+
+There is work to be done before we can move into the delivery. First of all we need to carry out a discovery phase:
 
 * Introductions - introducing the client to the project delivery team
 * Project team - key contacts within the client
-* Epics - the key, high level requirements, initial priorities
+* What is the current process (assuming one already exists)?
+* Who are the users?
+* What is driving this change process? What do the users want or need?
 * Business and project goals - why are we doing this?
 * Budget - how much do we have to deliver with?
 * Schedule - what are the key dates?
 * Risks - known risks to manage, mitigation already identified
-* Reports - specific requirements for reporting
 
-It’s important to fully understand what you’re expected to deliver, why and who the users are before you delve into the delivery.
+The discovery is all about mapping processes, looking into the purpose of those processes and investigating new and better ways to achieve what needs to be done. Generally there is a lot of drawing on whiteboards and using postits to illustrate processes and that approach tends to encourage people to get involved, to listen and to share their ideas.
 
-## Developing client relationships
+The output from a discovery are the epics, the high level requirements that the delivery team will work on.
 
-Before anything starts it’s good to begin by sitting down with the Product Owner to talk through the project and what they can expect. There is no harm in going over some of the requirements that have already been discussed.
-
-You need to assert your authority early on by setting out the approach the team will take, how the epics will be prioritised, broken down into stories and then further down into specific tasks. Explain the product backlog, why this needs to be reviewed and updated regularly. Make sure the Product Owner understands Scrum and specifically what is required of them. This is your project, make sure you deliver it your way.
-
-We’ll be meeting with the client regularly so now is a good time to book those initial meetings, get the dates in people’s diaries, get the rooms booked and make sure there’s nothing obvious that can get this project off to a bad start. Explain why the meetings are important and how they will affect the life of the project.
+For a more in-depth look at what's involved take a look at the [Discovery](delivery_recipe/Discovery/README.md) pages.
 
 ## Prioritising epics
 
-The epics are like chapters in the project story. They identify the structure of the story that your story is going to tell. Although the order of the epics might have been agreed during the discovery, once the team have looked further into the details of how they will be delivered, the identification of vulnerabilities or dependencies could mean that you need to switch some of those epics around. Of course, all of this will be agreed with the Product Owner.
+The epics are like chapters in the project story. They identify the structure of the story that you're going to tell. Although the order of the epics might have been agreed during the discovery, once the team have looked further into the details of how they will be delivered, the identification of vulnerabilities or dependencies could mean that you need to switch some of those epics around. Of course, all of this will be agreed with the Product Owner.
 
 An important point to stress is that when the priority of epics is set, that doesn’t mean they’re set in stone. Making that point to the Product Owner can help you progress more quickly when they understand that the decisions they make today can be changed tomorrow or next month as requirements change or as you react to new information.
 
