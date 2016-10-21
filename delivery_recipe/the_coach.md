@@ -1,12 +1,12 @@
 # The Coach
 
-The Product Owner role is both key to success and is a difficult role to carry out well. The person selected for this role is expected to deliver what’s needed by the business, they need to focus on the users and they play a vital role in protecting and directing the delivery team. It’s not for the faint hearted.
+When delivering a digital service, the Product Owner role is key to success - but is a difficult role to carry out well. The person selected for this role is expected to deliver what’s needed by the business, focus on the users and also play a vital role in protecting and directing the delivery team. It’s not for the faint hearted. They need help to succeed.
 
-The scrum master is a coach. That coaching role is there to support the Product Owner to help them ask the right questions, to help them see the immediate priorities and to help them set a longer term roadmap. That roadmap needs to fit with the availability of the team. There must be the budget to support those and the plan needs to fit with operational expectations too. It’s difficult for the Product Owner to keep on top of those while making decisions for the team each day. That’s where the role of the coach fits in.
+The scrum master is a coach for the product owner, and the delivery team. That coaching role is there to support the Product Owner to help them ask the right questions, to help them see the immediate priorities and to help them set a longer term roadmap. That roadmap needs to fit with the availability of the team. There must be the budget to support those and the plan needs to fit with operational expectations too. It’s difficult for the Product Owner to keep on top of those while making decisions for the team each day. That’s where the role of the coach fits in.
 
 ## Supporting Material
 
-To deliver well, to make intelligent decisions, the Product Owner needs to be well informed. As a coach you need to prepare and present key information that enables the Product Owner to make those decisions.
+To deliver well, to make intelligent decisions, the Product Owner needs to be well informed. As a coach you need to prepare and present key information that enables the Product Owner to make those decisions and earn the trust and backing of their stakeholders.
 
 ### Budget
 Prepare a document that shows the overall budget, the spend so far and the remaining budget. You will need to prepare forecasts and to enable the Product Owner to “play with the numbers” so have the numbers available and the facility to mock up scenarios so that you can try all the “what if” ideas.
