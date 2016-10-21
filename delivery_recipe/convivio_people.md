@@ -30,9 +30,7 @@ Once you’ve established your relationship with the client the hard work doesn�
 
 ## Relaxed but professional
 
-We don’t strive to be another corporate behemoth. Our style is far more casual but professional. When you meet with a customer for the first or the hundredth time, be polite, courteous, ready to listen and confident in your suggestions and decisions. Approach the meeting as though you’re about to coach a good friend. You’re equals in the relationship so don’t allow yourself to fall into a slave role.
-
-Some clients will ask for more. And more. Again and again. Don’t bow to that pressure. It’s up to us to implement and use the controls available to us. When a client insists that we implement more, they have to understand that something else must give. You need to stand up to clients, to explain the limitations, to guide them through alternative ways, to help them define the real priorities and help them achieve the most they can achieve within the time and budget available.
+We don’t strive to be another corporate behemoth. Our style is far more casual but professional. When you meet with a customer for the first or the hundredth time, be polite, courteous, ready to listen and confident in your suggestions and decisions. Approach the meeting as though you’re about to coach a good friend. You each have different roles to play but they're equally important. While the Product Owner has the overall responsibility for this change, it's up to you, as a Delivery Manager to listen to their needs, to understand what's really important, to identify the opportunities to deliver real value and to help steer the Product Owner in that direction. It can be easy to get caught up in the pretty stuff. Set your navigation for the true destination and avoid the unnecessary scenic route.
 
 ## Plan ahead
 
