@@ -2,7 +2,7 @@
 
 When delivering a digital service, the Product Owner role is key to success - but is a difficult role to carry out well. The person selected for this role is expected to deliver what’s needed by the business, focus on the users and also play a vital role in protecting and directing the delivery team. It’s not for the faint hearted. They need help to succeed.
 
-The scrum master is a coach for the product owner, and the delivery team. That coaching role is there to support the Product Owner to help them ask the right questions, to help them see the immediate priorities and to help them set a longer term roadmap. That roadmap needs to fit with the availability of the team. There must be the budget to support those and the plan needs to fit with operational expectations too. It’s difficult for the Product Owner to keep on top of those while making decisions for the team each day. That’s where the role of the coach fits in.
+The Delivery Manager is a coach for the product owner, and the delivery team. That coaching role is there to support the Product Owner to help them ask the right questions, to help them see the immediate priorities and to help them set a longer term roadmap. That roadmap needs to fit with the availability of the team. There must be the budget to support those and the plan needs to fit with operational expectations too. It’s difficult for the Product Owner to keep on top of those while making decisions for the team each day. That’s where the role of the coach fits in.
 
 ## Supporting Material
 
@@ -41,7 +41,7 @@ Showing the progression of risks, their change in status (likelihood and impact)
 
 ## Building Relationships
 
-As a scrum master and coach you need to develop the trust and confidence of the client. On a daily basis you’ll be working alongside the Product Owner. Less often, but just as importantly, you’ll be dealing with the stakeholders.
+As a Delivery Manager and coach you need to develop the trust and confidence of the client. On a daily basis you’ll be working alongside the Product Owner. Less often, but just as importantly, you’ll be dealing with the stakeholders.
 
 The expectation is that you, as a coach, will be open and honest with the client. Difficult conversations, particularly those relating to finance and risk, are easier to have earlier on. Ignoring problems doesn’t make them go away, instead they tend to escalate in impact and cost and that only makes the conversation more difficult.
 
