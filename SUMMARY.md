@@ -46,6 +46,7 @@
         * [Testing](delivery_recipe/technical-delivery/testing/README.md)
         * [Automation](delivery_recipe/technical-delivery/automation/README.md)
         * [Security](delivery_recipe/technical-delivery/security/README.md)
+    * [The Coach](delivery_recipe/the_coach.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
         * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
