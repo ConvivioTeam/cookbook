@@ -4,7 +4,11 @@ This is a joint effort. Convivio don’t parachute into projects, do their magic
 
 ## Understanding the role of the team
 
-The ideal team is made up of experience, skill and authority. Experience provides us with deep, wide-ranging knowledge that we use to understand what needs to be done. The skill provides us with the tools that enable us to deliver great products. The authority clears the path of obstructions and allows “the team” to make decisions in the best interest of the business and its users.
+The ideal team is made up of experience, skills and authority.
+
+* Experience - provides us with deep, wide-ranging knowledge that we use to understand what needs to be done
+* Skills - provides us with the tools that enable us to deliver great products
+* Authority - clears the path of obstructions and allows “the team” to make decisions in the best interest of the business and its users
 
 ## Roles
 
@@ -12,7 +16,7 @@ The ideal team is made up of experience, skill and authority. Experience provide
 
 The Product Owner (PO) is essential to the success of a project. They represent the client’s business, its needs and they own the project. There is a huge difference between a Product Owner and a good Product Owner.
 
-A good PO understands their business, its objectives, what it needs to achieve and they have the authority to make decisions throughout the life of the change cycle.
+A good PO understands their business, its objectives, what it needs to achieve and they have the authority to make decisions throughout the life of the change cycle. A good PO dedicates the necessary time to collaborate with the team, to participate in all of the the daily standups, review and planning meetings, or they provide a suitable assistant who can stand in for them.
 
 The PO’s role in the project is:
 
@@ -26,20 +30,22 @@ The PO’s role in the project is:
 
 For long term projects or change programmes it’s important to have someone outside of the project provide a high-level bridge between the delivery team and the business.
 
-The Service Delivery Director (SDD) has experience of change and strategy to keep the client ahead of the change programme, to plan further ahead, to identify opportunities and to discuss these with shareholders. Discussing these ahead of time keeps the business one step ahead, providing shareholders with the information to make informed decisions about steering the business and aligning the different departments.
+The Service Delivery Director (SDD) has experience of change and strategy to keep the client ahead of the change programme, to plan further ahead, to identify opportunities and to discuss these with stakeholders. Discussing these ahead of time keeps the business one step ahead, providing stakeholders with the information to make informed decisions about steering the business and aligning the different departments.
 
-The SDD will support the delivery team and the PO but will not interfere with the day-to-day delivery.
+On a different level, in support of the delivery team, the SDD will also provide coaching and support to the Product Owner and the Delivery Team. Being less connected to the day-to-day activities they can view the work from a different perspective, offer alternative solutions and provide different thinking that can question decisions being made. This is not intended to contradict the team, only to confirm their thinking and decisions.
 
 ### Service Delivery Manager
 
 The Service Delivery Manager (SDM) is the conductor in the change orchestra. Their job is to:
 
 * support the Product Owner
-* support the and the Delivery Team
+* support the Delivery Team
 * lead meetings
 * keep the delivery on track
 * produce the management reports
 * present progress to the steering group
+* facilitate communication within the delivery team
+* communicate progress and plans to the wider business
 
 The SDM is not a project manager, they’re more akin to a coach. The SDM provides the support to the delivery team to keep the delivery running smooth while supporting the Product Owner to keep them ahead of what’s being delivered now so they can plan and prepare in advance.
 
@@ -75,6 +81,6 @@ The developers in the delivery team listen to the PO as they describe what they 
 Key aspects of any developer are:
 
 * to think about longevity, security, adaptability, flexibility and usability of what’s being built
+* to support other members of the delivery team
 * to highlight risks and opportunities as they arise
 * to challenge the thinking of others so that choices are fully thought out
-* to support other members of the delivery team
