@@ -44,6 +44,7 @@
         * [Backlog Scouting](/delivery_recipe/backlog_scouting.md)
         * [Sprint Planning](/delivery_recipe/sprint_planning.md)
         * [Sprinting](/delivery_recipe/sprint_cycle.md)
+            * [Daily Standup]()
             * [Design in Sprints]()
             * [User Testing in Sprints]()
             * [Quality Control in Sprints]()
