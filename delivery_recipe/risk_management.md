@@ -61,4 +61,7 @@ What’s vital in the management of risks is identifying them, talking openly ab
 
 If you’re prepared for a risk to occur then you’ve already reduced its impact which hopefully has saved the delivery.
 
-For more on risk management see [Developing a Positive Attitude to Risk](delivery_recipe/positive_risk_attitude.md)
+For more on risk management see
+
+* [Developing a Positive Attitude to Risk](delivery_recipe/positive_risk_attitude.md)
+* [Assessing Risks](delivery_recipe/assessing_risks.md)
