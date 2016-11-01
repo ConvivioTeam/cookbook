@@ -40,6 +40,7 @@
         * [Scrum](/delivery_recipe/scrum.md)
         * [Inputs to Delivery](/delivery_recipe/inputs_to_delivery.md)
         * [Delivery Kickoff](/delivery_recipe/kick_starting_a_project.md)
+        * [User Stories](/delivery_recipe/user_stories.md)
         * [Backlog Management](/delivery_recipe/backlogs_priorities.md)
         * [Backlog Scouting](/delivery_recipe/backlog_scouting.md)
         * [Sprint Planning](/delivery_recipe/sprint_planning.md)
