@@ -62,7 +62,7 @@
             * [Kanban](/delivery_recipe/kanban.md)
             * [Lean]()
     * [Service Management]()
-    * [Our Digital Service Standards]()
+    * [Our Digital Service Standards](/delivery_recipe/digital_service_standards.md)
         * [Technical Standards](/delivery_recipe/technical-delivery/README.md)
             * [Code Quality](/delivery_recipe/technical-delivery/code-quality/README.md)
             * [Testing](/delivery_recipe/technical-delivery/testing/README.md)
