@@ -1,21 +1,27 @@
 # Daily Standup
 
-The daily standup is an important meeting that we hold every day during each sprint.
+The daily standup is an important meeting that we hold at the same time, same place, every day during each sprint.
 
 ## Who should attend?
 
-The meeting must be attended by the Delivery Team, the Service Delivery Manager and the Product Owner. Other people can join but only as observers.
+The meeting must be attended by the Delivery Team, the Service Delivery Manager and the Product Owner. Other people can join but only as observers, they don’t contribute.
 
 ## The purpose
 
-The reason we have a daily standup is due to the fast paced, ever changing nature of the work we deliver. The daily standup is the opportunity for the each member of the team to share the details of what they're working on, what they have planned for that day and to raise any problems they're encountering. The meeting also serves to communicate the progress with the Product Owner and to seek help if any members of the delivery team have encountered problems that need to be resolved.
+The reason we have a daily standup is due to the fast paced, ever changing nature of the work we deliver. The daily standup is the opportunity for each member of the team to share what they’ve completed and what they’re working on. It’s a great way to communicate progress, challenges with the rest of the team and with the Product Owner.
 
 ## The process
 
-Each member of the delivery team takes turns to discuss the stories they worked on the previous day, what they plan to work on today and to raise any issues that they’ve encountered.
+Each member of the delivery team takes turns to discuss the stories they worked on the previous day, what they plan to work on today and to raise any issues that they’ve encountered. The Delivery Manager will chair the meeting, making sure everyone speaks up, keeping everyone on topic and keeping the non-participants out of the conversations.
 
-This is a quick meeting designed as a progress checkpoint, to request any support that’s needed and to keep an eye on the overall picture of the sprint.
+This is a quick meeting, timeboxed to 15 minutes, so the discussions are to the point and relevant to the sprint. Any issues that need a more lengthy discussion are taken away from the meeting.
 
-If there are any issues raised that require more discussion or support then we agree who’s to be involved and those discussions take place in a separate meeting.
+Yesterday - what stories did I work on? What stories did I complete? Any issues?
+Today - what do I have planned for today?
+Blockers - Do I need any support? Are there any risks to raise?
 
-The meeting is to take no more than 15 minutes. We don’t involved people in further discussions unless we need to.
+The sprint is a team effort so if anyone is struggling with the complexity of a story, if they need input, if a story turns out to be way bigger than expected or they just need to throw ideas around, then this is the time to ask for that support. If you need help from outside the team then the Product Owner or Delivery Manager will support you with that.
+
+Importantly, people need to listen to what’s being said. If one person is wrestling with an issue that affects what they can complete then that will affect the whole team. It’s better that two people solve a problem in 1 hour than one person struggle for a day.
+
+The meeting is to take no more than 15 minutes. We don’t involved people in further discussions unless we need to. At the end of the standup each member of the team and the Product Owner will have a clear idea of where the sprint is at, whether the sprint is on track and any support will be organised.
