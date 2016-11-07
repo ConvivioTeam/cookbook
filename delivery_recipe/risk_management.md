@@ -63,5 +63,5 @@ If you’re prepared for a risk to occur then you’ve already reduced its impac
 
 For more on risk management see
 
-* [Developing a Positive Attitude to Risk](delivery_recipe/positive_risk_attitude.md)
-* [Assessing Risks](delivery_recipe/assessing_risks.md)
+* [Developing a Positive Attitude to Risk](/delivery_recipe/positive_risk_attitude.md)
+* [Assessing Risks](/delivery_recipe/assessing_risks.md)
