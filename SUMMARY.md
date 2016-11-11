@@ -54,7 +54,7 @@
             * [Assesing Risks](/delivery_recipe/assessing_risks.md)
         * [Other Methods](/delivery_recipe/other_methods.md)
             * [Kanban](/delivery_recipe/kanban.md)
-            * [Lean]()
+            * [Lean](/delivery_recipe/lean.md)
     * [Service Management]()
     * [Our Digital Service Standards](/delivery_recipe/digital_service_standards.md)
         * [Technical Standards](/delivery_recipe/technical-delivery/README.md)

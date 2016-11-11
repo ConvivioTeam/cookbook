@@ -1,6 +1,6 @@
-# Other Agile Methods
+# Other Frameworks To Support Delivery
 
-Scrum is just one of a number of Agile frameworks available. While Scrum plays a big part in how we deliver projects there are others that can be considered too:
+Scrum is just one flavour of Agile, and there are also other principles and frameworks that are useful to us as alternatives, or in combination:
 
 * [Kanban](/delivery_recipe/kanban.md)
-* [Lean]()
+* [Lean](/delivery_recipe/lean.md)
