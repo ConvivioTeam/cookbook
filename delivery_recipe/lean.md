@@ -22,4 +22,4 @@ With Agile we implement break points in the sprint cycles to review how effectiv
 
 Being open about our performance with our customers, sharing information about our performance, inviting them to sit in our retrospective meetings, sharing our ideas for improvement and demonstrating the effect of the improvements helps to develop the trust and confidence between us. When a customer is involved in the process of continually making things better, increasing the value of the service we provide and the quality of the products we produce, they appreciate even the smallest improvements.
 
-The more efficient we work, the higher the quality we produce results in more for our customers and a better work environment for our staff. Continuously reviewed and improved lean processes are a must have if we’re to succeed.
+The more efficiently we work, the higher quality results we produce for our customers and the better work environment we provide for our colleagues. Continuously reviewed and improved lean processes are a must-have if we’re to succeed.
