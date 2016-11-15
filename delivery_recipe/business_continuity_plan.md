@@ -94,9 +94,12 @@ Following are a list of possible incident scenarios that could risk business con
 * A location trace is attempted using Apple's Find My Phone
 * Details are reported to the Police
 
+## Loss of access to building
+We operate as a 'free range' company meaning that our default state is that staff can work from anywhere. In the event of our office at the Gridiron not being available, or it being advisable not to congregate in the office (e.g.in the case of pandemic), this will not cause business disruption, even for extended periods.
+
 ## Loss of Critical Systems
 
-Critical systems include any that affect our ability to do our jobs. These would include Google Drive, Slack and GitHub
+Critical systems include any that affect our ability to do our jobs. These would include Google Drive, Slack, GitHub and internet connectivity. 
 
 * Initial details are communicated to the BCM team
 * The incident details are logged in the [Incident Management Report](https://docs.google.com/spreadsheets/d/1ZaHs2A5mMlN3m4aXX_lCGMBEYTMNAknwHPpsJzbCJDI/edit#gid=0)
@@ -108,6 +111,8 @@ Critical systems include any that affect our ability to do our jobs. These would
 * Communicate resolution when systems returned
 * Document details in the [Incident Management Report](https://docs.google.com/spreadsheets/d/1ZaHs2A5mMlN3m4aXX_lCGMBEYTMNAknwHPpsJzbCJDI/edit#gid=0)
 
+In the event that we experience loss of connectivity through a single internet service provider then we have the option to switch to alternative providers- home office wifi, public wifi, mobile phone techering. Only in the event of a national outage will we lose all connectivity. In that situation we will be unable to connect but the severity of such an outage would be dealt with as a priority by the network providers.
+
 Key systems are provided by trusted suppliers. Data is backed up. The risk is that the functionality and communication within the tools is lost. Communication is key to business continuity and recovery.
 
 ## Sudden Loss of Key Staff or Skills
@@ -115,7 +120,6 @@ Key systems are provided by trusted suppliers. Data is backed up. The risk is th
 * The incident details are logged in the [Incident Management Report](https://docs.google.com/spreadsheets/d/1ZaHs2A5mMlN3m4aXX_lCGMBEYTMNAknwHPpsJzbCJDI/edit#gid=0)
 * The incident is reported to the BCM team
 * The impact of the loss on projects and support is assessed and a contingency plan identified
-* Availability of replacement in UK and around the group is assessed
 * Communication to staff and clients on affected projects
 
 ## Loss or Theft of Data
