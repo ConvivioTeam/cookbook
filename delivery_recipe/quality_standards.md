@@ -30,7 +30,7 @@ Because we deliver in iterations it’s easy to introduce breaks in order to rev
 
 ### Estimating
 
-Every sprint begins with a planning session. We estimate how much work can be completed during the sprint and we commit to that. We review the accuracy of those estimations at the end of the sprint and look at ways in which we can improve. Although we don’t guarantee to complete everything accepted into a sprint, the estimations set a level of expectations that we should
+Every sprint begins with a planning session. We estimate how much work can be completed during the sprint and we commit to that. We review the accuracy of those estimations at the end of the sprint and look at ways in which we can improve. Although we don’t guarantee to complete everything accepted into a sprint, the estimations set a level of expectation that we should aim to achieve. The estimations we set need to be achievable.
 
 ### Daily Standups
 
