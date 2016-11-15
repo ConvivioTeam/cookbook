@@ -22,7 +22,7 @@ Steve Parks
 
 ##Overview
 
-The managing director is ultimately responsible for the information security at Convivio, he is supported by the rest of the Convivio team.
+The CEO is ultimately responsible for the information security at Convivio, he is supported by the rest of the Convivio team.
 
 Staff are all equally responsible for the security within the company. The following framework describes Convivio's expectations and how it will handle information and other digital assets and how it will apply security to maintain safety in an efficient and effective way.
 
@@ -64,6 +64,7 @@ To comply with data protection laws and to remain resilient to cyber threats we 
 * Ensure security controls are current and actively managed
 * Protect against, detect and correct malicious behaviour
 * Ensure that critical technology and services are resilient to disruptive challenges such as cyber attacks, and have the means to recover from these
+* Ensure access to data remains secure through the use of digital tools and access controls
 
 ### Personnel Security
 Our employees are central to the maintenance of a good security structure and therefore the employment of these individuals is key to the safety of the company and its customers. To mitigate the issue of vulnerabilities caused by staff we will:
