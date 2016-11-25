@@ -4,12 +4,12 @@ Each story has a unique lifecycle depending on its complexity and requirements. 
 
 ## Wireframing
 
-A high level overview of each user facing interface. What do users informtion do users see and what do they interact with to progress?
+A high level overview of each user facing interface. What information do users need to see and what elements do they interact with to progress in their journey?
 
 ## Technical Research
 There are always multiple ways to build a piece of functionality so when a developer picks up a ticket their first job is to find the best tools to start the task. We encourage developers [not to re-invent the wheel](/delivery_recipe/technical-delivery/code-quality/README.md#dont-write-code-write-new-code-only-when-everything-else-fails), so initial research is always important when starting off.
 
-Sometimes, in hindsight, the technical choices made initially may prove not to be the best approach, and improvements are be made through re-evaluation and peer review.
+Sometimes, in hindsight, the technical choices made initially may prove not to be the best approach, and improvements are made through re-evaluation and peer review.
 
 ## Implementation
 
@@ -17,7 +17,7 @@ This is the 'getting stuff' done stage, sitting down and turning key strokes int
 
 ## Visual Design
 
-The output is reviewed by a designer and the look and feel are adapted for good usabiltiy and brand consistency.
+The output is reviewed by a designer and the look and feel are adapted for good usability and brand consistency.
 
 ## Local Testing
 
