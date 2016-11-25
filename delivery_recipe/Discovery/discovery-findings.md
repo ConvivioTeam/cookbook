@@ -2,7 +2,7 @@
 
 ## Personas
 
-We start to build concise descriptions of the users of the service based on the research during discovery. These typically include clear goals, motivations, and contextual information that helps us think from their point of view when making deicisons.
+We start to build concise descriptions of the users of the service based on the research during discovery. These typically include clear goals, motivations, and contextual information that helps us think from their point of view when making decisons.
 
 ## User needs
 
