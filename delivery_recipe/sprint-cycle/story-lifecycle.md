@@ -2,14 +2,22 @@
 
 Each story has a unique lifecycle depending on its complexity and requirements. We’ve tried to capture the general lifecycle of a story here, but like most things it can be subject to change.
 
-## Research
+## Wireframing
+
+A high level overview of each user facing interface. What information do users need to see and what elements do they interact with to progress in their journey?
+
+## Technical Research
 There are always multiple ways to build a piece of functionality so when a developer picks up a ticket their first job is to find the best tools to start the task. We encourage developers [not to re-invent the wheel](/delivery_recipe/technical-delivery/code-quality/README.md#dont-write-code-write-new-code-only-when-everything-else-fails), so initial research is always important when starting off.
 
-Sometimes, in hindsight, the technical choices made initially may prove not to be the best approach, and improvements are be made through re-evaluation and peer review.
+Sometimes, in hindsight, the technical choices made initially may prove not to be the best approach, and improvements are made through re-evaluation and peer review.
 
 ## Implementation
 
 This is the 'getting stuff' done stage, sitting down and turning key strokes into deliverable code. Throughout this process a developer is constantly thinking about [best practices](/delivery_recipe/technical-delivery/README.md) and [code quality](/delivery_recipe/technical-delivery/code-quality/README.md).
+
+## Visual Design
+
+The output is reviewed by a designer and the look and feel are adapted for good usability and brand consistency.
 
 ## Local Testing
 
@@ -48,3 +56,7 @@ Many times an embarrassing error is caught by an eagle-eyed quality assurance re
 ## Delivery
 
 Now that the story is complete we can deploy it to production, ready for use. High five!
+
+## Usability testing
+
+Some stories may require validation after delivery. Do they solve the problem as effectively as we anticipated? Did we introduce any problems that we didn't identify before?
