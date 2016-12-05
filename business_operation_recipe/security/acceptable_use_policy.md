@@ -8,7 +8,7 @@ It's the responsibility of all Convivio employees and contractors to exercise go
 
 Passwords must be kept secure and only shared using acceptable methods. Employees and contractors are responsible for the security of their passwords and accounts.
 
-Laptops, tablets, handheld devices and workstations must be secured by a password protected screensaver with automatic activation of 15 minutes or less.
+Laptops, tablets, handheld devices and workstations must be secured by a password protected screensaver with automatic activation of 15 minutes or less. A guide to acceptable password security is available on our [Security](/delivery_recipe/technical-delivery/security/) page.
 
 Because information contained on portable computers and handheld devices is especially vulnerable, special care should be exercised in protecting it.
 
