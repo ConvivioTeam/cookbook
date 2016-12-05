@@ -23,6 +23,7 @@ When a member of staff or a contractor no longer work for Convivio, access to th
 * Google account
 * GitHub
 * Slack
+* Contactually
 
 Before the user account is removed from Google, the contents of the Google Drive for that individual must be transferred to another current user to remain accessible within the system to do this :
 
