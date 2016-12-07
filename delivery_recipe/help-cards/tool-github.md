@@ -1,6 +1,6 @@
 # Help Card: Github
 
-<a href="https://github.com/" target="_blank"><img src="/assets/github-logo.png" alt="Github" style="float: right; margin: 0 0 20px 20px;" ></a> We use Github for managing the code of our projects.
+<a href="https://github.com/" target="_blank"><img src="/assets/github-logo.png" alt="Github" style="float: right; margin: 0 0 20px 20px;" ></a> We use [Github](https://github.com/) for managing the code of our projects.
 
 Github isn't just a place to store code, though. It also has some handy tools for managing projects that often work well if the project is the right size.
  
