@@ -14,5 +14,5 @@ To help you further we've also put together a list of questions and answers to h
 
 ## Tools Help Cards
 
-* [Slack](./tool-slack.md)
-* [Github](./tool-github.md)
+* [Slack](/delivery_recipe/help-cards/tool-slack.md)
+* [Github](/delivery_recipe/help-cards/tool-github.md)
