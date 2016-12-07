@@ -20,6 +20,20 @@ Labels are a great way to organize different types of issues. Issues can have as
 
 ![Github issue labels](https://guides.github.com/features/issues/labels-listing.png)
 
+#### Assigning issues
+
+Normally, we prefer to allow team members to pick up issues themselves - having issues assigned to you can sometimes feel aggressive. In certain circumstances, tho, tickets may get assigned to specific people.
+ 
+#### Closing issues
+
+Issues get closed when:
+
+1. a fix has been made to the files in the repository that addresses the issue
+  - and that fix has been accepted.
+2. it's not longer relevant for some reason.
+
+We use a the reviewing process of [Pull Requests](https://help.github.com/articles/about-pull-requests/) to inspect the fixes that are made. Pull requests tell your team mates about changes you've pushed to a repository and asks them to review those changes. Closing a pull request can also close issues.
+
 ## Projects
 
 A recent tool added to GitHub repos is the Projects tool. This allows you to add notes (and issues too) to a Kanban board. Each project supports as many columns as you need and the column names are customisable as needed for each project board.
