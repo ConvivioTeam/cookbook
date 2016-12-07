@@ -20,7 +20,7 @@ If you are part of a Convivio project team, we'll make sure you have access to o
 
 Using Slack through the browser is great – it works perfectly. However, Slack also offer a desktop app and a mobile app.
  
-If your able to, it's dead easy to [download the Slack App](https://weareconvivio.slack.com/downloads).
+If you're able to, it's dead easy to [download the Slack App](https://weareconvivio.slack.com/downloads).
 
 ## Notifications
 
