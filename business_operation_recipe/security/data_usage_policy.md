@@ -17,39 +17,9 @@ The purpose of this policy is to prevent unauthorised disclosure, modification, 
 
 Except when specifically authorised after a risk assessment of the necessary business case, corporate records/data shall not be stored on local computers, mobile devices including laptops, USB memory sticks, PDA’s, external hard drives or any other mobile device or media such as smart phones, CD or DVD except for agreed backups.
 
-In some cases storing sensitive information on a mobile device may be unavoidable for the completion of work duties and the provision of care. Such cases shall be subject to:
-
-* appropriate technical risk assessment by the management;
-* meet the security requirements of this policy; and agreed backup;
-
-## Data Encryption Procedure
-
-All sensitive data stored on local drives of laptops are covered by this procedure.
-
-All removable media for use on information systems owned or operated by Convivio are covered by this procedure.
-
-Removable media includes (but is not limited to):
-
-* Tapes
-* Floppy discs
-* Removable or external hard disc drives
-* Optical discs DVD and CD-rom
-* Solid state memory devices including memory cards
-* Pen drives
-
-Currently approved cryptographic algorithms are for encryption - 3DES, AES (FIPS 140-2), and should be used at recommended 256bit strength. These algorithms and bit strength are readily available within a range of commercially available off the shelf security products and services.
-
-The use of freeware or shareware that does not benefit from independent security evaluation or that fails to comply with these standards is not permitted and must be avoided.
-
 ## Security Procedures
 
-The loss or theft of data that is being processed on a piece of removable media should be evaluated for its sensitivity and any potential impact that this would have due to this or any other compromise.
-
 No real time data should be used for testing purposes, the use of annonymised information should be used outside of live environments. Unless specifically required by the client and the project, the use of anonymised data should be used for testing in staging and live environments.
-
-All staff should be trained in the use of encryption tools or application facilities provided, and for the handling of encrypted removable media.
-
-Where encrypted removable media is to be shared, care must be taken to ensure that the intended recipient has the correct technical capability to de-crypt the data on receipt and this should be established in advance of any sharing of media.
 
 All pass-phrases or decryption keys used for encryption/decryption purposes must be sufficiently long and complex to prevent the encrypted information from attack. The decryption pass-phrase or key must never be sent with encrypted removable media.
 
@@ -73,19 +43,14 @@ Data protection is available for devices that offer hardware encryption, includi
 
 Samsung offers Device Encryption and On Device Encryption solutions as well as FIPS 140-2 certification for your devices to make sure that your corporate security needs are properly addressed.
 
-### Procurement of Encrypted Memory Sticks
-Only approved encrypted USB memory sticks must be purchased.
-
-### Encrypted jump drive options: Data Traveler 4000
-
-The decryption pass-phrase or key must never be sent with encrypted removable media.
-
 ## Removable Media
 
-Export of unencrypted identifiable information onto removable media such as CD, SD cards DVD or ZIP drives MUST be avoided unless for approved backup purposes and then they must be stored securely.
+Removable media such as CD, SD cards DVD or ZIP drives MUST be avoided unless for approved backup purposes and then they must be stored securely.
 
 Any requests to do otherwise must be authorised as per the management.
 
-## External Hard Drives
+## Email and Document Management
 
-Users must show a business reason for the use of external hard drives and they must be of an approved type. They MUST be pre-encrypted and match the currently approved cryptographic algorithms.
+Google's Gmail and Drive apps must be installed on all machines and used to manage email and documents. These services include a scan for viruses, malware and Trojans and will help us prevent the spread of infection.
+
+Only company email accounts should be used to send and receive files from customers and partners. All project and operational documentation must be stored in Drive. Documents stored here are also subject to scanning.
