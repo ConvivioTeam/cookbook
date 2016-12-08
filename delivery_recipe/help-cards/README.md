@@ -16,3 +16,4 @@ To help you further we've also put together a list of questions and answers to h
 
 * [Slack](/delivery_recipe/help-cards/tool-slack.md)
 * [Github](/delivery_recipe/help-cards/tool-github.md)
+* [Trello](/delivery_recipe/help-cards/tool-trello.md)

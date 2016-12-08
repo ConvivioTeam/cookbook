@@ -71,6 +71,7 @@
         * [Help Card - Common Issues](/delivery_recipe/help-cards/common-issues.md)
         * [Help Card - Slack](/delivery_recipe/help-cards/tool-slack.md)
         * [Help Card - Github](/delivery_recipe/help-cards/tool-github.md)
+        * [Help Card - Trello](/delivery_recipe/help-cards/tool-trello.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
     * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
         * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
