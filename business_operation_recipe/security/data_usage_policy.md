@@ -53,4 +53,11 @@ Any requests to do otherwise must be authorised as per the management.
 
 Google's Gmail and Drive apps must be installed on all machines and used to manage email and documents. These services include a scan for viruses, malware and Trojans and will help us prevent the spread of infection.
 
-Only company email accounts should be used to send and receive files from customers and partners. All project and operational documentation must be stored in Drive. Documents stored here are also subject to scanning.
+Because our end users can be considered the weak link, we use Google products for email (Gmail) and document storage (Google Drive) to take advantage of the automatic virus, spyware and trojan scanning. Although our Macs and iPhones are safe from executable files, we need to prevent the spread of infection.
+
+We use Gmail for all email correspondence. Gmail’s anti-virus scanner alerts you if a virus, spyware or trojan is discovered before sending email and gives you the option not to send. When Gmail finds a virus attached to an email that’s been sent, it rejects the message and prevents you from downloading the attachment. This helps us prevent the spread of infection between ourselves and our clients and partners.
+ 
+We use Google Drive for document storage, access management and sharing. Google Drive scans a file for viruses before the file is downloaded or shared. If a virus is detected, users can't share the file with others, send the infected file via email, or convert it to a Google Doc, Sheet, or Slide, and they'll receive a warning if they attempt these operations. The owner can download the virus-infected file, but only after acknowledging the risk of doing so.
+
+By installing the applications on our local machines we protect ourselves from infections and prevent the spread of infections to our clients and partners.
+
