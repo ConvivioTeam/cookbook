@@ -16,7 +16,8 @@ body,
   left: 0;
   width: 100%;
   z-index: 2;
-  min-height: 140px; }
+  min-height: 140px;
+  font-family: "Galano Grotesque W00 Bold", Helvetica, Arial, san-serif; }
 
 .branding {
   float: right;
