@@ -1,5 +1,5 @@
 body {
-  padding-top: 126px; }
+  padding-top: 140px; }
 
 body,
 .book,
@@ -16,7 +16,7 @@ body,
   left: 0;
   width: 100%;
   z-index: 2;
-  min-height: 126px; }
+  min-height: 140px; }
 
 .branding {
   float: right;
@@ -24,7 +24,7 @@ body,
   max-width: 160px;
   height: 0;
   padding-bottom: 5%;
-  margin-top: 0.25em;
+  margin-top: 0.15em;
   margin-bottom: 0.05em;
   background: url("../images/logos/Mark-Only-White.svg") no-repeat;
   -webkit-background-size: contain;
@@ -51,7 +51,7 @@ body,
   padding: 0 10px; }
 
 .book-summary {
-  background: #f4eee1; }
+  background: #F8F4EA; }
   .book-summary ul.summary {
     top: 50px;
     padding-top: 40px;
