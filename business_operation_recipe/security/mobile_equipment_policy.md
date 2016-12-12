@@ -52,6 +52,19 @@ In order to comply with the Data Protection Act, person identifiable information
 * For work involving person identifiable information from locations within Convivio, users will be required, wherever possible, to use Convivio’s network to store data.
 * Public wifi should not be used to transfer sensitive data, if public wifi is unavoidable, the Convivio VPN should be used.
 
+### Standard Build
+
+There is a standard company laptop build which is provided from a centrally controlled source. When a laptop is booted up for the first time the user must run through the following steps:
+
+* Create a new user with a secure password (see [password policy](/delivery_recipe/technical-delivery/security/) page)
+* Ensure that encryption is enabled on user creation
+* Install Brew
+* Install Ansible
+* Download our *Private* OSX Provisioning repo
+* Run OSX Provisioning
+
+This is a private repo containing proprietary code and a standard build defined by Convivio.
+
 ## Backups
 
 It is not permissible for Convivio or its customer data to be stored solely on the hard disk of a laptop or notebook. Users of laptops/notebooks are responsible for ensuring that all Convivio data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
@@ -60,7 +73,7 @@ It is not permissible for Convivio or its customer data to be stored solely on t
 
 As Convivio predominantly use Apple Mac computers it is priority to outline maintaining security on OSX. Periodically, Apple releases free updates for OSX software. Updates should be set to run automatically. These include important security updates that protect Apple computers from potential threats.
 
-Any patches that are released for threats should be implemented immediately. It is the responsibility of Convivio employees to observe changes in technology and maintain their computers to prevent risk.
+Any patches that are released for threats should be implemented immediately. It is the responsibility of Convivio employees to observe changes in technology and maintain their computers to prevent risk. Software updates should be set to update automatically.
 
 Updates suggested by other software vendors used for products used by Convivio should also be implemented.
 
