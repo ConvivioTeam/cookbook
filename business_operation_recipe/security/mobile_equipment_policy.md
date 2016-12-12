@@ -89,3 +89,5 @@ All Convivio hardware is insured both within the UK and abroad (within the EU).
 After 2 years of use any Convivio hardware will become the property of the user who requested its original purchase. This is supported by the Convivio ISMS data policy whereby no company information is kept on laptops and computers but is stored in a central location, this prevents the need to destroy company laptops.
 
 If a user leaves the company before 2 years any hardware can be purchased from Convivio for a cost that represents its current value.
+
+Because the software we produce is open source, there is no requirement to delete everything from any purchased machines. Any accounts relating to the user/laptop will be removed, see *Staff Leaving* in our [Document Access](/business_operation_recipe/security/document_access.html) policy.

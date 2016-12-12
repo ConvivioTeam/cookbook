@@ -24,6 +24,10 @@ Administrator passwords (firewalls, Google, GitHub) and laptop passwords are req
 
 Open source software projects regularly release security updates for the core sofware and for modules within it. Some OSS will include an update status that will specifically identify any available or pending security updates. **_Always_ ensure you install security updates.**
 
+Drupal security updates are reported weekly and are reviewed by our technical team. Priority updates are installed within a maximum of 48 hours.
+
+Software running on mobile devices must be set to automatically update to take advantage of updates as soon as they're available.
+
 #### SSL encrypt your site
 
 Post-Snowden, for technical and social reasons, encrypt your site with SSL. That's it.
@@ -45,6 +49,8 @@ Where appropriate, we will encrypt an application's production database to keep 
 If the security profile of the system warrants it, we may opt to further restrict the application's access to the data in the database to only the data made available by an API layer in front of the database. That API itself will have strong boundary security and access limitations, via firewalls and other methods, to restrict and control access to it.
 
 We also manage access to the application's hosting platform. If the project's security profile warrants it, we may include a number of elevated access control tools or systems. 
+
+Access to all of our systems is managed only by a limited number of senior members of staff.
 
 ### Access logging
 
