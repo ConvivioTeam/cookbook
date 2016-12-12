@@ -63,7 +63,7 @@ There is a standard company laptop build which is provided from a centrally cont
 * Download our *Private* OSX Provisioning repo
 * Run OSX Provisioning
 
-This is a private repo containing proprietary code and a standard build defined by Convivio.
+This is a private repo containing proprietary code and a standard build defined by Convivio. The process installs and configures key software including anti-malware, firewall, virtualbox, vagrant and OSX defaults, as defined by our administrators.
 
 ## Backups
 
