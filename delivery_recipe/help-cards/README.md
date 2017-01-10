@@ -7,6 +7,7 @@ We've put together a series of help cards for you to reference during the most r
 * [Sprint Planning](/delivery_recipe/help-cards/sprint-planning.md)
 * [Sprint Review](/delivery_recipe/help-cards/sprint-review.md)
 * [Sprint Retrospective](/delivery_recipe/help-cards/sprint-retrospective.md)
+* [Sprint Feedback](/delivery_recipe/help-cards/product_owner_feedback.md)
 
 To help you further we've also put together a list of questions and answers to help you tackle common problems.
 
