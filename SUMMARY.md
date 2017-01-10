@@ -62,7 +62,7 @@
             * [Testing](/delivery_recipe/technical-delivery/testing/README.md)
             * [Automation](/delivery_recipe/technical-delivery/automation/README.md)
         * [Security Standards](/delivery_recipe/technical-delivery/security/README.md)
-        * [Quality Standards]()
+        * [Quality Standards](/delivery_recipe/quality_standards.md)
         * [Risk Standards]()
     * [Delivery Help Cards](/delivery_recipe/help-cards/README.md)
         * [Help Card - Sprint Planning](/delivery_recipe/help-cards/sprint-planning.md)
