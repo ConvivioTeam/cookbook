@@ -12,7 +12,7 @@ Write a clear and appealing headline, and it's best to have a striking header im
 
 ### Cookbook Pages
 
-Our primary audience for the Cookbook is the rest of our team, but we choose to make it open for transparency, and in case others find it useful. Therefore, write as if you're addressing a new colleague who has just started with us and needs to learn all this stuff, but doesn't know any of the inhouse jargon or jokes.
+Our primary audience for the Cookbook is the rest of our team, but we choose to make it open for transparency, and in case others find it useful. Therefore, write as if you're addressing a new colleague who has just started with us and needs to learn all this stuff, but doesn't know any of the in-house jargon or jokes.
 
 Think about structure and findability - what are pages going to be called, where will they be put in the menu structure?
 
@@ -49,5 +49,5 @@ You can draw diagrams using OmniGraffle \(native app from the Mac app store\) or
 
 ### Videos
 
-We have an account at [https://www.videoblocks.com/](https://www.videoblocks.com/) allowing him to download stock video clips for our use. Ask SteveP if you need a hand with this.
+We have an account at [https://www.videoblocks.com/](https://www.videoblocks.com/) allowing us to download stock video clips for our use. Ask SteveP if you need a hand with this.
 
