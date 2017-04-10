@@ -14,7 +14,8 @@
   * [Beginning](new_client_recipe/beginning.md)
   * [Inspiration](/new_client_recipe/inspiration.md)
 * [Delivery Recipe](delivery_recipe/README.md)
-  * [Delivery Team](/delivery_recipe/delivery_team.md)
+  * [Delivery Launch](/delivery-launch.md)
+* * [Delivery Team](/delivery_recipe/delivery_team.md)
     * [Convivio People](/delivery_recipe/convivio_people.md)
     * [The Coach](/delivery_recipe/the_coach.md)
     * User Researcher
@@ -71,6 +72,7 @@
     * [Help Card - Common Issues](/delivery_recipe/help-cards/common-issues.md)
     * [Help Card - Slack](/delivery_recipe/help-cards/tool-slack.md)
     * [Help Card - Github](/delivery_recipe/help-cards/tool-github.md)
+
 * [Business Operation Recipe](business_operation_recipe/README.md)
   * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
     * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
