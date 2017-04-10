@@ -1,6 +1,6 @@
 # Learning and Thinking
 
-So, we've assessed a new opportunity and decided to proceed. That means it's time for some learning and thinking to answer some key questions.
+So, we've [assessed](/new_client_recipe/assessing.md) a new opportunity and decided to proceed. That means it's time for some learning and thinking to answer some key questions.
 
 **Steps to take**
 
@@ -15,7 +15,6 @@ So, we've assessed a new opportunity and decided to proceed. That means it's tim
 5. Go back to the client with any questions that have arisen. Update the Opportunity Brief as necessary.
 
 6. Plan in a meeting with the team \(who should all have read the Opportunity Brief in advance\) to run through the learning and thinking questions below.
-
 
 ## Learning and Thinking before Proposing
 
@@ -42,7 +41,6 @@ We'll get to developing our proposal soon, but first we want to learn enough abo
 * How will our cookbook recipes help in delivering this service?
 
 * What is the story we can tell in our proposal?
-
 
 Once we have done the initial learning and thinking, it's time to [develop our proposal](/new_client_recipe/proposing.md).
 

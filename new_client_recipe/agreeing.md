@@ -1,6 +1,6 @@
 # Agreeing
 
-Once we have presented our proposal to the client we then need to agree to work together AND agree on the way in which we'll work together and what we'll do - or agree that there isn't a good match.
+Once we have [presented our proposal](/new_client_recipe/proposing.md) to the client we then need to agree to work together AND agree on the way in which we'll work together and what we'll do - or agree that there isn't a good match.
 
 ## Retrospective
 
@@ -14,7 +14,6 @@ Either way, we'll want to do a thorough retrospective of our process at this sta
 
 3. Step through discussing the points, and looking for outcomes at the end
 
-
 ## Contract
 
 If we're agreeing to work together, a contract should be put in place to support the successful collaboration, not just to deal with imagined future problems.
@@ -27,5 +26,5 @@ It's likely that there was a gap between what the client thought they would buy,
 
 ## Sign off
 
-We only proceed to the next stage, beginning the relationship and our work together, once the contract is signed.
+We only proceed to the next stage, [beginning the relationship and our work together](/new_client_recipe/beginning.md), once the contract is signed.
 

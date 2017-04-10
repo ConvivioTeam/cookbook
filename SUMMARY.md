@@ -7,12 +7,12 @@
   * [Researching](new_client_recipe/researching.md)
   * [Connecting](new_client_recipe/connecting.md)
   * [Nurturing](new_client_recipe/nurturing.md)
+  * [Assessing](new_client_recipe/assessing.md)
   * [Learning and Thinking](new_client_recipe/learning-and-thinking.md)
   * [Proposing](new_client_recipe/proposing.md)
   * [Agreeing](new_client_recipe/agreeing.md)
   * [Beginning](new_client_recipe/beginning.md)
-  * [Inspiration](new_client_recipe/inspiration.md)
-  * [Assessing](new_client_recipe/assessing.md)
+  * [Inspiration](/new_client_recipe/inspiration.md)
 * [Delivery Recipe](delivery_recipe/README.md)
   * [Delivery Team](/delivery_recipe/delivery_team.md)
     * [Convivio People](/delivery_recipe/convivio_people.md)
@@ -94,4 +94,6 @@
   * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
+
+
 
