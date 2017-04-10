@@ -14,7 +14,7 @@
   * [Beginning](new_client_recipe/beginning.md)
   * [Inspiration](/new_client_recipe/inspiration.md)
 * [Delivery Recipe](delivery_recipe/README.md)
-  * [Delivery Launch](/delivery-launch.md)
+  * [Delivery Launch](/delivery_recipe/delivery-launch.md)
   * [Delivery Team](/delivery_recipe/delivery_team.md)
     * [Convivio People](/delivery_recipe/convivio_people.md)
     * [The Coach](/delivery_recipe/the_coach.md)
@@ -94,6 +94,10 @@
   * [Our Momentum](business_operation_recipe/our-momentum.md)
 
 * [Actual Food Recipes](actual_food_recipes/README.md)
+
   * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
+
+
+
