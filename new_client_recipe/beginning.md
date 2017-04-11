@@ -16,17 +16,19 @@ Once we have [agreed](/new_client_recipe/agreeing.md) to work together, and the 
 
    1. Open the[ '! Copy Active Clients Template Folder' spreadsheet](https://docs.google.com/spreadsheets/d/1DgBJEKN-RFmR5xSBtyeu1HTP2vJOgm1dNGWqljfTsMA/edit#gid=0)
 
-   2. A menu will appear at the top 'GDrive: Copy Folder'![](/assets/copy-active-clients-template-folder.png)
+   2. A menu will appear at the top 'GDrive: Copy Folder'
 
-   3. From this menu, select 'make a copy'
+   3. ![](/assets/copy-active-clients-template-folder.png)
 
-   4. This will take a minute or so to work and then you'll see a notification in the bottom right of the screen
+   4. From this menu, select 'make a copy'
 
-   5. The copy folder will have been placed in the root of your Google Drive. Copy it back to the 'Active Clients' folder
+   5. This will take a minute or so to work and then you'll see a notification in the bottom right of the screen
 
-   6. Rename it with the format 'YYYY-MM Clientname Projectname'
+   6. The copy folder will have been placed in the root of your Google Drive. Copy it back to the 'Active Clients' folder
 
-   7. There will now be a complete client project folder structure in place.
+   7. Rename it with the format 'YYYY-MM Clientname Projectname'
+
+   8. There will now be a complete client project folder structure in place.
 
 6. Within the project folder, under '10. Project Launch' folder, edit the 'Key people' spreadsheet with all the people that we know about who will be involved in this project.
 
