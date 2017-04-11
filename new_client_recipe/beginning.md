@@ -16,7 +16,7 @@ Once we have [agreed](/new_client_recipe/agreeing.md) to work together, and the 
 
    1. Open the[ '! Copy Active Clients Template Folder' spreadsheet](https://docs.google.com/spreadsheets/d/1DgBJEKN-RFmR5xSBtyeu1HTP2vJOgm1dNGWqljfTsMA/edit#gid=0)
 
-   2. A menu will appear at the top 'GDrive: Copy Folder'![](/assets/! Copy Active Clients Template Folder - Google Sheets 2017-04-10 13-43-20.png)
+   2. A menu will appear at the top 'GDrive: Copy Folder'![](/assets/copy-active-clients-template-folder.png)
 
    3. From this menu, select 'make a copy'
 
