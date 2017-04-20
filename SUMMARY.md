@@ -72,8 +72,8 @@
     * [Help Card - Common Issues](/delivery_recipe/help-cards/common-issues.md)
     * [Help Card - Slack](/delivery_recipe/help-cards/tool-slack.md)
     * [Help Card - Github](/delivery_recipe/help-cards/tool-github.md)
+    * [Help Card - User Stories](delivery_recipe/help-cards/help-card-user-stories.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
-
   * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
     * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
   * [Security Policy](business_operation_recipe/security/security_policy.md)
@@ -92,12 +92,8 @@
   * [Equal Opportunities](business_operation_recipe/equal_opportunities.md)
   * [Our Purpose](business_operation_recipe/our-purpose.md)
   * [Our Momentum](business_operation_recipe/our-momentum.md)
-
 * [Actual Food Recipes](actual_food_recipes/README.md)
-
   * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
-
-
 
