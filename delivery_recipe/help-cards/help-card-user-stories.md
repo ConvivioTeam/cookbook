@@ -51,7 +51,7 @@ Good user stories meet the [INVEST](https://en.wikipedia.org/wiki/INVEST_%28mnem
 * **Negotiable:** The story as written is not a contract, but the start of a conversation in which everyone can contribute to shape it. The story can be rewritten or even discarded as more information and more discussion sheds light on the need and its value.
 * **Valuable \(and value-able\):** Every story must deliver clear value to stakeholders. That means the source of value needs to be understood, along with a way to measure it, and a target to achieve. The constraint of budget/time that's worth spending on this story to deliver that value can then be discussed.
 * **Estimable:** The need must be expressed clearly enough, with supporting information available, to allow the team to get a rough estimate of how 'big' it is in terms of effort, risk, etc. 
-* **Sized appropriately \(small\):** stories should be deliverable by a cross-functional team within roughly a week, otherwise they need to be broken into smaller stories that build on each other over a number of iterations. Otherwise you end up with 
+* **Sized appropriately \(small\):** stories should be deliverable by a cross-functional team within roughly a week, otherwise they need to be broken into smaller stories that build on each other over a number of iterations. Otherwise you end up with huge iceberg user stories that float through months of work with titanic amounts of time crashing onto them.
 * **Testable:** can you explain the steps that would be taken by a user to demonstrate that the story has been delivered correctly?
 
 ## Be honest when things are not really a user story
