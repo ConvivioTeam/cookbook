@@ -25,7 +25,7 @@
     * [Discovery Briefing](/delivery_recipe/Discovery/the-discovery-brief.md)
     * [Discovery Planning](/delivery_recipe/Discovery/discovery-planning.md)
     * [Discovery Modules](/delivery_recipe/Discovery/discovery-modules.md)
-    * [Discovery Findings](/delivery_recipe/Discovery/discovery-findings.md)
+    * [Discovery Outcomes](/delivery_recipe/Discovery/discovery-findings.md)
     * [Discovery Principles](delivery_recipe/Discovery/discovery-principles.md)
     * Prepare for prototyping
   * [Service Prototyping](/delivery_recipe/Prototyping/README.md)
