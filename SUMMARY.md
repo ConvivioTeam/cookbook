@@ -29,14 +29,14 @@
     * [Discovery Principles](delivery_recipe/Discovery/discovery-principles.md)
     * Prepare for prototyping
   * [Service Prototyping](/delivery_recipe/Prototyping/README.md)
-    * Inputs to Prototyping
-    * Prototyping Objectives
-    * Prototyping Sprints
-    * Prototyping Outputs
+    * [Inputs to Prototyping](delivery_recipe/Prototyping/inputs-to-prototyping.md)
+    * [Prototyping Objectives](delivery_recipe/Prototyping/prototyping-objectives.md)
+    * [Prototyping Sprints](delivery_recipe/Prototyping/prototyping-sprints.md)
+    * [Prototyping Outputs](delivery_recipe/Prototyping/prototyping-outputs.md)
   * [Service Delivery](delivery_recipe/Delivery/README.md)
-    * [Scrum](/delivery_recipe/scrum.md)
     * [Inputs to Delivery](/delivery_recipe/inputs_to_delivery.md)
     * [Delivery Kickoff](/delivery_recipe/kick_starting_a_project.md)
+    * [Scrum](/delivery_recipe/scrum.md)
     * [User Stories](/delivery_recipe/user_stories.md)
     * [Backlog Management](/delivery_recipe/backlogs_priorities.md)
     * [Backlog Scouting](/delivery_recipe/backlog_scouting.md)

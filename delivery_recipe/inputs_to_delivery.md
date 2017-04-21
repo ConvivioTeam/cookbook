@@ -4,13 +4,13 @@ To deliver change we have a clear process with Scrum. To support that process an
 
 ## Input: Business Goals
 
-While we focus the requirements on the user the business will also have specific goals that it is trying to achieve through this period of change. Business goals could include increasing revenue, attracting more customers or opening up their online business to a wider audience. 
+While we focus the requirements on the user the business will also have specific goals that it is trying to achieve through this period of change. Business goals could include increasing revenue, attracting more customers or opening up their online business to a wider audience.
 
 These goals will help us identify the high-level requirements that will need to be delivered in order to achieve the business goals.
 
 ## Input: User Needs
 
-All of what we do, the decision we make, the solutions we develop, these are all driven by the needs of the users. The business sets itself goals but we need to understand what the users want in order to achieve those goals. If the business needs to improve sales then we need to look at what its users need to understand the opportunities we can exploit. 
+All of what we do, the decision we make, the solutions we develop, these are all driven by the needs of the users. The business sets itself goals but we need to understand what the users want in order to achieve those goals. If the business needs to improve sales then we need to look at what its users need to understand the opportunities we can exploit.
 
 The discovery process takes a close look at the users. That process can include:
 
@@ -26,7 +26,7 @@ Epics are high level requirements. These will be driven by the user needs. Once 
 
 ## Input: User Stories
 
-There will be a process of prioritising the epics. When we work on the highest priority epics we need to break them down into smaller parts that can be delivered within sprints. Each user story will describe smaller, specific requirements that are the individual pieces from your epic jigsaw puzzle. The user stories defined will be placed in the product backlog where the Product Owner will define the priorities. 
+There will be a process of prioritising the epics. When we work on the highest priority epics we need to break them down into smaller parts that can be delivered within sprints. Each user story will describe smaller, specific requirements that are the individual pieces from your epic jigsaw puzzle. The user stories defined will be placed in the product backlog where the Product Owner will define the priorities. For more details on how to write needs in this way, see our [helpcard on user stories](/delivery_recipe/help-cards/help-card-user-stories.md).
 
 For a more detailed look at epics and user stories see [Backlog Management](/delivery_recipe/backlogs_priorities.md)
 
@@ -45,3 +45,4 @@ For more information, see [Risk Management](/delivery_recipe/risk_management.md)
 ## Next Stage
 
 With a clearly defined set of goals, user requirements, epics, risks and constraints, we're ready for [Delivery Kickoff](/delivery_recipe/kick_starting_a_project.md).
+
