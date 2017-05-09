@@ -4,16 +4,31 @@ This is the way we take client needs, investigate them, and work through all the
 
 We follow the process of:
 
-1. [Strategy](/delivery_recipe/Strategy/README.md): Working to develop the overall digital strategy for an organisation, and identify missions for streams of work
+1. [Delivery Team](//delivery_recipe/delivery_team.md): We assemble the right people to do the work into a multi-disciplinary team
 
-2. [Discovery](/delivery_recipe/Discovery/README.md): Researching a mission and preparing for delivery
-3. [Prototyping](/delivery_recipe/Prototyping/README.md): Experimenting with complex, risky, novel or unknown parts of the planned delivery in a rapid and low-cost way to reduce the risks and improve knowledge and approaches before beginning the main delivery.
-4. Delivery: Design, build, test, deploy to deliver a solution to address the mission
-5. Management: Supporting, reviewing and improving the live digital service
-6. Retirement: Handing over control of the digital service, or eventually closing it down at the end of its life
+2. [Delivery Launch](//delivery_recipe/delivery-launch.md): Setting up systems, gathering information, ensuring everyone is briefed
 
-To deliver this process we use agile methodologies:
+3. [Strategy](/delivery_recipe/Strategy/README.md): Working to develop the overall digital strategy for an organisation, and identify missions for streams of work
+
+4. [Discovery](/delivery_recipe/Discovery/README.md): Researching a mission and preparing for delivery
+
+5. [Prototyping](/delivery_recipe/Prototyping/README.md): Experimenting with complex, risky, novel or unknown parts of the planned delivery in a rapid and low-cost way to reduce the risks and improve knowledge and approaches before beginning the main delivery.
+
+6. [Build](/delivery_recipe/Delivery/README.md): Design, build, test, deploy to deliver a solution to address the mission
+
+7. [Service Management](/delivery_recipe/service-management.md): Supporting, reviewing and improving the live digital service
+
+8. Retirement: Handing over control of the digital service, or eventually closing it down at the end of its life
+
+
+
+To support this process we use proven agile [delivery methodologies](//delivery_recipe/other_methods.md):
+
 * [Scrum](/delivery_recipe/scrum.md): For initial development, or for set project work
 
-* [Kanban](/delivery_recipe/kanban.md): for continuous development, or support of live systems.
+* [Kanban](/delivery_recipe/kanban.md): for continuous development
+
+* [Lean](//delivery_recipe/lean.md)
+
+
 

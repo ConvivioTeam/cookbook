@@ -4,6 +4,7 @@ We've put together a series of help cards for you to reference during the most r
 
 ## Scrum Help Cards
 
+* [User Stories](/delivery_recipe/help-cards/help-card-user-stories.md)
 * [Sprint Planning](/delivery_recipe/help-cards/sprint-planning.md)
 * [Sprint Review](/delivery_recipe/help-cards/sprint-review.md)
 * [Sprint Retrospective](/delivery_recipe/help-cards/sprint-retrospective.md)
@@ -16,3 +17,6 @@ To help you further we've also put together a list of questions and answers to h
 
 * [Slack](/delivery_recipe/help-cards/tool-slack.md)
 * [Github](/delivery_recipe/help-cards/tool-github.md)
+
+
+
