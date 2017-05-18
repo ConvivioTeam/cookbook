@@ -76,6 +76,8 @@
 * [Business Operation Recipe](business_operation_recipe/README.md)
   * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
     * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
+    * [Branded Documents and Reports](business_operation_recipe/brand_guidelines/branded-google-documents.md)
+    * [Proposals](business_operation_recipe/brand_guidelines/proposals.md)
   * [Security Policy](business_operation_recipe/security/security_policy.md)
     * [Acceptable Use Policy](business_operation_recipe/security/acceptable_use_policy.md)
     * [Business Continuity Management](business_operation_recipe/security/business_continuity_management.md)
