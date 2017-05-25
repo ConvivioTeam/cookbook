@@ -4,5 +4,5 @@ In the prototyping phase, we take what we've learned in Discovery and aim to dee
 
 We do this by building user-testable prototypes in a cheap and disposable way. That supports us trying multiple approaches to the same problem in order to find the best one.
 
-
+Prototyping is also known as the 'Alpha' phase in the public sector.
 
