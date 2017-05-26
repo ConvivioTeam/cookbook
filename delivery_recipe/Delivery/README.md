@@ -1,27 +1,29 @@
 # Build
 
-Our delivery process is designed to handle any and all types of change programmes. Rather than being tailored to a specific type of business or change, our processes focus on what’s important:
+In this phase of delivering the product, we take what has been learned in Discovery and Prototyping, and we begin to build the digital product itself:
 
-* Business goals - what is the business seeking to achieve?
-* Users - who are your users and what are their real needs?
+* [Inputs to Build](//delivery_recipe/inputs_to_delivery.md): What we need to ensure is in place in order to start this phase.
+* [Backlog Management](//delivery_recipe/backlogs_priorities.md): Gathering all the user needs, prioritising, and ensuring there is the right information.
+* [Backlog Scouting](//delivery_recipe/backlog_scouting.md): Working ahead to ensure the 
+* [Sprint Planning](//delivery_recipe/sprint_planning.md): Starting each sprint by taking the highest priority backlog items and planning how to deliver them.
+* [Sprinting](//delivery_recipe/sprint-cycle/README.md): The day to day work in a build sprint.
+* [Sprint Review](//delivery_recipe/sprint_review.md): At the end of the sprint, reporting on what was done and demonstrating the thing.
+* [Sprint Retrospective](//delivery_recipe/sprint_retrospective.md): Learning from the sprint, and looking to improve the way we work.
 
-Once the scope is agreed and the initial discovery process is complete the high level requirements will be captured as epics. It’s here that the delivery team pick up the process.
 
-## Build Kickoff
 
-During this stage our teams will get to know each other and we’ll begin the process of diving into the detail of the requirements, discussing the possible approaches, how we’ll manage the risks and how we’ll exploit the opportunities. At the end of the kickoff we’ll have agreed the initial priority requirements that we’ll take into the first development cycle.
+During this process we also need to ensure good governance of the project
 
-For more information about this stage see [Project Kickoff](/delivery_recipe/Delivery/kick_starting_a_project.md).
+* [Steering Group](//delivery_recipe/Delivery/steering_group_meetings.md): A regular meeting of stakeholders to report on progress and take decisions to support the success of the product.
+* [Risk Management](//delivery_recipe/risk_management.md): Success is based on clearly and regularly identifying risks, and then addressing them.
 
-## Scrum - plan, do, check, repeat
 
-Every two weeks your project will go through a process of planning, delivering and reviewing what’s been done. This scrum cycle is a fast paced cycle that is continually reviewing the priorities, delivering the highest priority stories and then reviewing what’s delivered. This cycle will concentrate on your users, how they interact and respond to what’s being developed and we’ll incorporate their feedback to make sure what we deliver will be accepted by them. No nasty surprises at the end of the development!
 
-For more information about this stage see [Scrum](delivery_recipe/scrum.md).
+Our [delivery methodology](//delivery_recipe/other_methods.md) is built on the foundations of:
 
-## Quality - only the best will do
+* [Scrum](//delivery_recipe/scrum.md)
+* [Kanban](//delivery_recipe/kanban.md)
+* [Lean](//delivery_recipe/lean.md)
 
-There are smaller cycles within the scrum cycle that deal with the quality of the work that the team produces. Those quality cycles check and prove the level of quality of the work to make sure it measures up to our high demands for quality.
 
-For more information about this stage see [Technical Delivery](delivery_recipe/technical-delivery/README.md).
 
