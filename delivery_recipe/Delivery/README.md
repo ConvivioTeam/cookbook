@@ -12,5 +12,5 @@ In this phase of delivering the product, we take what has been learned in Discov
 
 
 
-
+The Build phase is also known as 'Beta' in the public sector.
 

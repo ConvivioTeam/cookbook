@@ -22,5 +22,5 @@ We follow the process of:
 
 
 
-To support this work we follow our [Digital Service Standards](//delivery_recipe/digital_service_standards.md).
+To support this work we follow our [Digital Service Standards](//delivery_recipe/digital_service_standards.md) and practice good [Delivery Governance](/delivery_recipe/delivery-governance.md).
 
