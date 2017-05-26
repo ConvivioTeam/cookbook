@@ -22,13 +22,5 @@ We follow the process of:
 
 
 
-To support this process we use proven agile [delivery methodologies](//delivery_recipe/other_methods.md):
-
-* [Scrum](/delivery_recipe/scrum.md): For initial development, or for set project work
-
-* [Kanban](/delivery_recipe/kanban.md): for continuous development
-
-* [Lean](//delivery_recipe/lean.md)
-
-
+To support this work we follow our [Digital Service Standards](//delivery_recipe/digital_service_standards.md).
 
