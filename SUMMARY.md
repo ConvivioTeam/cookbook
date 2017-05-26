@@ -46,12 +46,12 @@
       * [Quality Control in Sprints](delivery_recipe/sprint-cycle/quality-control-in-sprints.md)
     * [Sprint Review](/delivery_recipe/sprint_review.md)
     * [Sprint Retrospective](/delivery_recipe/sprint_retrospective.md)
-    * [Risk Management](/delivery_recipe/risk_management.md)
-      * [Risk Attitude](/delivery_recipe/positive_risk_attitude.md)
-      * [Assesing Risks](/delivery_recipe/assessing_risks.md)
   * [Service Management](delivery_recipe/service-management.md)
   * [Delivery Governance](delivery_recipe/delivery-governance.md)
     * [Steering Group](/delivery_recipe/Delivery/steering_group_meetings.md)
+    * [Risk Management](/delivery_recipe/risk_management.md)
+      * [Risk Attitude](/delivery_recipe/positive_risk_attitude.md)
+      * [Assesing Risks](/delivery_recipe/assessing_risks.md)
 * [Business Operation Recipe](business_operation_recipe/README.md)
   * [Brand Guidelines](business_operation_recipe/brand_guidelines/README.md)
     * [Content Guidelines](business_operation_recipe/brand_guidelines/content_guidelines.md)
@@ -76,6 +76,4 @@
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
 * [Delivery Governance](delivery_recipe/delivery-governance.md)
-
-
 
