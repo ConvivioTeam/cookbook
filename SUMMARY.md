@@ -22,22 +22,21 @@
     * User Researcher
     * Other Team Members
   * [Digital Strategy](/delivery_recipe/Strategy/README.md)
-  * [Service Discovery](/delivery_recipe/Discovery/README.md)
+  * [Discovery](/delivery_recipe/Discovery/README.md)
     * [Discovery Briefing](/delivery_recipe/Discovery/the-discovery-brief.md)
     * [Discovery Planning](/delivery_recipe/Discovery/discovery-planning.md)
     * [Discovery Modules](/delivery_recipe/Discovery/discovery-modules.md)
     * [Discovery Findings](/delivery_recipe/Discovery/discovery-findings.md)
     * [Discovery Principles](delivery_recipe/Discovery/discovery-principles.md)
     * Prepare for prototyping
-  * [Service Prototyping](/delivery_recipe/Prototyping/README.md)
-    * Inputs to Prototyping
-    * Prototyping Objectives
-    * Prototyping Sprints
-    * Prototyping Outputs
-  * [Service Delivery](delivery_recipe/Delivery/README.md)
-    * [Scrum](/delivery_recipe/scrum.md)
-    * [Inputs to Delivery](/delivery_recipe/inputs_to_delivery.md)
-    * [Delivery Kickoff](/delivery_recipe/kick_starting_a_project.md)
+  * [Prototyping](/delivery_recipe/Prototyping/README.md)
+    * [Inputs to Prototyping](delivery_recipe/Prototyping/inputs-to-prototyping.md)
+    * [Prototyping Objectives](delivery_recipe/Prototyping/prototyping-objectives.md)
+    * [Prototyping Sprints](delivery_recipe/Prototyping/prototyping-sprints.md)
+    * [Prototyping Outputs](delivery_recipe/Prototyping/prototyping-outputs.md)
+  * [Build](delivery_recipe/Delivery/README.md)
+    * [Inputs to Build](/delivery_recipe/inputs_to_delivery.md)
+    * [Build Kickoff](/delivery_recipe/kick_starting_a_project.md)
     * [User Stories](/delivery_recipe/user_stories.md)
     * [Backlog Management](/delivery_recipe/backlogs_priorities.md)
     * [Backlog Scouting](/delivery_recipe/backlog_scouting.md)
@@ -45,27 +44,29 @@
     * [Sprinting](/delivery_recipe/sprint-cycle/README.md)
       * [Daily Standup](/delivery_recipe/sprint-cycle/daily-standup.md)
       * [Story Lifecycle](/delivery_recipe/sprint-cycle/story-lifecycle.md)
-      * Design in Sprints
-      * User Testing in Sprints
-      * Quality Control in Sprints
+      * [Design in Sprints](delivery_recipe/sprint-cycle/design-in-sprints.md)
+      * [User Testing in Sprints](delivery_recipe/sprint-cycle/user-testing-in-sprints.md)
+      * [Quality Control in Sprints](delivery_recipe/sprint-cycle/quality-control-in-sprints.md)
     * [Sprint Review](/delivery_recipe/sprint_review.md)
     * [Sprint Retrospective](/delivery_recipe/sprint_retrospective.md)
+  * [Service Management](delivery_recipe/service-management.md)
+  * [Digital Service Standards](/delivery_recipe/digital_service_standards.md)
+    * [Delivery Methodologies](//delivery_recipe/other_methods.md)
+        * [Scrum](//delivery_recipe/scrum.md)
+        * [Kanban](//delivery_recipe/kanban.md)
+        * [Lean](//delivery_recipe/lean.md)
+      * [Technical Standards](/delivery_recipe/technical-delivery/README.md)
+        * [Code Quality](/delivery_recipe/technical-delivery/code-quality/README.md)
+        * [Testing](/delivery_recipe/technical-delivery/testing/README.md)
+        * [Automation](/delivery_recipe/technical-delivery/automation/README.md)
+      * [Security Standards](/delivery_recipe/technical-delivery/security/README.md)
+      * [Quality Standards]()
+      * [Risk Standards]()
+  * [Delivery Governance](delivery_recipe/delivery-governance.md)
     * [Steering Group](/delivery_recipe/Delivery/steering_group_meetings.md)
     * [Risk Management](/delivery_recipe/risk_management.md)
       * [Risk Attitude](/delivery_recipe/positive_risk_attitude.md)
       * [Assesing Risks](/delivery_recipe/assessing_risks.md)
-    * [Other Methods](/delivery_recipe/other_methods.md)
-      * [Kanban](/delivery_recipe/kanban.md)
-      * [Lean](/delivery_recipe/lean.md)
-  * Service Management
-  * [Our Digital Service Standards](/delivery_recipe/digital_service_standards.md)
-    * [Technical Standards](/delivery_recipe/technical-delivery/README.md)
-      * [Code Quality](/delivery_recipe/technical-delivery/code-quality/README.md)
-      * [Testing](/delivery_recipe/technical-delivery/testing/README.md)
-      * [Automation](/delivery_recipe/technical-delivery/automation/README.md)
-    * [Security Standards](/delivery_recipe/technical-delivery/security/README.md)
-    * Quality Standards
-    * Risk Standards
   * [Delivery Help Cards](/delivery_recipe/help-cards/README.md)
     * [Help Card - Sprint Planning](/delivery_recipe/help-cards/sprint-planning.md)
     * [Help Card - Sprint Review](/delivery_recipe/help-cards/sprint-review.md)
