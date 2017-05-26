@@ -75,5 +75,6 @@
   * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
-* [Delivery Governance](delivery_recipe/delivery-governance.md)
+
+
 
