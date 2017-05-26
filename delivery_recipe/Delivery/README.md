@@ -10,20 +10,10 @@ In this phase of delivering the product, we take what has been learned in Discov
 * [Sprint Review](//delivery_recipe/sprint_review.md): At the end of the sprint, reporting on what was done and demonstrating the thing.
 * [Sprint Retrospective](//delivery_recipe/sprint_retrospective.md): Learning from the sprint, and looking to improve the way we work.
 
-
-
 During this process we also need to ensure good governance of the project
 
 * [Steering Group](//delivery_recipe/Delivery/steering_group_meetings.md): A regular meeting of stakeholders to report on progress and take decisions to support the success of the product.
 * [Risk Management](//delivery_recipe/risk_management.md): Success is based on clearly and regularly identifying risks, and then addressing them.
-
-
-
-Our [delivery methodology](//delivery_recipe/other_methods.md) is built on the foundations of:
-
-* [Scrum](//delivery_recipe/scrum.md)
-* [Kanban](//delivery_recipe/kanban.md)
-* [Lean](//delivery_recipe/lean.md)
 
 
 
