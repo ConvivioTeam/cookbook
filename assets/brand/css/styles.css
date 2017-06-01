@@ -1,0 +1,87 @@
+body {
+  padding-top: 140px; }
+
+body,
+.book,
+.book-summary,
+.book.font-family-0,
+.book.font-family-1 {
+  font-family: Helvetica, Arial, sans-serif; }
+
+#header {
+  background-color: #EC604B;
+  padding: 28px 0 24px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 2;
+  min-height: 140px;
+  font-family: "Galano Grotesque W00 Bold", Helvetica, Arial, san-serif; }
+
+.branding {
+  float: right;
+  width: 15%;
+  max-width: 160px;
+  height: 0;
+  padding-bottom: 5%;
+  margin-top: 0.15em;
+  margin-bottom: 0.05em;
+  background: url("../images/logos/Mark-Only-White.svg") no-repeat;
+  -webkit-background-size: contain;
+  background-size: contain;
+  overflow: hidden;
+  text-indent: -9000px;
+  display: block; }
+
+.site-name {
+  color: #F8F4EA;
+  font-size: 26px;
+  line-height: 56px;
+  letter-spacing: -1px;
+  margin-bottom: 0;
+  display: inline-block;
+  overflow: hidden;
+  white-space: nowrap; }
+
+.site-name h1 {
+  font-size: 1.67em;
+  margin: 0.18em 0; }
+
+.title-bar {
+  padding: 0 45px; }
+
+.book-summary {
+  background: #F8F4EA; }
+  .book-summary ul.summary {
+    top: 50px;
+    padding-top: 40px;
+    width: 80%;
+    margin: 0 auto; }
+    .book-summary ul.summary li.header {
+      font-weight: 600;
+      color: #404040;
+      border-top: 1px solid rgba(0, 0, 0, 0.07);
+      padding: 15px 0 10px; }
+    .book-summary ul.summary li a,
+    .book-summary ul.summary li span {
+      display: block;
+      padding: 10px 15px;
+      border-bottom: none;
+      background: 0 0;
+      text-overflow: ellipsis;
+      overflow: hidden;
+      white-space: nowrap;
+      position: relative; }
+    .book-summary ul.summary li.active > a {
+      color: #FE5F45; }
+
+/* Responsive Fixes */
+@media (min-width: 600px) {
+  .site-name {
+    width: auto; }
+
+  .site-name span {
+    display: none; } }
+
+/*# sourceMappingURL=styles.css.map */
