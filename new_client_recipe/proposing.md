@@ -29,7 +29,7 @@ At a very high level, our proposal should set out:
 
 ## Written Proposal
 
-Sometimes clients set out a strict format for proposals. Their intention is to make it easy for them to compare different suppliers, and score against set criteria. We won't go into all the ways it leads to the wrong outcomes here, but we have to
+Sometimes clients set out a strict format for proposals. Their intention is to make it easy for them to compare different suppliers, and score against set criteria. We won't go into all the ways it leads to the wrong outcomes here, but we have to find a good balance between the two — as will be the case with the working practices of both organisations when we collaborate on the project itself.
 
 At an early stage we should speak to our contact there to see if we can submit in our own format without procurement scoring being an issue. If not, we should just write our normal proposal, then work through theirs and fit our proposal into their sections. Next we should review the proposal in their format to see if there are any gaps that could result in scoring problems, and fill these in. When we submit we should submit their version, and also our version, with an explanation.
 
