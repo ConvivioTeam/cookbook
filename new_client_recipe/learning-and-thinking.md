@@ -30,7 +30,7 @@ We'll get to developing our proposal soon, but first we want to learn enough abo
 
 * Look at the _'key questions the client will need a positive answer to before being sure that there is a match'_. What evidence can we provide to answer these?
 
-* What are the risks\/obstacles\/constraints? How will we address these?
+* What are the risks/obstacles/constraints? How will we address these?
 
 * How would we prioritise what needs to be done?
 
