@@ -71,6 +71,7 @@
     * [Help Card - Sprint Planning](/delivery_recipe/help-cards/sprint-planning.md)
     * [Help Card - Sprint Review](/delivery_recipe/help-cards/sprint-review.md)
     * [Help Card - Sprint Retrospective](/delivery_recipe/help-cards/sprint-retrospective.md)
+    * [Help Card - Product Owner Feedback](/delivery_recipe/help-cards/product_owner_feedback.md)
     * [Help Card - Common Issues](/delivery_recipe/help-cards/common-issues.md)
     * [Help Card - Slack](/delivery_recipe/help-cards/tool-slack.md)
     * [Help Card - Github](/delivery_recipe/help-cards/tool-github.md)
