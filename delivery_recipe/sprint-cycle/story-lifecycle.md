@@ -2,11 +2,16 @@
 
 Each story has a unique lifecycle depending on its complexity and requirements. We’ve tried to capture the general lifecycle of a story here, but like most things it can be subject to change.
 
+## Writing
+
+Each piece of work to be done is captured as a [user story](/delivery_recipe/help-cards/help-card-user-stories.md).
+
 ## Wireframing
 
 A high level overview of each user facing interface. What information do users need to see and what elements do they interact with to progress in their journey?
 
 ## Technical Research
+
 There are always multiple ways to build a piece of functionality so when a developer picks up a ticket their first job is to find the best tools to start the task. We encourage developers [not to re-invent the wheel](/delivery_recipe/technical-delivery/code-quality/README.md#dont-write-code-write-new-code-only-when-everything-else-fails), so initial research is always important when starting off.
 
 Sometimes, in hindsight, the technical choices made initially may prove not to be the best approach, and improvements are made through re-evaluation and peer review.
@@ -21,11 +26,11 @@ The output is reviewed by a designer and the look and feel are adapted for good 
 
 ## Local Testing
 
-Once functionality has been implemented it’s time to test it out locally. 
+Once functionality has been implemented it’s time to test it out locally.
 
-- Does it match the acceptance criteria?
-- Does it pass any edge-case requirements?
-- Are there any PHP notices or warnings? and so on.
+* Does it match the acceptance criteria?
+* Does it pass any edge-case requirements?
+* Are there any PHP notices or warnings? and so on.
 
 Most of these should be addressed before code leaves a developers machine.
 
@@ -60,3 +65,4 @@ Now that the story is complete we can deploy it to production, ready for use. Hi
 ## Usability testing
 
 Some stories may require validation after delivery. Do they solve the problem as effectively as we anticipated? Did we introduce any problems that we didn't identify before?
+

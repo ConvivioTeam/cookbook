@@ -43,7 +43,9 @@ The administrator and the new and previous owners receive email about the transf
 
 If there were any problems with the transfer (e.g. the new owner’s quota is exceeded, which prevents the transfer of some documents), the email notification describes what happened. To fix the problem, you might purchase more storage for Google Drive for the new owner, transfer ownership of the documents to a different user, or redistribute ownership of documents one at a time to different users.
 
-If you intend to delete the original owner of the transferred files, make sure to wait until the transfer finishes
+If you intend to delete the original owner of the transferred files, make sure to wait until the transfer finishes.
+
+The removal of these accounts and their access is managed by administrators.
 
 ##Git Hub 
 

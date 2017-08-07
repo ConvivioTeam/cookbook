@@ -1,0 +1,36 @@
+// Typography
+$font-family-primary: 'Galano Grotesque W00 Bold', Helvetica, Arial, san-serif;
+$font-family-secondary: 'AvenirNextLTW01-Regular', Helvetica, Arial, san-serif;
+$font-family-secondary--bold: 'Avenir Next LT W01 Bold', Helvetica, Arial, san-serif;
+$base-font-size:   16px;
+$base-font-weight: 400;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.4;
+
+// Convivio Colors
+$jelly-bean: #EC604B;
+$isabelline: #F8F4EA;
+
+$black: #343434;
+$grey: #717070;
+$mid-grey: #B8B6B6;
+$white: #FDFDFF;
+
+$rajah: #FFD066;
+$keppel: #45A8A3;
+$aquamarine: #70D893;
+
+// Other company brand colors
+$twitter: #1da1f2;
+$medium: #02b875;
+
+// Units
+$max-width: 980px;
+
+// Breakpoints
+$wide-layout: '(min-width: 650px)';
+$medium-layout: '(min-width: 451px)';
+$narrow-layout: '(max-width: 450px)';
+
+$iphone6-7: '(device-width : 375px) and (device-height : 667px) and (orientation : portrait)';
+$nexus6: '(device-width : 412px) and (device-height : 732px) and (orientation : portrait)';

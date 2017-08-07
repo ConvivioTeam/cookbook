@@ -1,0 +1,45 @@
+{% extends template.self %}
+
+
+{% block body %}
+
+{{ super() }}
+
+{# This block doesn't work for some reason. #}
+
+{% endblock %}
+
+{% block style %}
+{{ super() }}
+
+<link rel="stylesheet" href="/assets/brand/css/styles.css">
+
+<!--<script type="text/javascript" src="https://code.jquery.com/jquery-1.11.3.min.js"></script>-->
+
+<style type="text/css">
+  @font-face{
+    font-family:"AvenirNextLTW01-Regular";
+    src:url("/assets/brand/webfonts/e9167238-3b3f-4813-a04a-a384394eed42.eot?#iefix");
+    src:url("/assets/brand/webfonts/e9167238-3b3f-4813-a04a-a384394eed42.eot?#iefix") format("eot"),url("/assets/brand/webfonts/2cd55546-ec00-4af9-aeca-4a3cd186da53.woff2") format("woff2"),url("/assets/brand/webfonts/1e9892c0-6927-4412-9874-1b82801ba47a.woff") format("woff"),url("/assets/brand/webfonts/46cf1067-688d-4aab-b0f7-bd942af6efd8.ttf") format("truetype"),url("/assets/brand/webfonts/52a192b1-bea5-4b48-879f-107f009b666f.svg#52a192b1-bea5-4b48-879f-107f009b666f") format("svg");
+  }
+  @font-face{
+    font-family:"Avenir Next LT W01 Bold";
+    src:url("/assets/brand/webfonts/dccb10af-07a2-404c-bfc7-7750e2716bc1.eot?#iefix");
+    src:url("/assets/brand/webfonts/dccb10af-07a2-404c-bfc7-7750e2716bc1.eot?#iefix") format("eot"),url("/assets/brand/webfonts/14c73713-e4df-4dba-933b-057feeac8dd1.woff2") format("woff2"),url("/assets/brand/webfonts/b8e906a1-f5e8-4bf1-8e80-82c646ca4d5f.woff") format("woff"),url("/assets/brand/webfonts/890bd988-5306-43ff-bd4b-922bc5ebdeb4.ttf") format("truetype"),url("/assets/brand/webfonts/ed104d8c-7f39-4e8b-90a9-4076be06b857.svg#ed104d8c-7f39-4e8b-90a9-4076be06b857") format("svg");
+  }
+  @font-face{
+    font-family:"Galano Grotesque W00 Bold";
+    src:url("/assets/brand/webfonts/13a425f6-0a04-4ef9-a0ee-1f9c8b16ec1b.eot?#iefix");
+    src:url("/assets/brand/webfonts/13a425f6-0a04-4ef9-a0ee-1f9c8b16ec1b.eot?#iefix") format("eot"),url("/assets/brand/webfonts/50739fd4-8655-482c-8861-eabf3b8dcca9.woff2") format("woff2"),url("/assets/brand/webfonts/27faa970-06ad-413a-ac10-95c42544d00d.woff") format("woff"),url("/assets/brand/webfonts/a3c14aa7-edc3-4e79-8279-5824b3534bd3.ttf") format("truetype"),url("/assets/brand/webfonts/6f2eda25-3276-4d01-a2e7-50d20c645064.svg#6f2eda25-3276-4d01-a2e7-50d20c645064") format("svg");
+  }
+</style>
+
+
+{% endblock %}
+
+{% block javascript %}
+{{ super() }}
+
+{# This block doesn't work for some reason. #}
+
+{% endblock %}

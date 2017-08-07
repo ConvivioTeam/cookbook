@@ -10,6 +10,8 @@ The use of laptop/notebook/tablet computers and other mobile devices increases t
 
 Laptops/notebooks and media must be handled and stored securely. In cars they must be stored out of sight when the car is left unattended e.g. in boot. When users are travelling, laptops/notebooks (and media) should not be left unattended in public places and should always be carried as hand luggage when travelling by public transport. Unofficial, unauthorised or unlicensed software must not be loaded on laptops/notebooks.
 
+All laptops must have Bitdefender installed to protect against malware, viruses and Trojans, and the spread of these to other users. Quick scans are scheduled to run daily, full scans are run weekly. There is a quarterly review of firewall configurations when all users are required to update their configuration to meet the company policy.
+
 Users are responsible for maintaining the security of their devices. This includes locking devices when leaving them, not sharing login details, not providing unauthorised users with access to the device and installing security updates regularly.
 
 It is also the responsibility of the user to immediately report the loss, theft or unauthorised access of any mobile equipment to Convivio.
@@ -50,6 +52,19 @@ In order to comply with the Data Protection Act, person identifiable information
 * For work involving person identifiable information from locations within Convivio, users will be required, wherever possible, to use Convivio’s network to store data.
 * Public wifi should not be used to transfer sensitive data, if public wifi is unavoidable, the Convivio VPN should be used.
 
+### Standard Build
+
+There is a standard company laptop build which is provided from a centrally controlled source. When a laptop is booted up for the first time the user must run through the following steps:
+
+* Create a new user with a secure password (see [password policy](/delivery_recipe/technical-delivery/security/) page)
+* Ensure that encryption is enabled on user creation
+* Install Brew
+* Install Ansible
+* Download our *Private* OSX Provisioning repo
+* Run OSX Provisioning
+
+This is a private repo containing proprietary code and a standard build defined by Convivio. The process installs and configures key software including anti-malware, remote desktop, firewall, virtualbox, vagrant and OSX defaults, as defined by our administrators.
+
 ## Backups
 
 It is not permissible for Convivio or its customer data to be stored solely on the hard disk of a laptop or notebook. Users of laptops/notebooks are responsible for ensuring that all Convivio data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
@@ -58,7 +73,7 @@ It is not permissible for Convivio or its customer data to be stored solely on t
 
 As Convivio predominantly use Apple Mac computers it is priority to outline maintaining security on OSX. Periodically, Apple releases free updates for OSX software. Updates should be set to run automatically. These include important security updates that protect Apple computers from potential threats.
 
-Any patches that are released for threats should be implemented immediately. It is the responsibility of Convivio employees to observe changes in technology and maintain their computers to prevent risk.
+Any patches that are released for threats should be implemented immediately. It is the responsibility of Convivio employees to observe changes in technology and maintain their computers to prevent risk. Software updates should be set to update automatically.
 
 Updates suggested by other software vendors used for products used by Convivio should also be implemented.
 
@@ -74,3 +89,5 @@ All Convivio hardware is insured both within the UK and abroad (within the EU).
 After 2 years of use any Convivio hardware will become the property of the user who requested its original purchase. This is supported by the Convivio ISMS data policy whereby no company information is kept on laptops and computers but is stored in a central location, this prevents the need to destroy company laptops.
 
 If a user leaves the company before 2 years any hardware can be purchased from Convivio for a cost that represents its current value.
+
+Because the software we produce is open source, there is no requirement to delete everything from any purchased machines. Any accounts relating to the user/laptop will be removed, see *Staff Leaving* in our [Document Access](/business_operation_recipe/security/document_access.html) policy.

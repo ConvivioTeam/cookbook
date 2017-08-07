@@ -4,6 +4,8 @@ Our cookbook often talks about quality but what is that and how do we measure wh
 
 Our quality management is aligned with the ISO9001 Quality Management standard. Some of our team have achieved ISO certification for a number of organisations in the past and we use that experience to implement our own quality management system that works well for us and our clients.
 
+We have also been certified for Cyber Essentials, an industry supported certification scheme developed by the UK government to ensure that we have implemented the tools, processes and practices to cover essential cyber security precautions. 
+
 Quality management is about setting quality objectives, defining the processes to achieve those objectives, measuring progress and continually improving our ways of working to meet or exceed the objectives.
 
 Quality management doesn’t only apply to service delivery, it runs through everything that the business does, from recruitment through to sales and support.
