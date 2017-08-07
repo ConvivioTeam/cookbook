@@ -4,7 +4,7 @@ Each story has a unique lifecycle depending on its complexity and requirements. 
 
 ## Writing
 
-Once the need is discovered it is captured as a [user story](/delivery_recipe/help-cards/help-card-user-stories.md).
+Each piece of work to be done is captured as a [user story](/delivery_recipe/help-cards/help-card-user-stories.md).
 
 ## Wireframing
 
