@@ -10,7 +10,7 @@ These goals will help us identify the high-level requirements that will need to 
 
 ## User Needs
 
-All of what we do, the decision we make, the solutions we develop, these are all driven by the needs of the users. The business sets itself goals but we need to understand what the users want in order to achieve those goals. If the business needs to improve sales then we need to look at what its users need to understand the opportunities we can exploit. 
+All of what we do, the decisions we make, the solutions we develop, these are all driven by the needs of the users. The business sets itself goals but we need to understand what the users want in order to achieve those goals. If the business needs to improve sales then we need to look at what its users need to understand the opportunities we can exploit. 
 
 The discovery process takes a close look at the users. That process can include:
  
