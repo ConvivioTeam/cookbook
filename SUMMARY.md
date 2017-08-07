@@ -60,7 +60,7 @@
       * [Testing](/delivery_recipe/technical-delivery/testing/README.md)
       * [Automation](/delivery_recipe/technical-delivery/automation/README.md)
         * [Security Standards](/delivery_recipe/technical-delivery/security/README.md)
-        * [Quality Standards]()
+        * [Quality Standards](/delivery_recipe/quality_standards.md)
         * [Risk Standards]()
   * [Delivery Governance](delivery_recipe/delivery-governance.md)
     * [Steering Group](/delivery_recipe/Delivery/steering_group_meetings.md)

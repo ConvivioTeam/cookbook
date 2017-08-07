@@ -11,8 +11,5 @@ As part of driving quality through our delivery process we incorporate the follo
   * [Testing](/delivery_recipe/technical-delivery/testing/README.md)
   * [Automation](/delivery_recipe/technical-delivery/automation/README.md)
 * [Security Standards](/delivery_recipe/technical-delivery/security/README.md)
-* [Quality Standards]()
+* [Quality Standards](/delivery_recipe/quality_standards.md)
 * [Risk Standards]()
-
-
-
