@@ -12,11 +12,13 @@ We start to build concise descriptions of the users of the service based on the 
 
 The high level goals, motivations, or problems to solve of the \(potential\) users of the service. Good user needs are based on something a real user would say, and would avoid implying a solution.
 
-These are written in the format of [user stories](/delivery_recipe/help-cards/help-card-user-stories.md).
-
 ## User journey maps
 
 A breakdown of the steps needed to achieve a user need. This helps us breakdown the work involved and includes any contextual information that helps us design solutions.
+
+## User Stories
+
+These are written in the format of [user stories](/delivery_recipe/help-cards/help-card-user-stories.md).
 
 ## Risk map
 
