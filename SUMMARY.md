@@ -61,7 +61,7 @@
       * [Automation](/delivery_recipe/technical-delivery/automation/README.md)
         * [Security Standards](/delivery_recipe/technical-delivery/security/README.md)
         * [Quality Standards](/delivery_recipe/quality_standards.md)
-        * [Risk Standards]()
+        * Risk Standards
   * [Delivery Governance](delivery_recipe/delivery-governance.md)
     * [Steering Group](/delivery_recipe/Delivery/steering_group_meetings.md)
     * [Risk Management](/delivery_recipe/risk_management.md)
@@ -87,6 +87,7 @@
     * [Data Usage Policy](business_operation_recipe/security/data_usage_policy.md)
     * [Document Access Policy](business_operation_recipe/security/document_access.md)
     * [Mobile Equipment Policy](business_operation_recipe/security/mobile_equipment_policy.md)
+  * [Your home working environment](business_operation_recipe/brand_guidelines/your-home-working-environment.md)
   * [Content Publishing](business_operation_recipe/brand_guidelines/content-publishing.md)
   * [Git Repository Conventions](business_operation_recipe/git-repository-conventions.md)
   * [Submit Expenses](business_operation_recipe/submit_expenses.md)
@@ -101,6 +102,4 @@
   * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
-
-
 
