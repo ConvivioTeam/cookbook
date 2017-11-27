@@ -6,5 +6,4 @@ This is the way we run the business day to day, including making decisions, fore
 
 [Our Purpose](/business_operation_recipe/our-purpose.md): why our company exists, what we focus on and how we behave. This is the core definition of our business.
 
-[Our Momentum](/business_operation_recipe/our-momentum.md): How we run the business, achieve our aims and continuosly improve it.
-
+[Our Pulse](/business_operation_recipe/our-pulse.md): How we run the business, achieve our aims and continuously improve it.
