@@ -6,8 +6,8 @@ We have this hierarchy of _things to do_:
 
 * **Purpose:** The reason why our company exists. Almost never changes. All other things to do work towards this.
 * **Ambitions:** Specific goals we dream of achieving on the road towards our purpose in the next three years. Only changes every three years.
-* **Big Rocks:** a short list of the really important things that need to happen to advance our business towards our ambitions. This list helps avoid being distracted by other noise that comes up and demands attention. Big rocks always take priority. Changes quarterly.
-* **Problems:** We actively work to find problems in our business. These are problems in the sense that a crossword clue or a maths question is a problem to be solved, not just a problem in the sense of a crisis or failure. They may be things that stand in the way of delivering our big rocks, things that frustrate people in their daily work, unknown\/undecided things to be figured out, and more. Changes weekly.
+* **[Big Rocks](/business_operation_recipe/pulse/big-rocks.md):** a short list of the really important things that need to happen to advance our business towards our ambitions. This list helps avoid being distracted by other noise that comes up and demands attention. Big rocks always take priority. Changes quarterly.
+* **[Problems](/business_operation_recipe/pulse/problems.md):** We actively work to find problems in our business. These are problems in the sense that a crossword clue or a maths question is a problem to be solved, not just a problem in the sense of a crisis or failure. They may be things that stand in the way of delivering our big rocks, things that frustrate people in their daily work, unknown\/undecided things to be figured out, and more. Changes weekly.
 * **Ideas:** We generate ideas to address the identified problems. These ideas then get discussed and selected for action. May change daily.
 
 These are the things we focus on in running our business. To keep us focused on these we have a set of regular _activities_ that happen to create the pulse…
