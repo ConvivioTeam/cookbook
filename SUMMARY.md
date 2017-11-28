@@ -96,11 +96,10 @@
   * [Grievance Procedure](business_operation_recipe/grievance_procedure.md)
   * [Equal Opportunities](business_operation_recipe/equal_opportunities.md)
   * [Our Purpose](business_operation_recipe/our-purpose.md)
-  * [Our Momentum](business_operation_recipe/our-momentum.md)
+  * [Our Pulse](business_operation_recipe/pulse/README.md)
+    * [Big Rocks](business_operation_recipe/pulse/big-rocks.md)
+    * [Problems](business_operation_recipe/pulse/problems.md)
 * [Actual Food Recipes](actual_food_recipes/README.md)
   * [Aubergine Curry](actual_food_recipes/aubergine_curry.md)
   * [Vegetarian Paella](actual_food_recipes/vegetarian_paella.md)
   * [Easy Ice Cream](actual_food_recipes/easy-ice-cream.md)
-
-
-
