@@ -42,7 +42,7 @@ Data protection is available for devices that offer hardware encryption, includi
 
 ### Android
 
-Android offers Device Encryption please refer to Android [documentation](https://source.android.com/security/encryption/full-disk) for more information.
+Android users must use full disk encryption, please refer to Android [documentation](https://source.android.com/security/encryption/full-disk) for more information.
 
 ## Removable Media
 
