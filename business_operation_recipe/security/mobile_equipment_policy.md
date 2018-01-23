@@ -8,7 +8,7 @@ The use of laptop/notebook/tablet computers and other mobile devices increases t
 
 ### Users
 
-Laptops/notebooks and media must be handled and stored securely. In cars they must be stored out of sight when the car is left unattended e.g. in boot. When users are travelling, laptops/notebooks (and media) should not be left unattended in public places and should always be carried as hand luggage when travelling by public transport. Unofficial, unauthorised or unlicensed software must not be loaded on laptops/notebooks.
+Laptops/notebooks and media must be handled and stored securely. In cars they must be stored out of sight when the car is left unattended e.g. in boot. When users are travelling, laptops/notebooks \(and media\) should not be left unattended in public places and should always be carried as hand luggage when travelling by public transport. Unofficial, unauthorised or unlicensed software must not be loaded on laptops/notebooks.
 
 All laptops must have Bitdefender installed to protect against malware, viruses and Trojans, and the spread of these to other users. Quick scans are scheduled to run daily, full scans are run weekly. There is a quarterly review of firewall configurations when all users are required to update their configuration to meet the company policy.
 
@@ -18,7 +18,7 @@ It is also the responsibility of the user to immediately report the loss, theft 
 
 ### Convivio
 
-Convivio should ensure the correct configuration of the laptop/notebooks i.e. hard drives are encrypted to 256 bit, Data Loss Protection (DLP) software is installed and all relevant group policies are enforced. All laptops must be password protected with a password over 16 characters long containing both Alphanumeric characters and punctuation.
+Convivio should ensure the correct configuration of the laptop/notebooks i.e. hard drives are encrypted to 256 bit, Data Loss Protection \(DLP\) software is installed and all relevant group policies are enforced. All laptops must be password protected with a password over 16 characters long containing both Alphanumeric characters and punctuation.
 
 Convivio must approve and recommend a member of staff to be given remote access, having regard to the role and remit of the member of staff.
 
@@ -39,10 +39,10 @@ The provision of laptop/notebook computers shall be subject to the following con
 
 In order to comply with the Data Protection Act, person identifiable information shall be stored in a laptop/notebook only when this is absolutely necessary. Where it is necessary to store such information, the following conditions apply:
 
-* Unnecessary user accounts (e.g. Guest accounts and unnecessary administrative accounts) should be removed or disabled.
-* Unnecessary software (including application, system utilities and network services) should be removed or disabled.
-* The auto-run feature should be disabled (to prevent software programs running automatically when removable storage media is connected to a computer or when network folders are accessed).
-* A personal firewall (or equivalent) should be enabled on desktop PCs and laptops,and configured to disable (block) unapproved connections by default.
+* Unnecessary user accounts \(e.g. Guest accounts and unnecessary administrative accounts\) should be removed or disabled.
+* Unnecessary software \(including application, system utilities and network services\) should be removed or disabled.
+* The auto-run feature should be disabled \(to prevent software programs running automatically when removable storage media is connected to a computer or when network folders are accessed\).
+* A personal firewall \(or equivalent\) should be enabled on desktop PCs and laptops,and configured to disable \(block\) unapproved connections by default.
 * Password authentication must be applied; encryption must be applied to the hard drive;
 * It shall be stored only for the time period when it is actively being used;
 * It shall be deleted immediately after use;
@@ -56,11 +56,11 @@ In order to comply with the Data Protection Act, person identifiable information
 
 There is a standard company laptop build which is provided from a centrally controlled source. When a laptop is booted up for the first time the user must run through the following steps:
 
-* Create a new user with a secure password (see [password policy](/delivery_recipe/technical-delivery/security/) page)
+* Create a new user with a secure password \(see [password policy](/delivery_recipe/technical-delivery/security/) page\)
 * Ensure that encryption is enabled on user creation
 * Install Brew
 * Install Ansible
-* Download our *Private* OSX Provisioning repo
+* Download our _Private_ OSX Provisioning repo
 * Run OSX Provisioning
 
 This is a private repo containing proprietary code and a standard build defined by Convivio. The process installs and configures key software including anti-malware, remote desktop, firewall, virtualbox, vagrant and OSX defaults, as defined by our administrators.
@@ -68,6 +68,10 @@ This is a private repo containing proprietary code and a standard build defined 
 ## Backups
 
 It is not permissible for Convivio or its customer data to be stored solely on the hard disk of a laptop or notebook. Users of laptops/notebooks are responsible for ensuring that all Convivio data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
+
+## VPN
+
+When connected to 3rd party network Convivio VPN must be used. VPN accounts are created as part of the new employee on-boarding.
 
 ## Software maintenance
 
@@ -79,10 +83,11 @@ Updates suggested by other software vendors used for products used by Convivio s
 
 ## Hardware faults
 
-Any hardware faults are to be monitored by the member of staff and reported to Convivio management. All Apple products are covered by Applecare and can be fixed under the policies outlined by Apple. 
+Any hardware faults are to be monitored by the member of staff and reported to Convivio management. All Apple products are covered by Applecare and can be fixed under the policies outlined by Apple.
 
 ## Laptop Insurance
-All Convivio hardware is insured both within the UK and abroad (within the EU).
+
+All Convivio hardware is insured both within the UK and abroad \(within the EU\).
 
 ## Disposal of Hardware
 
@@ -90,4 +95,5 @@ After 2 years of use any Convivio hardware will become the property of the user 
 
 If a user leaves the company before 2 years any hardware can be purchased from Convivio for a cost that represents its current value.
 
-Because the software we produce is open source, there is no requirement to delete everything from any purchased machines. Any accounts relating to the user/laptop will be removed, see *Staff Leaving* in our [Document Access](/business_operation_recipe/security/document_access.html) policy.
+Because the software we produce is open source, there is no requirement to delete everything from any purchased machines. Any accounts relating to the user/laptop will be removed, see _Staff Leaving_ in our [Document Access](/business_operation_recipe/security/document_access.html) policy.
+
