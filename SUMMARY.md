@@ -95,6 +95,7 @@
   * [Disciplinary Procedure](business_operation_recipe/disciplinary_procedure.md)
   * [Grievance Procedure](business_operation_recipe/grievance_procedure.md)
   * [Equal Opportunities](business_operation_recipe/equal_opportunities.md)
+  * [Fair Tax Policy](business_operation_recipe/fair_tax.md)
   * [Our Purpose](business_operation_recipe/our-purpose.md)
   * [Our Pulse](business_operation_recipe/pulse/README.md)
     * [Big Rocks](business_operation_recipe/pulse/big-rocks.md)
