@@ -1,7 +1,5 @@
 # Fair Tax Policy
 
-## Fair Tax Policy
-
 Convivio aims to be a responsible company that makes a positive contribution to society.
 
 We benefit from public services through the education and healthcare our staff receive, the protections of our security and legal system, transport infrastructure, a business and legal framework that enables us to operate, and simply by being in a society where our staff and families have their basic needs met and so can focus on higher economic contributions - and much much more.
@@ -68,7 +66,7 @@ The company has a £50,000 interest-free long-term loan from the shareholder. Th
 
 ## Annual accounts for year end Sept 2017
 
-Our full accounts are available for download here \(link TBC\).
+Our full accounts are available to view here: [https://drive.google.com/open?id=1RD5dia\_mH0MMpDwSyCNg64koVLUeZxZz](https://drive.google.com/open?id=1RD5dia_mH0MMpDwSyCNg64koVLUeZxZz).
 
 Our first financial year was 15 months long, as we had 3 months of setup and 12 trading months.
 
@@ -97,7 +95,11 @@ The director of the company was paid £62,885 over the 15 months of the trading 
 
 #### Corporation tax
 
-The company made a small loss in its first year, and so no Corporation Tax was payable. However, the company also qualified for Research & Development Tax Credits amounting to £12,619.
+The Corporation Tax \(CT\) rate changed during the period. It was 20% for 302 days, and 19% for 183 days. That gives a headline rate for this period of 19.62%.
+
+The company made a small loss before tax in its first year, and so no Corporation Tax was payable. 
+
+However, the company also qualified for Research & Development Tax Credits amounting to £12,619 — so a CT credit was earned.
 
 #### PAYE / NIC
 
@@ -105,5 +107,5 @@ The company paid £95,776.12 of PAYE/NIC to HMRC in this financial year, of whic
 
 #### VAT
 
-The company raised £\(TBC\) of VAT on behalf of HMRC in this financial year.
+The company raised £42,749 of VAT on behalf of HMRC in this financial year. A substantial amount of work in our first year was for clients in the USA, so no VAT was chargeable.
 
