@@ -1,0 +1,2 @@
+# Git Repository Conventions
+

@@ -12,11 +12,11 @@ We define the company in five layers, building up towards our purpose. Each laye
 
 ## Our Five Values
 
-1. **Healthy: **putting people first, looking after ourselves and others, looking long-term, working sustainably. Working with integrity, being honest and frank, being ethical, earning trust. Doing the right thing.
-2. **Professional: **developing talent and tools, asking great questions, having high standards and ensuring quality. Achieving excellence. Doing things right.
-3. **Ambitious: **Growing ourselves, our knowledge and our expertise. Constantly seeking to be better. Aiming higher. Thinking long term. Change the world. Doing things big.
-4. **Delivering: **Focus and momentum. Meeting the expectations of others. Getting things done done.
-5. **Sharing: **extreme transparency, amazing communication, brilliant collaboration, being open with our work, being consultative, and spreading success. Doing things together.
+1. **Healthy:** putting people first, looking after ourselves and others, looking long-term, working sustainably. Working with integrity, being honest and frank, being ethical, earning trust. Doing the right thing.
+2. **Professional:** developing talent and tools, asking great questions, having high standards and ensuring quality. Achieving excellence. Doing things right.
+3. **Ambitious:** Growing ourselves, our knowledge and our expertise. Constantly seeking to be better. Aiming higher. Thinking long term. Change the world. Doing things big.
+4. **Delivering:** Focus and momentum. Meeting the expectations of others. Getting things done done.
+5. **Sharing:** extreme transparency, amazing communication, brilliant collaboration, being open with our work, being consultative, and spreading success. Doing things together.
 
 ## Our Four Motivations
 

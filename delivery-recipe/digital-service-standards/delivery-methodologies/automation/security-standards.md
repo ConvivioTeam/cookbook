@@ -22,7 +22,7 @@ Administrator passwords \(firewalls, Google, GitHub\) and laptop passwords are r
 
 #### Update all the things
 
-Open source software projects regularly release security updates for the core sofware and for modules within it. Some OSS will include an update status that will specifically identify any available or pending security updates. _**Always**_** ensure you install security updates.**
+Open source software projects regularly release security updates for the core sofware and for modules within it. Some OSS will include an update status that will specifically identify any available or pending security updates. _**Always**_ **ensure you install security updates.**
 
 Drupal security updates are reported weekly and are reviewed by our technical team. Priority updates are installed within a maximum of 48 hours.
 

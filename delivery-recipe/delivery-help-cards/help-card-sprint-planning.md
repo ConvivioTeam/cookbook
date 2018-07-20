@@ -12,43 +12,43 @@ The planning meeting is timeboxed to 8 hours. However, most of the time we’ll 
 
 This is a mandatory meeting for the delivery team, the delivery manager and the product owner. Additionally certain subject matter experts from the client or 3rd parties may need to attend all or part of the meeting.
 
-** Delivery Team ** Discusses the user stories in detail, agrees approach to each story, estimates the effort required.
+ **Delivery Team**  Discusses the user stories in detail, agrees approach to each story, estimates the effort required.
 
-** Delivery Manager ** Runs the meeting, keeps the agenda, focus on objectives.
+ **Delivery Manager**  Runs the meeting, keeps the agenda, focus on objectives.
 
-** Product Owner ** Explains the objectives for the meeting. Supports the delivery team.
+ **Product Owner**  Explains the objectives for the meeting. Supports the delivery team.
 
 ## Before the Meeting
 
 Sprint planning is an intense day so it’s important to prepare properly.
 
-** Backlog scouted **
+ **Backlog scouted** 
 
 * The PO has confirmed the priorities
 * The stories have been defined well, functional requirements and acceptance criteria are recorded
 * The lead developer has checked the stories for accuracy
 
-** Equipment you might need **
+ **Equipment you might need** 
 
 * Whiteboard
 * Post-its
 * Projector/big screen \(and leads\)
 
-** Meeting invite **
+ **Meeting invite** 
 
 * Invites issued and attendees confirmed
 
-** Confirm team **
+ **Confirm team** 
 
 * Availability of all team members checked \(holiday, sick leave checked\)
 
-** Sprint Summary Report **
+ **Sprint Summary Report** 
 
 * You have created a sprint summary report using the template, you’ve added the project goals and basic project details and you’ve added this to your project repository: Convivio &gt; Clients &gt; [Active Clients](https://drive.google.com/drive/folders/0B0adEBtk1YXvd3NOYnhIUjQxd3c) &gt; Client Name \|
 
 You’ll complete the rest of the details during the sprint review.
 
-** Risk Register**
+ **Risk Register**
 
 * You have created a risk register using the template and you’ve added this to the project repository: 
 
@@ -58,11 +58,11 @@ You’ll complete the rest of the details during the sprint review.
 
 There are two artefacts that sprint planning will produce:
 
-** Sprint Goal **
+ **Sprint Goal** 
 
 * a brief explanation of what the sprint should produce
 
-** Sprint Backlog **
+ **Sprint Backlog** 
 
 * a list of user stories and tasks that will achieve the sprint goal
 
@@ -72,17 +72,17 @@ There are two artefacts that sprint planning will produce:
 
 _\(5 minutes\)_
 
-** Opening ** Start the meeting on time.
+ **Opening**  Start the meeting on time.
 
 Open the meeting, make any introductions necessary.
 
 Summarise the previous sprint, any achievements and details of risks or issues we’re carrying. Keep it relaxed but professional. Lead the meeting, don’t allow others to take over.
 
-** Sprint Velocity ** Explain how many story points we completed in the previous sprint and how this fits into our average for the programme to date.
+ **Sprint Velocity**  Explain how many story points we completed in the previous sprint and how this fits into our average for the programme to date.
 
 This is sprint x of y. It’s good to know how far we’ve progressed because this can affect the decisions that the team needs to make. If this is an early sprint then the team will have to go with gut feel.
 
-** Previous Retrospective Actions ** Cover any actions from the previous [sprint retrospective](https://github.com/convivio/the-convivio-cookbook/tree/fe6bd3bde6ed1049b323d750b43bbb620c87c384/delivery_recipe/sprint_retrospective.html) to make sure the improvements are implemented.
+ **Previous Retrospective Actions**  Cover any actions from the previous [sprint retrospective](https://github.com/convivio/the-convivio-cookbook/tree/fe6bd3bde6ed1049b323d750b43bbb620c87c384/delivery_recipe/sprint_retrospective.html) to make sure the improvements are implemented.
 
 ### Handover to PO
 
@@ -115,7 +115,7 @@ The session is completed when:
 4. The Product Owner is happy that the contents \(the selection, not the quantity\) of the backlog will satisfy the sprint goals
 5. The stories and tasks have been recorded in our management tool
 
-** Summarise the sprint **
+ **Summarise the sprint** 
 
 It’s good to finish by summarising the sprint goals and perhaps picking out a couple of key stories to illustrate the bulk of the work.
 

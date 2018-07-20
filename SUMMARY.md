@@ -10,6 +10,7 @@
   * [Nurturing](new-client-recipe/nurturing.md)
   * [Assessing](new-client-recipe/assessing.md)
   * [Learning and Thinking](new-client-recipe/learning-and-thinking.md)
+  * [Pre-qualification questionnaires](new-client-recipe/pre-qualification-questionnaires.md)
   * [Proposing](new-client-recipe/proposing.md)
   * [Agreeing](new-client-recipe/agreeing.md)
   * [Beginning](new-client-recipe/beginning.md)
@@ -19,8 +20,8 @@
   * [Delivery Team](delivery-recipe/delivery-team/README.md)
     * [Convivio People](delivery-recipe/delivery-team/convivio-people.md)
     * [The Coach](delivery-recipe/delivery-team/the-coach.md)
-    * User Researcher
-    * Other Team Members
+    * [User Researcher](delivery-recipe/delivery-team/user-researcher.md)
+    * [Other Team Members](delivery-recipe/delivery-team/other-team-members.md)
   * [Digital Strategy](delivery-recipe/digital-strategy.md)
   * [Discovery](delivery-recipe/discovery/README.md)
     * [Discovery Briefing](delivery-recipe/discovery/discovery-briefing.md)
@@ -28,7 +29,7 @@
     * [Discovery Modules](delivery-recipe/discovery/discovery-modules.md)
     * [Discovery Findings](delivery-recipe/discovery/discovery-findings.md)
     * [Discovery Principles](delivery-recipe/discovery/discovery-principles.md)
-    * Prepare for prototyping
+    * [Prepare for prototyping](delivery-recipe/discovery/prepare-for-prototyping.md)
   * [Prototyping](delivery-recipe/prototyping/README.md)
     * [Inputs to Prototyping](delivery-recipe/prototyping/inputs-to-prototyping.md)
     * [Prototyping Objectives](delivery-recipe/prototyping/prototyping-objectives.md)
@@ -61,7 +62,7 @@
       * [Automation](delivery-recipe/digital-service-standards/delivery-methodologies/automation/README.md)
         * [Security Standards](delivery-recipe/digital-service-standards/delivery-methodologies/automation/security-standards.md)
         * [Quality Standards](delivery-recipe/digital-service-standards/delivery-methodologies/automation/quality-standards.md)
-        * Risk Standards
+        * [Risk Standards](delivery-recipe/digital-service-standards/delivery-methodologies/automation/risk-standards.md)
   * [Delivery Governance](delivery-recipe/delivery-governance/README.md)
     * [Steering Group](delivery-recipe/delivery-governance/steering-group.md)
     * [Risk Management](delivery-recipe/delivery-governance/risk-management/README.md)
@@ -88,7 +89,7 @@
     * [Document Access Policy](business-operation-recipe/security-policy/document-access-policy.md)
     * [Mobile Equipment Policy](business-operation-recipe/security-policy/mobile-equipment-policy.md)
   * [Content Publishing](business-operation-recipe/content-publishing.md)
-  * Git Repository Conventions
+  * [Git Repository Conventions](business-operation-recipe/git-repository-conventions.md)
   * [Submit Expenses](business-operation-recipe/submit-expenses.md)
   * [Purchases](business-operation-recipe/purchases.md)
   * [Holiday and Sickness](business-operation-recipe/holiday-and-sickness.md)

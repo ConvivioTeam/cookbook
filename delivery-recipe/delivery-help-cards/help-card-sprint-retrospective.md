@@ -8,17 +8,17 @@ The purpose of the meeting is to discuss how well the team performed during the 
 
 This is a mandatory meeting for the delivery team but it’s good to include the delivery manager and the product owner.
 
-** Delivery Team ** Each member of the team will discuss what went well and what didn’t go so well.
+ **Delivery Team**  Each member of the team will discuss what went well and what didn’t go so well.
 
-** Delivery Manager ** Runs the meeting. Also takes the opportunity to identify what went well and not so well.
+ **Delivery Manager**  Runs the meeting. Also takes the opportunity to identify what went well and not so well.
 
-** Product Owner ** Mostly a spectator but welcome to ask questions. Might be able to help the sprints run more efficiently in future.
+ **Product Owner**  Mostly a spectator but welcome to ask questions. Might be able to help the sprints run more efficiently in future.
 
 ## Before the Meeting
 
 It’s important to be ready. In the actual meeting we’ll need to compare our performance and look at actions from the previous retrospective.
 
-** Gather Stats **
+ **Gather Stats** 
 
 * How many story points did the team burn during this sprint?
 * How did that compare to the estimate?
@@ -26,7 +26,7 @@ It’s important to be ready. In the actual meeting we’ll need to compare our 
 * What were the actions from the previous retrospective? What has been done to progress them?
 * What are the outputs from the Sprint Review meeting that may need to be explored in a retrospective.
 
-** Create Form **
+ **Create Form** 
 
 Create a retrospective form for this sprint and save in the project folder.
 
@@ -38,13 +38,13 @@ See [retrospective template](https://docs.google.com/document/d/1cbUvtQyb-UXEWDd
 
 There is only one artefacts that the sprint retrospective will produce or update:
 
-** Retrospective Summary **
+ **Retrospective Summary** 
 
 A document describing the discussion and a record of the actions.
 
 ## Agenda
 
-** Previous Actions **
+ **Previous Actions** 
 
 Describe the actions captured in the previous retrospective and ask each owner to describe what’s happened since they were implemented.
 
@@ -52,7 +52,7 @@ Describe the actions captured in the previous retrospective and ask each owner t
 * Should it continue? 
 * Does the change need more time to be assessed?
 
-** Current Sprint **
+ **Current Sprint** 
 
 Consider the experiences from the sprint and ask questions to motivate discussion:
 
@@ -78,11 +78,11 @@ Discuss and agree actions to maintain the strengths and to addresses and weaknes
 
 It’s good to mix up the retrospective, particularly on longer-term projects. Simply asking the same questions in a different way can help people’s thinking.
 
-** Good, Bad, Stop, Start ** What was good, what was bad, what do we need to stop doing, what do we need to start doing?
+ **Good, Bad, Stop, Start**  What was good, what was bad, what do we need to stop doing, what do we need to start doing?
 
-** Went Well, Could’ve Gone Better, Surprises, Lessons ** What went particularly well, what not so well, what cropped up that you weren’t expecting or didn’t plan for, what lessons did you learn?
+ **Went Well, Could’ve Gone Better, Surprises, Lessons**  What went particularly well, what not so well, what cropped up that you weren’t expecting or didn’t plan for, what lessons did you learn?
 
-** Liked, Learned, Lacked, Longed For ** What were the highlights, what do you know now that you didn’t at the outset, what was missing, what will you make sure to start the next sprint with?
+ **Liked, Learned, Lacked, Longed For**  What were the highlights, what do you know now that you didn’t at the outset, what was missing, what will you make sure to start the next sprint with?
 
-** Facts, Feelings, Findings, Future ** Start by going through the facts of what happened during the sprint - achievements, problems, solutions, events etc. Then discuss feelings about those facts. Then look at what conclusions we can find in these facts and feelings \(eg ‘Acceptance criteria aren’t descriptive enough\). Then plan future actions to improve things.
+ **Facts, Feelings, Findings, Future**  Start by going through the facts of what happened during the sprint - achievements, problems, solutions, events etc. Then discuss feelings about those facts. Then look at what conclusions we can find in these facts and feelings \(eg ‘Acceptance criteria aren’t descriptive enough\). Then plan future actions to improve things.
 

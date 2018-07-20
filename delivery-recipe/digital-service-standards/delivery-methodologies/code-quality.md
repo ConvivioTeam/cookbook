@@ -12,7 +12,7 @@ In that context, there's many best practices, methodologies, conventions and rul
 
 ### Open source it
 
-The manifestation of the 'Don't Write Code' mantra is that _we believe in _[_open source software_](https://opensource.com/resources/what-open-source)_ \(OSS\)_. By using OSS we are able to benefit from the uncountable hours of design and programming already invested by developers all over the world, and the only new code written is the necessary code.
+The manifestation of the 'Don't Write Code' mantra is that _we believe in_ [_open source software_](https://opensource.com/resources/what-open-source) _\(OSS\)_. By using OSS we are able to benefit from the uncountable hours of design and programming already invested by developers all over the world, and the only new code written is the necessary code.
 
 We use OSS wherever possible, especially in product development, and consequently we participate in the open source community. Consequently and intentionally, we give back to the OSS community – sharing work, offering and reviewing patches for features or bugs, sharing knowledge, and so on.
 

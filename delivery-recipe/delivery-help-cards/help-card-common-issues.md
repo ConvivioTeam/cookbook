@@ -2,11 +2,11 @@
 
 There are issues that crop up regularly. It’s good to have a common response to these questions and queries.
 
-** Issue **
+ **Issue** 
 
 Not all stories were completed during the sprint.
 
-** Our Response **
+ **Our Response** 
 
 The team takes as many stories into a sprint that it thinks is possible to complete. The effort required to complete those stories is an estimate based on the information available at the time and also based on experience.
 
@@ -16,11 +16,11 @@ We track our velocity \(the number of story points completed/burned\), we assess
 
 If there is a particularly low number of points completed in a sprint, talk to the team before speaking with the Product Owner so you understand the reasons for the shortfall and you have a good response prepared.
 
-** Issue **
+ **Issue** 
 
 The Product Owner is not available for meetings.
 
-** Our Response **
+ **Our Response** 
 
 This needs to be flagged as a risk to the project.
 
@@ -32,11 +32,11 @@ If the PO is going to be unavailable then he needs to provide a deputy. That dep
 
 If the PO cannot provide a deputy and is unavailable for some meetings then we need to speak to them immediately because this is going to prevent us from delivering the project.
 
-** Issue **
+ **Issue** 
 
 Can I just squeeze this little story in?
 
-** Our Response **
+ **Our Response** 
 
 Ideally, no. And there are really good reasons why it’s a bad idea. A change like that will reduce productivity, it bypasses key quality control stages such as sprint planning, and so on.
 
