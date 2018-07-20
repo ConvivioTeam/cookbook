@@ -1,4 +1,4 @@
 {
   "title": "The Convivio Cookbook",
-  "plugins": ["collapsible-menu"]
+  "plugins": ["collapsible-menu", "anchorjs"]
 }
