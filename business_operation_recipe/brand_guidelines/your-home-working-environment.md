@@ -1,8 +1,3 @@
-```
-Your home working environment
-```
-
-```
 If you work from home, you have both power and responsibility over your personal work environment. You can tweak it and customise it to suit your needs. But it can be easy to overlook the essentials.
 
 This three star rating system makes it simple to assess the quality of your work environment.
@@ -26,7 +21,3 @@ Fix this by buying an adjustable chair and desk that fit your proportions. See [
 
 * An internet connection at least 2.6Mbps up and 4.0Mbps down.
 * A healthier chair and/or desk option. For example: Standing desk, or an exercise ball.
-```
-
-
-
