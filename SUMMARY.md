@@ -92,7 +92,7 @@
   * [Git Repository Conventions](business-operation-recipe/git-repository-conventions.md)
   * [Submit Expenses](business-operation-recipe/submit-expenses.md)
   * [Purchases](business-operation-recipe/purchases.md)
-  * [Your home working environment](business_operation_recipe/brand_guidelines/your-home-working-environment.md)
+  * [Your home working environment](business-operation-recipe/your-home-working-environment.md)
   * [Holiday and Sickness](business-operation-recipe/holiday-and-sickness.md)
   * [Disciplinary Procedure](business-operation-recipe/disciplinary-procedure.md)
   * [Grievance Procedure](business-operation-recipe/grievance-procedure.md)

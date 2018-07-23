@@ -89,17 +89,22 @@ So we did better than forecast.
 
 ### Payments to Directors
 
-The director of the company was paid £62,885 over the 15 months of the trading year \(£50k p.a. pro rated\).
+The director of the company was paid £62,885 over the 15 months of the trading year \(~£50k p.a. pro rated\).
 
 ### Taxation
 
 #### Corporation tax
 
-The Corporation Tax \(CT\) rate changed during the period. It was 20% for 302 days, and 19% for 183 days. That gives a headline rate for this period of 19.62%.
+The company made a small loss before tax in its first year, and so the headline Corporation Tax rate for the period was 0%.
 
-The company made a small loss before tax in its first year, and so no Corporation Tax was payable. 
+The Corporation Tax incurred by the company in this financial year was therefore calculated as:
 
-However, the company also qualified for Research & Development Tax Credits amounting to £12,619 — so a CT credit was earned.
+| Research and development tax credit receivable | £12,619 |
+| --- | --- | --- |
+| Deferred taxation | \(£190\) |
+| **Taxation on loss on normal activities - P&L account** | **£12,429** |
+
+The deferred taxation has arisen due to a timing difference in the purchase of fixed assets, where the tax relief has been claimed in full in the year of purchase and not when depreciation has been charged to the profit and loss account. The depreciation policy is 20% straight line.
 
 #### PAYE / NIC
 
@@ -108,4 +113,6 @@ The company paid £95,776.12 of PAYE/NIC to HMRC in this financial year, of whic
 #### VAT
 
 The company raised £42,749 of VAT on behalf of HMRC in this financial year. A substantial amount of work in our first year was for clients in the USA, so no VAT was chargeable.
+
+
 

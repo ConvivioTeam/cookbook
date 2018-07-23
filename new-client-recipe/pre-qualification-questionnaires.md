@@ -1,7 +1,3 @@
----
-description: How we write and submit applications to the digital marketplace
----
-
 # Pre-qualification questionnaires
 
 Some sites, such as the [UK government digital marketplace](https://www.digitalmarketplace.service.gov.uk/), require suppliers to fill out a questionnaire demonstrating their skills and experience relevant to the project. This is designed to reduce the workload sorting through no-hope submissions.
