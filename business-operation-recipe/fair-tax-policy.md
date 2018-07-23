@@ -66,7 +66,11 @@ The company has a £50,000 interest-free long-term loan from the shareholder. Th
 
 ## Annual accounts for year end Sept 2017
 
-Our full accounts are available to view here: [https://drive.google.com/open?id=1RD5dia\_mH0MMpDwSyCNg64koVLUeZxZz](https://drive.google.com/open?id=1RD5dia_mH0MMpDwSyCNg64koVLUeZxZz).
+Our full accounts are available to view here:
+
+{% embed data="{\"url\":\"https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/view\",\"type\":\"rich\",\"title\":\"20180627-convivio-team-ltd-amended-full-accounts-signed.pdf\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/doclist/images/icon\_14\_pdf\_favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh5.googleusercontent.com/vNOkIzAH7YWskNPo2EbihYc\_W6aMUVK6Cby6onlV6-DEHTamnfDu4gSnLaM=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\\"><iframe src=\\\"https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
+
+Note that we have update our accounts since they were first published, in order to provide more details of our tax reconciliation calculations for extra transparency. We've also submitted the amended accounts to Companies House. No financial details were changed.
 
 Our first financial year was 15 months long, as we had 3 months of setup and 12 trading months.
 
