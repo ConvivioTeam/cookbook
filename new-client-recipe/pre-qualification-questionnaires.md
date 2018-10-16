@@ -9,8 +9,14 @@ Filling in the answers can be be repetitive, uncollaborative, and dull. This is 
 1. Install the [Zapier Push Chrome Extension](https://chrome.google.com/webstore/detail/zapier/ngghlnfmdgnpegcmbpgehkbhkhkbkjpj?hl=en)
 2. Log in to the Convivio Zapier account via that extension \(details in 1Password\)
 3. On an opportunity webpage, hit the extension button and select "DOS Website to PQQ Airtable"
-4. This will send the opportunity to [this Airtable,](https://airtable.com/tblb4BHknCHx8eksj/viwxqy80BSIVRHuUW) this is parsed every 10 minutes, and the opportunity questions to answer are scraped and added to the answers tabs.
-5. This also creates an opportunity deadline event in the [Google Calendar "Convivio Sales".](https://calendar.google.com/calendar?cid=Y29udml2aW8udGVhbV9jbHEwMWZ2bGF2MTlncTZ0NW9lZXV2NTVhc0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t) This is integrated in our "Sales" Slack channel.
+4. This will send the opportunity to [this Airtable,](https://airtable.com/tblb4BHknCHx8eksj/viwxqy80BSIVRHuUW) which adds the opportunity under the "Considering" workflow status.
+
+### Considering
+
+1. Review the opportunity with the team. 
+2. Decide if you should go or no-go. Update the workflow status accordingly.  
+3. Once an opportunity moves beyond the "Considering" status it is parsed and the opportunity questions to answer are scraped and added to the answers tab.
+4. This also creates an opportunity deadline event in the Google Calendar "Convivio Sales". This is integrated in our "Sales" Slack channel.
 
 ### Filling out answers
 
