@@ -30,9 +30,19 @@ If you're able to, it's dead easy to [download the Slack App](https://weareconvi
 
 ## Notifications
 
-You can set the notifications of your Slack channels to your own preferences, so you can be notifed about everything in the channel, nothing at all, or anywhere in between.
+You can set the notifications of your Slack channels to your own preferences, so you can be notified about everything in the channel, nothing at all, or anywhere in between.
 
 ## Connecting other tools
 
 Slack supports integrations from other applications. We usually integrate the appropriate tools into project channels so that the project team members will be notified when automatic systems are doing tasks, or team members have taken actions in other systems.
+
+## Changing the colour scheme
+
+You can modify the colour scheme of any Slack team, you can switch to Convivio branded theme here: [https://weareconvivio.slack.com/archives/C10BWLWVC/p1539695794000100](https://weareconvivio.slack.com/archives/C10BWLWVC/p1539695794000100)
+
+```text
+#343434,#717070,#717070,#f8f4ea,#717070,#FDFDFF,#70D893,#ec604b
+```
+
+
 
