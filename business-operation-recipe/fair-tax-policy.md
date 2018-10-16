@@ -68,7 +68,7 @@ The company has a £50,000 interest-free long-term loan from the shareholder. Th
 
 Our full accounts are available to view here:
 
-{% embed data="{\"url\":\"https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/view\",\"type\":\"rich\",\"title\":\"20180627-convivio-team-ltd-amended-full-accounts-signed.pdf\",\"icon\":{\"type\":\"icon\",\"url\":\"https://ssl.gstatic.com/docs/doclist/images/icon\_14\_pdf\_favicon.ico\",\"aspectRatio\":0},\"thumbnail\":{\"type\":\"thumbnail\",\"url\":\"https://lh5.googleusercontent.com/vNOkIzAH7YWskNPo2EbihYc\_W6aMUVK6Cby6onlV6-DEHTamnfDu4gSnLaM=w1200-h630-p\",\"width\":1200,\"height\":630,\"aspectRatio\":0.525},\"embed\":{\"type\":\"reader\",\"url\":\"https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/preview?usp=embed\_googleplus\",\"html\":\"<div style=\\\"left: 0; width: 100%; height: 0; position: relative; padding-bottom: 141.4227%;\\\"><iframe src=\\\"https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/preview?usp=embed\_googleplus\\\" style=\\\"border: 0; top: 0; left: 0; width: 100%; height: 100%; position: absolute;\\\" allowfullscreen></iframe></div>\",\"aspectRatio\":0.7071}}" %}
+{% embed url="https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/view" %}
 
 Note that we have update our accounts since they were first published, in order to provide more details of our tax reconciliation calculations for extra transparency. We've also submitted the amended accounts to Companies House. No financial details were changed.
 
@@ -104,7 +104,7 @@ The company made a small loss before tax in its first year, and so the headline 
 The Corporation Tax incurred by the company in this financial year was therefore calculated as:
 
 | Research and development tax credit receivable | £12,619 |
-| --- | --- | --- |
+| :--- | :--- |
 | Deferred taxation | \(£190\) |
 | **Taxation on loss on normal activities - P&L account** | **£12,429** |
 
