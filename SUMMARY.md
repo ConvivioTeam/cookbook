@@ -103,6 +103,7 @@
     * [Big Rocks](business-operation-recipe/our-pulse/big-rocks.md)
     * [Problems](business-operation-recipe/our-pulse/problems.md)
 * [Actual Food Recipes](actual-food-recipes/README.md)
+  * [Easy Mince Beef Curry](actual-food-recipes/easy-mince-beef-curry.md)
   * [Slow Cooked Beef Stew](actual-food-recipes/slow-cooked-beef-stew.md)
   * [Aubergine Curry](actual-food-recipes/aubergine-curry.md)
   * [Vegetarian Paella](actual-food-recipes/vegetarian-paella.md)
