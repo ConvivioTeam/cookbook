@@ -17,5 +17,5 @@ If you meet regularly then you tackle problems as they arise and don’t give th
 
 At the end of the retrospective we record what’s been discussed and we review this in the next retrospective to understand the impact of any actions.
 
-Help card: [Sprint Retrospective](https://github.com/convivio/the-convivio-cookbook/tree/fe6bd3bde6ed1049b323d750b43bbb620c87c384/delivery_recipe/delivery_recipe/help_card_sprint_retrospective.md)
+[Help card: Sprint Retrospective](../delivery-help-cards/help-card-sprint-retrospective.md)
 
