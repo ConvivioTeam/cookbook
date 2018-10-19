@@ -33,6 +33,7 @@
   * [Prototyping](delivery-recipe/prototyping/README.md)
     * [Inputs to Prototyping](delivery-recipe/prototyping/inputs-to-prototyping.md)
     * [Prototyping Objectives](delivery-recipe/prototyping/prototyping-objectives.md)
+    * [Prototyping Inception](delivery-recipe/prototyping/prototyping-inception.md)
     * [Prototyping Sprints](delivery-recipe/prototyping/prototyping-sprints.md)
     * [Prototyping Outputs](delivery-recipe/prototyping/prototyping-outputs.md)
   * [Build](delivery-recipe/build/README.md)
