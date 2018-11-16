@@ -16,6 +16,10 @@ The high level goals, motivations, or problems to solve of the \(potential\) use
 
 A breakdown of the steps needed to achieve a user need. This helps us breakdown the work involved and includes any contextual information that helps us design solutions.
 
+## Stakeholder maps
+
+A clear idea of who has a stake in the project, their impact on the project and identification of who should be engaged with in further stages of the project.
+
 ## User Stories
 
 These are written in the format of [user stories](https://github.com/convivio/the-convivio-cookbook/tree/fe6bd3bde6ed1049b323d750b43bbb620c87c384/delivery_recipe/help-cards/help-card-user-stories.md).
