@@ -36,10 +36,9 @@ Getting documents prepared is key to the smooth running of the project these are
    2. Github repository for code
    3. Jira for project management
    4. Google Drive for documents
-2. Set up an email group for the project with the format 'project-{PROJECTNAME}@convivio.team'
-3. Set the key people up on all these tools, and as members of that email group
-4. Send the project launch email, from the template '{project folder}/10. Project Launch/Project Launch Details'
-5. Post that same text in the slack channel and pin it to the channel
+2. Set up an email group for the project with the format 'project-{PROJECTNAME}@convivio.team' using the google groups functionality, add all team members and provide permissions for those ouside of convivio
+3. Send the project launch email, from the template '{project folder}/10. Project Launch/Project Launch Details'
+4. Post that same text in the slack channel and pin it to the channel
 
 
 
