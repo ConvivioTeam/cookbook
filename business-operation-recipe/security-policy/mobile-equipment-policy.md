@@ -37,7 +37,7 @@ The provision of laptop/notebook computers shall be subject to the following con
 
 ### Person Identifiable Information
 
-In order to comply with the Data Protection Act, person identifiable information shall be stored in a laptop/notebook only when this is absolutely necessary. Where it is necessary to store such information, the following conditions apply:
+In order to comply with the GDPR, person identifiable information shall be stored in a laptop/notebook only when this is absolutely necessary. Where it is necessary to store such information, the following conditions apply:
 
 * Unnecessary user accounts \(e.g. Guest accounts and unnecessary administrative accounts\) should be removed or disabled.
 * Unnecessary software \(including application, system utilities and network services\) should be removed or disabled.
@@ -96,4 +96,24 @@ After 2 years of use any Convivio hardware will become the property of the user 
 If a user leaves the company before 2 years any hardware can be purchased from Convivio for a cost that represents its current value.
 
 Because the software we produce is open source, there is no requirement to delete everything from any purchased machines. Any accounts relating to the user/laptop will be removed, see _Staff Leaving_ in our [Document Access](https://github.com/convivio/the-convivio-cookbook/tree/fe6bd3bde6ed1049b323d750b43bbb620c87c384/business_operation_recipe/security/document_access.html) policy.
+
+## Mobile Phones and Tablets
+
+### Bring your own device \(BYOD\)
+
+Personal mobile phones and tablets can be used for Convivio purposes. Any customer data stored on the device should only be done so in line with the Person Identifiable Information policy outlined in the computers section.  
+
+Team members are responsible for maintaining the security of their phones and tablets. This includes locking devices when they're not in use and also monitoring their safety to prevent data loss.
+
+It is also the responsibility of the user to immediately report the loss, theft or unauthorised access of any phones or tablets that are used for Convivio purposes. 
+
+### Mobile device security settings
+
+Those devices used for Convivio purposes must have the following enabled in case of theft or loss; 
+
+* iPhones should have 'Find my iPhone' enabled and the remote restore functionality switched on.
+* Android devices should have 'Android Device Manager' enabled,  which locates devices associated with a Google account, reset your device’s screen lock PIN and erase all data on the phone.
+* Encryption must be enabled on all phone types.
+
+Team members using their own devices that have Convivio customers in their contacts must not use apps that share those details with third parties. This includes WhatsApp, Facebook and any other social media product. All team members using their own devices are responsible for checking the terms and conditions on all downloaded apps.
 
