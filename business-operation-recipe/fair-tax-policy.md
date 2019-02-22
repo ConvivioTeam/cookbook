@@ -2,7 +2,7 @@
 
 Convivio aims to be a responsible company that makes a positive contribution to society.
 
-We benefit from public services through the education and healthcare our staff receive, the protections of our security and legal system, transport infrastructure, a business and legal framework that enables us to operate, and simply by being in a society where our staff and families have their basic needs met and so can focus on higher economic contributions - and much much more.
+We benefit from public services through the education and healthcare our staff receive, the protections of our security and legal system, transport infrastructure, a business and legal framework that enables us to operate, and simply by being in a society where our staff and families have their basic needs met and so can focus on higher economic contributions — and much, much more.
 
 Therefore it is only right that we contribute back to society by paying a fair amount of tax.
 
@@ -62,7 +62,65 @@ The shareholder owns one ordinary share of £1 face value. There is no other equ
 
 **Debt finance**
 
-The company has a £50,000 interest-free long-term loan from the shareholder. The company had a £4,836 interest-free short-term loan from the director, which has been repaid since the year end. There is no external debt finance.
+The company had a £50,000 interest-free long-term loan from the shareholder, of which £30,000 remains outstanding as at year end Sept 2018. There is no external debt finance.
+
+## Annual accounts for year end Sept 2018
+
+Our full accounts are available to view here:
+
+{% embed url="https://drive.google.com/file/d/1\_EpbXi1pR2h\_4FfeXgtkN5VeJfT45IzB/view" %}
+
+### Forecast
+
+In September 2017, our forecast for the year was:
+
+* Turnover: £405,523
+* Profit before tax: £74,521
+
+However, during the year we re-evaluated our business plan as Brexit, and political uncertainty around preparation for it, began to impact the UK economy, We decided as a team to cut back re-investment in growth in terms of recruitment, marketing and so on. We also decided to take on a larger than normal amount of work, but with the existing team. The intention was to focus on achieving a higher profitability to enable uis to grow our cash reserve, ready to be able to weather the economic impact in 2019.
+
+### Final results
+
+The final results for the year ending 30 Sept 2018 were:
+
+* Turnover: £470,363
+* Profit before tax: £114,187
+
+So we did better than forecast, and did succeed in growing our cash reserve in preparation for potential problems in the economy in 2019.
+
+### Payments to Directors
+
+The director of the company was paid £52,292 salary in this financial year, all as PAYE.
+
+### Taxation
+
+#### Corporation tax
+
+The company made a profit, so the headline rate of corporation tax in this financial year is 19%. We were granted Research and Development Tax credits of £13,314 in this preiod for research work undertaken.
+
+The Corporation Tax incurred by the company in this financial year was therefore calculated as:
+
+|  | £ |
+| :--- | :--- |
+| Research and development tax credit receivable | \(13,314\) |
+| Taxation charge for the year | 20,588 |
+| Prior Year adjustment | 129 |
+| Deferred taxation | 1,827 |
+| **Taxation on loss on normal activities - P&L account** | **9,230** |
+
+The deferred taxation has arisen due to a timing difference in the purchase of fixed assets, where the tax relief has been claimed in full in the year of purchase and not when depreciation has been charged to the profit and loss account. The depreciation policy is 20% straight line.
+
+#### PAYE / NIC
+
+The company and our team paid £82,172.24 of PAYE/NIC to HMRC in this financial year.
+
+#### VAT
+
+The company raised £88,404 of VAT on behalf of HMRC in this financial year.
+
+
+
+Therefore, the overall contribution in UK taxes generated as a result of our business activities was £179,806.24.
 
 ## Annual accounts for year end Sept 2017
 
@@ -70,7 +128,7 @@ Our full accounts are available to view here:
 
 {% embed url="https://drive.google.com/file/d/1UUJLOxWdz-e714Ufv1ZHVk8eRothmkDO/view" %}
 
-Note that we have update our accounts since they were first published, in order to provide more details of our tax reconciliation calculations for extra transparency. We've also submitted the amended accounts to Companies House. No financial details were changed.
+Note that we have updated our accounts since they were first published, in order to provide more details of our tax reconciliation calculations for extra transparency. We've also submitted the amended accounts to Companies House. No financial details were changed.
 
 Our first financial year was 15 months long, as we had 3 months of setup and 12 trading months.
 
@@ -112,11 +170,15 @@ The deferred taxation has arisen due to a timing difference in the purchase of f
 
 #### PAYE / NIC
 
-The company paid £95,776.12 of PAYE/NIC to HMRC in this financial year, of which £34,789 was employer's contributions.
+The company and our team paid £95,776.12 of PAYE/NIC to HMRC in this 15-month financial year.
 
 #### VAT
 
 The company raised £42,749 of VAT on behalf of HMRC in this financial year. A substantial amount of work in our first year was for clients in the USA, so no VAT was chargeable.
+
+
+
+Therefore, the overall contribution in UK taxes generated as a result of our business activities was £126,096.12.
 
 
 
