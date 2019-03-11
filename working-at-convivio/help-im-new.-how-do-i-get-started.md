@@ -38,7 +38,7 @@ We have an unlimited holiday policy here at Convivio. It takes a bit of getting 
 
 We have a peer review approach to booking holidays, but our peer review protocol means we also check people are taking _enough_ time off and not being martyrs to the work.
 
-See [How to Book Holidays](../business-operation-recipe/holiday-and-sickness.md#requesting-holiday) for more information.
+See [How to Book Holidays](../business-operation-recipe/taking-time-off-work/holiday.md#requesting-holiday) for more information.
 
 ## Peer review
 
