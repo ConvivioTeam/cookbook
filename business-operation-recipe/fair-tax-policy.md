@@ -102,11 +102,30 @@ The Corporation Tax incurred by the company in this financial year was therefore
 
 |  | £ |
 | :--- | :--- |
-| Research and development tax credit receivable | \(13,314\) |
+| Profit per the financial statements | 114,187 |
+|  |  |
+| Expenses not qualifying for tax relief: |  |
+| Depreciation | 610 |
+| Entertainment | 3,818 |
+|  |  |
+| Additional allowances: |  |
+| Capital allowances | \(10,259\) |
+| Research and development enhanced expenditure | \(70,072\) |
+|  |  |
+| Adjusted taxable profits | 38,284 |
+|  |  |
+| Corporation Tax at 19% | 7,274 |
+|  |  |
+| Actual Tax Paid | 7,274 |
+| Broken down as: |  |
+| Research and development tax credit | \(13,314\) |
 | Taxation charge for the year | 20,588 |
+|  |  |
+| Additional tax adjustments: |  |
 | Prior Year adjustment | 129 |
 | Deferred taxation | 1,827 |
-| **Taxation on loss on normal activities - P&L account** | **9,230** |
+|  |  |
+| **Taxation as per the financial statements** | **9,230** |
 
 The deferred taxation has arisen due to a timing difference in the purchase of fixed assets, where the tax relief has been claimed in full in the year of purchase and not when depreciation has been charged to the profit and loss account. The depreciation policy is 20% straight line.
 
