@@ -68,6 +68,21 @@ We use a company Gmail account for all email correspondence.
 2. Under ‘Send mail as’ use ‘Add another email address that you own’ option to add your @weareconvivio.com address - Gmail should find it. 
 3. Remember to choose make default for that address!
 
+## Internal Projects
+
+For managing internal projects and keeping on top of tasks to be done, we use [ClickUp](https://clickup.com/).
+
+ClickUp has a web interface, and [apps for desktop and mobile](https://clickup.com/apps). We would recommend installing the desktop app on your laptop, at the very least.
+
+ClickUp is integrated into our company Slack, too, see we can interact with tasks and get notifications of developments on internal projects and tasks.
+
+Here's some useful tutorials and videos to help you learn how to make the most of ClickUp:
+
+* [Getting Started Guide](https://docs.clickup.com/getting-started/getting-started-guide)
+* [What are Spaces?](https://docs.clickup.com/general/what-are-spaces)
+* [Projects & Lists - What are they?](https://docs.clickup.com/general/projects-lists-what-are-they)
+* [Hierarchy: Team &gt; Space &gt; Project &gt; Lists](https://docs.clickup.com/general/hierarchy-team-space-project-lists)
+
 ## Data security
 
 We have a wider section on our [security policies](../business-operation-recipe/security-policy/) which you should read in due course. If you have any questions, just ask in the \#infra or \#general channels in Slack.
