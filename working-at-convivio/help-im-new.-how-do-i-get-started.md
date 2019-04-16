@@ -99,6 +99,10 @@ Travel is a necessity for most of us to perform our jobs. The company does not o
 
 If you have any issues or questions related to Health and Safety these must be discussed with your project or team lead or the managing director.
 
+#### Mental health
+
+For more information on mental health in the workplace, including support  and training, see the [mental health section.](../business-operation-recipe/mental-health/)
+
 ## Everything Else
 
 If you still have questions, look further around the Cookbook or ask for help in Slack — we'll always answer.
