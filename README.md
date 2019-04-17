@@ -8,5 +8,5 @@ Convivio is a boutique agency designing and developing digital services for inno
 
 That means we take clients beyond simply marketing themselves on the web, to delivering their core services online.
 
-[http://weareconvivio.com/](http://weareconvivio.com/)
+[https://weareconvivio.com/](https://weareconvivio.com/)
 
