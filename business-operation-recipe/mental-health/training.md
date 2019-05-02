@@ -6,14 +6,17 @@ If you need help arranging or deciding which training you'd like to take, contac
 
 ### Mental health awareness at work
 
-This e-learning course is compulsory for all team members. It takes roughly 50 minutes to complete. After you've completed the course:
+Mind offer a free [mental health course for small businesses.](https://www.mentalhealthatwork.org.uk/resource/mental-health-for-small-workplaces-elearning/?read=more) This e-learning course is compulsory for all team members.
 
-1. You will be able to define mental health and wellbeing, the spectrum of mental health and mental health problems 
-2. You will be able to describe some common mental health problems and behaviours of someone who may be experiencing mental health problems, comprehend some of the causes, and identify possible affects
-3. You will be better able to recognise stigma and challenge it 
-4. You will also learn how to respond appropriately to disclosure.
+The course contains three modules, each taking about 20 minutes to complete:
 
-This is available as licensed software from Mind. Talk to Lewis if you don't have access already. There are also [regular in-person events run in London](https://www.mind.org.uk/workplace/training-consultancy/upcoming-courses/mental-health-awareness/?ctaId=/workplace/training-consultancy/courses-for-anyone/courses-for-anyone/mha-training/) if you'd prefer.
+* Building your awareness 
+* Looking after yourself 
+* Supporting each other
+
+You’ll need to create an account and login to access the training, so that you can easily return and pick it up where you left off.
+
+[Get started here.](https://smallworkplaces.mind.org.uk/)
 
 ### Mental health first aid training
 
