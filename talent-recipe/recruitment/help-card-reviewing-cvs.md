@@ -1,10 +1,10 @@
-# Reviewing CVs
+# Help Card: Reviewing CVs
 
 ## Receiving CVs
 
 We can expect to receive CVs in two ways: in response to a job we have specifically advertised; speculative CVs. We will consider both, though without an actual job being advertised it is unlikely that we have any positions free or are currently looking to recruit.
 
-At the moment, we do not have a dedicated personnel department nor a specific form on our website to submit CVs. CVs arrive with us as email attachments to our main email address, [hello@weareconvivio.com](mailto:hello@weareconvivio.com).
+At the moment, we do not have a dedicated personnel department nor a specific form on our website to submit CVs. CVs arrive with us as email attachments to our main email address, [jobs@weareconvivio.com](mailto:jobs@weareconvivio.com).
 
 ## **Reviewing CVs for a specific job or advert**
 
@@ -38,7 +38,7 @@ Without a person profile or job description to use in evaluating a CV sent specu
 
 * **Professionalism**
 
-  A CV should mark the highest level of professionalism from a candidate and potential future colleague. The candidate has all the time to present their best self and craft a flawless submission, which they may not be able to do so easily day-to-day on the job. Be wary of CVs that are not what you would consider professional, if they're disorganised, sloppy, with careless mistakes. The use of buzzwords that are not relevant can be an indicator of a lack of professionalism, for example.
+  A CV should mark the highest level of professionalism from a candidate and potential future colleague. The candidate has all the time needed to present their best self in their CV and craft a high quality submission. Be wary of CVs that are not what you would consider professional, if they're disorganised, sloppy, with careless mistakes. The use of buzzwords that are not relevant can be an indicator of a lack of professionalism, for example.
 
 We do not commit to respond to speculative CVs.
 
