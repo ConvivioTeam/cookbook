@@ -65,6 +65,12 @@ There is a standard company laptop build which is provided from a centrally cont
 
 This is a private repo containing proprietary code and a standard build defined by Convivio. The process installs and configures key software including anti-malware, remote desktop, firewall, virtualbox, vagrant and OSX defaults, as defined by our administrators.
 
+## Provision of Network Equipment
+
+All networking equipment including firewalls and routers should not have their administration interface accessible over the internet.
+
+Default and supplied passwords should be changed on acquisition of new hardware.
+
 ## Backups
 
 It is not permissible for Convivio or its customer data to be stored solely on the hard disk of a laptop or notebook. Users of laptops/notebooks are responsible for ensuring that all Convivio data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
