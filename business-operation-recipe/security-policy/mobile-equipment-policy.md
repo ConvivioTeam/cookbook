@@ -71,6 +71,13 @@ All networking equipment including firewalls and routers should not have their a
 
 Default and supplied passwords should be changed on acquisition of new hardware.
 
+## Administration Accounts
+
+Administration accounts should under no circumstances be used to access day to day application such as:
+
+* Email
+* Web Browsing
+
 ## Backups
 
 It is not permissible for Convivio or its customer data to be stored solely on the hard disk of a laptop or notebook. Users of laptops/notebooks are responsible for ensuring that all Convivio data used on the laptops/notebooks is backed up. Common practice is for data to be stored on network or shared drives as these are backed centrally.
