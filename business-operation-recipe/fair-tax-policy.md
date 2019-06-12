@@ -92,6 +92,21 @@ So we did better than forecast, and did succeed in growing our cash reserve in p
 
 The director of the company was paid £52,292 salary in this financial year, all as PAYE.
 
+### Research and Development Tax Credits
+
+Given our work in the digital sector we undertake research and development projects for ourselves, and our clients. 
+
+The government incentivises and rewards R&D to foster innovation using a system of tax credits managed by HMRC. Each year we submit a report on the projects we have done, the R&D elements of those, the staff time spent on them, and any resulting outputs. That report is then assessed and we are awarded a certain level of tax credit, which is calculated as a percentage of the staff time and other costs we have invested in the R&D.
+
+This year, staff time and costs worth £70,072 was spent on R&D related work. This resulted in us being granted an R&D tax credit of £13,314.
+
+Our R&D work included
+
+* Investigating machine learning and natural language processing to extract entity and term metadata from government research reports to aid searchability and sharing.
+* Investigating and prototyping approaches to conducting large scale load tests on government services in which authenticated users need to work through multi-step processes.
+
+You can view some of the outcomes from our R&D [on our blog](https://blog.weareconvivio.com), and [in our Github repositories](https://github.com/ConvivioTeam). We are working on publishing and releasing more of it.
+
 ### Taxation
 
 #### Corporation tax
