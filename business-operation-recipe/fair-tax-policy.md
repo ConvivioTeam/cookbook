@@ -96,7 +96,7 @@ The director of the company was paid £52,292 salary in this financial year, all
 
 Given our work in the digital sector we undertake research and development projects for ourselves, and our clients. 
 
-The government incentivises and rewards R&D to foster innovation using a system of tax credits managed by HMRC. Each year we submit a report on the projects we have done, the R&D elements of those, the staff time spent on them, and any resulting outputs. That report is then assessed and we are awarded a certain level of tax credit, which is calculated as a percentage of the staff time and other costs we have invested in the R&D.
+The government [incentivises and rewards R&D to foster innovation using a system of tax credits](https://www.gov.uk/guidance/corporation-tax-research-and-development-tax-relief-for-small-and-medium-sized-enterprises) managed by HMRC. Each year we submit a report on the projects we have done, the R&D elements of those, the staff time spent on them, and any resulting outputs. That report is then assessed and we are awarded a certain level of tax credit, which is calculated as a percentage of the staff time and other costs we have invested in the R&D.
 
 This year, staff time and costs worth £70,072 was spent on R&D related work. This resulted in us being granted an R&D tax credit of £13,314.
 
