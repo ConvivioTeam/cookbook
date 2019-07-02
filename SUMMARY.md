@@ -92,6 +92,8 @@
     * [Help Card - Github](delivery-recipe/delivery-help-cards/help-card-github.md)
     * [Help Card - Trello](delivery-recipe/delivery-help-cards/help-card-trello.md)
 * [Business Operation Recipe](business-operation-recipe/README.md)
+  * [Infrastructure](business-operation-recipe/infrastructure/README.md)
+    * [External Firewalls](business-operation-recipe/infrastructure/external-firewalls.md)
   * [Brand Guidelines](business-operation-recipe/brand-guidelines/README.md)
     * [Content Guidelines](business-operation-recipe/brand-guidelines/content-guidelines.md)
     * [Branded Documents and Reports](business-operation-recipe/brand-guidelines/branded-documents-and-reports.md)
