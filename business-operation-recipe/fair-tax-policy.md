@@ -115,32 +115,23 @@ The company made a profit, so the headline rate of corporation tax in this finan
 
 The Corporation Tax incurred by the company in this financial year was therefore calculated as:
 
-|  | £ |
-| :--- | :--- |
-| Profit per the financial statements | 114,187 |
-|  |  |
-| Expenses not qualifying for tax relief: |  |
-| Depreciation | 610 |
-| Entertainment | 3,818 |
-|  |  |
-| Additional allowances: |  |
-| Capital allowances | \(10,259\) |
-| Research and development enhanced expenditure | \(70,072\) |
-|  |  |
-| Adjusted taxable profits | 38,284 |
-|  |  |
-| Corporation Tax at 19% | 7,274 |
-|  |  |
-| Actual Tax Paid | 7,274 |
-| Broken down as: |  |
-| Research and development tax credit | \(13,314\) |
-| Taxation charge for the year | 20,588 |
-|  |  |
-| Additional tax adjustments: |  |
-| Prior Year adjustment | 129 |
-| Deferred taxation | 1,827 |
-|  |  |
-| **Taxation as per the financial statements** | **9,230** |
+| Tax charge and adjustment details | £ | % |
+| :--- | :--- | :--- |
+| Profit before tax | 114,187 |  |
+|  |  |  |
+| Corporation tax on profits before tax | 21,696 | 19.0% |
+| R&D Tax Credit relief | -13,314 | -11.7% |
+| Capital allowances in excess of depreciation | -1,833 | -1.6% |
+| Expenses not deductible for tax purposes | 725 | 0.6% |
+| Adjustment to tax charge in prior year | 129 | 0.1% |
+|  |  |  |
+| **Current Tax** | **7,403** | **6.5%** |
+|  |  |  |
+| Deferred taxation | 1,827 | 1.6% |
+|  |  |  |
+| **Taxation as per the financial statements** | **9,230** | **8.1%** |
+
+The net tax charge of £7,403 on a profit before tax of £114,187 gives an effective tax rate of 6.5% compared to the standard rate of 19%. The main reason for this difference between the current rate and the standard rate is the Research and Development \('R&D'\) tax credit. This is a government incentivises and rewards R&D to foster innovation using a system of tax credits managed by HMRC. Other factors effecting the tax charge are, capital allowances in excess of depreciation and expenses that do not qualify for tax relief \(i.e. client entertaining\).
 
 The deferred taxation has arisen due to a timing difference in the purchase of fixed assets, where the tax relief has been claimed in full in the year of purchase and not when depreciation has been charged to the profit and loss account. The depreciation policy is 20% straight line.
 
