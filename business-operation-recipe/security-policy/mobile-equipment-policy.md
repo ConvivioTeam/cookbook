@@ -8,9 +8,9 @@ The use of laptop/notebook/tablet computers and other mobile devices increases t
 
 ### Users
 
-Laptops/notebooks and media must be handled and stored securely. In cars they must be stored out of sight when the car is left unattended e.g. in boot. When users are travelling, laptops/notebooks \(and media\) should not be left unattended in public places and should always be carried as hand luggage when travelling by public transport. Unofficial, unauthorised or unlicensed software must not be loaded on laptops/notebooks.
+Laptops/notebooks and media must be handled and stored securely. In cars they must be stored out of sight when the car is left unattended e.g. in boot. When users are traveling, laptops/notebooks \(and media\) should not be left unattended in public places and should always be carried as hand luggage when traveling by public transport. Unofficial, unauthorised or unlicensed software must not be loaded on laptops/notebooks.
 
-All laptops must have Bitdefender installed to protect against malware, viruses and Trojans, and the spread of these to other users. Quick scans are scheduled to run daily, full scans are run weekly. There is a quarterly review of firewall configurations when all users are required to update their configuration to meet the company policy.
+All laptops must have Bitdefender \(OSX\) or ClamAV \(Linux\) installed to protect against malware, viruses and Trojans, and the spread of these to other users. Quick scans are scheduled to run daily, full scans are run weekly. There is a quarterly review of firewall configurations when all users are required to update their configuration to meet the company policy.
 
 Users are responsible for maintaining the security of their devices. This includes locking devices when leaving them, not sharing login details, not providing unauthorised users with access to the device and installing security updates regularly.
 
