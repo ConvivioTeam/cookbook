@@ -19,7 +19,7 @@ The following functions are covered within this plan:
 
 Ownership and responsibility for the plan is assigned to the following individuals:
 
-Steve Parks - CEO Steve Hunton - COO
+Steve Parks - CEO
 
 These individuals are responsible for the continued maintenance and implementation of the plan.
 

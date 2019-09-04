@@ -73,7 +73,9 @@ Default and supplied passwords should be changed on acquisition of new hardware.
 
 ## Administration Accounts
 
-Administration accounts should under no circumstances be used to access day to day application such as:
+The Convivio Security Manager will determine whether any new starter or existing employee changing role requires administrator access to their local machine or Convivio managed servers. 
+
+Administration accounts should only be used for specific operations requiring privileged access such as software installation. Under no circumstances should they be used to access day to day applications such as:
 
 * Email
 * Web Browsing

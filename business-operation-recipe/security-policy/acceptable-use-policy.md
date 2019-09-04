@@ -6,7 +6,7 @@ This policy summarises what is considered acceptable use of hardware and softwar
 
 It's the responsibility of all Convivio employees and contractors to exercise good judgement when using company assets for personal use. Any and all Information Technology \(I.T.\) equipment, software and associated services are provided to staff for business use though an amount of personal use is expected and accepted.
 
-Passwords must be kept secure and only shared using acceptable methods. Employees and contractors are responsible for the security of their passwords and accounts.
+Passwords must be kept secure and only shared using acceptable methods. Employees and contractors are responsible for the security of their passwords and accounts. Sharing of passwords does not include individual login credentials allocated to an individual.
 
 Laptops, tablets, handheld devices and workstations must be secured by a password protected screensaver with automatic activation of 15 minutes or less. A guide to acceptable password security is available on our [Security](../../delivery-recipe/digital-service-standards/delivery-methodologies/automation/security-standards.md) page.
 
