@@ -36,7 +36,8 @@ With the things in this list, mostly you're just checking that they've been done
   * Book in where you will meet up on the first day — you may agree this with them on a call \(see below\). Mandy can help with booking a meeting room, if necessary.
   * Book in a meeting with Steve for the first day
   * Book in meetings during the first week with key people, such as 'department' colleagues and project team members
-* **Check they've been sent the '**[**A Few of my Favourite Things**](https://docs.google.com/forms/d/e/1FAIpQLSe3yJI3NmsLeWDTQ3nbNwcQ3jDpoXlzeT9Q9jxhAbO2VI7-9A/viewform?usp=sf_link)**' questionnaire** — if not, send them a link
+* **Check they've been sent the '**[**A Few of my Favourite Things**](https://docs.google.com/forms/d/e/1FAIpQLSe3yJI3NmsLeWDTQ3nbNwcQ3jDpoXlzeT9Q9jxhAbO2VI7-9A/viewform?usp=sf_link)**' questionnaire** — if not, send them a link.
+  * For someone to submit this form, they will need to have it explicitly shared with them in Google Drive. You can [find the form in the Team folder](https://drive.google.com/open?id=0B0adEBtk1YXvN2V4TC1jMUJhNnc), where you can add the person to the sharing preferences.
 
 #### About 2 weeks before the start date, say 'hello' on a call
 
