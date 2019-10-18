@@ -39,7 +39,7 @@ Most of us need a phone to help with our job. We need it:
 
 Again, most of us have Apple phones, and our Apple Business account can help you get the right one. We prefer people not to have Android phones, as the security of apps in the app store is notoriously poor.
 
-Some people may need a tablet for their work, for testing purposes and we are open to that, subject to a peer review.
+Some people may need a tablet for their work, for testing purposes, and we are open to that, subject to a [peer review](peer-reviews.md).
 
 ### Audio
 
