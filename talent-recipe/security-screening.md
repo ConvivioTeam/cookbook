@@ -1,6 +1,6 @@
 # Security Screening
 
-Because of our work for government and financial organisations we are required to screen all of our staff to a minimum of the [Baseline Personnel Security Standard](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/365602/HMG_Baseline_Personnel_Security_Standard.pdf) \(BPSS\).
+Because of our work for government and financial organisations we are required to screen all of our staff to a minimum of the [Baseline Personnel Security Standard](https://www.gov.uk/government/publications/government-baseline-personnel-security-standard) \(BPSS\).
 
 We conduct security screening only after offering a position to a successful candidate. All of our offers of employment are conditional on the successful candidate complying with, and completing, our security screening.
 
