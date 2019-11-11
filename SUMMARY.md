@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Working at Convivio](working-at-convivio/README.md)
+  * [Free-Range Working](working-at-convivio/free-range-working.md)
   * [Help! I'm new. How do I get started?](working-at-convivio/help-im-new.-how-do-i-get-started.md)
   * [Having a buddy](working-at-convivio/having-a-buddy.md)
 * [Talent Recipe](talent-recipe/README.md)
