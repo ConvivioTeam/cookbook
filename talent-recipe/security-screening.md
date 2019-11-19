@@ -49,7 +49,8 @@ We need a recent \(last 6 months\) certificate from an official body showing tha
 
 At the moment we accept certificates from:
 
-* The UK: Disclosure Scotland [https://www.mygov.scot/basic-disclosure/](https://www.mygov.scot/basic-disclosure/)
+* England: Gov.uk Basic Criminal Record Check [https://www.apply-basic-criminal-record-check.service.gov.uk/](https://www.apply-basic-criminal-record-check.service.gov.uk/)
+* Scotland: Disclosure Scotland [https://www.mygov.scot/basic-disclosure/](https://www.mygov.scot/basic-disclosure/)
 * Northern Ireland: AccessNI [https://www.nidirect.gov.uk/services/apply-online-basic-check](https://www.nidirect.gov.uk/services/apply-online-basic-check)
 * For other countries, one of the agencies listed here: [https://www.gov.uk/government/publications/criminal-records-checks-for-overseas-applicants](https://www.gov.uk/government/publications/criminal-records-checks-for-overseas-applicants)
 
