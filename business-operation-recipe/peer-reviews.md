@@ -23,12 +23,14 @@ This is not an exhaustive list and other things besides may also need a peer rev
 
 ## Asking for a peer review
 
-In principle, whenever several colleagues are gathered together someone can ask for a peer review. However, most frequently and for the purpose of widest awareness, we have a dedicated Slack channel for **\#peer-review**. Just pop a request in there and it'll get some attention. If it gets overlooked, just draw people's attention back to it.
+In principle, whenever several colleagues are gathered together someone can ask for a peer review. However, most frequently and for the purpose of widest awareness, we have a dedicated Slack channel for **\#peer-review**. Use the Slack workflow in that room and it'll get some attention. If it gets overlooked, just draw people's attention back to it.
+
+![An](../.gitbook/assets/image.png)
 
 Here's some rules of thumb for your request:
 
 * **DO be detailed.** In order for someone to give an effective review they need to properly understand what you're asking for and why. Give enough detail for someone to evaluate your request.
-* **DO expect some push-back.** Rule Zero of peer reviews is that they are not just a public announcement that will automatically get a green light. This is not a rubber stamping process. You will be asked questions.
+* **DO expect questions.** Rule Zero of peer reviews is that they are not just a public announcement that will automatically get a green light. This is not a rubber stamping process. You will be asked questions.
 * **DO justify your request, when asked.** When you are asked questions about your request, you will need to give an account for why you need the thing you're asking for. You need to justify why you're asking.
 * **DO keep asking if no one's answering.** If you haven't had a review for your request, usually it's just busyness that means they haven't seen the request. If necessary, @name a person you think is most likely to give an appropriate review — someone from your project team, for example.
 
