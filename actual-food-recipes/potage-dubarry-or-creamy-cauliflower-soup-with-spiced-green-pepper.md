@@ -12,7 +12,7 @@ description: >-
 
 I found the recipe a few months ago in a quest to find a new and interesting thing to do with cauliflower for a dinner with very dear friends. I was looking for something that looked and tasted special, but wouldn't be too complicated to make and could easily be fitted in after work before our guests arrived, and Potage Dubarry was just the thing.
 
-Whilst it's easy to make, you do need to take little care with the potage — with plenty of milk and cream in the recipe, it's very easy to burn it at the bottom of the pan so do be gentle when heating it and make sure you stir it plenty.
+Whilst it's easy to make, you do need to take a little care with the potage — with plenty of milk and cream in the recipe it's very easy to burn it at the bottom of the pan, so do be gentle when heating it and make sure you stir it plenty.
 
 **Serves: 6–8, generously; Vegetarian, with optional meat addition; Preparation time: 20 mins; Cooking time: 35–40 mins**
 
@@ -35,7 +35,7 @@ Whilst it's easy to make, you do need to take little care with the potage — wi
 You'll also need:
 
 * Large saucepan, for the Potage
-* 2 baking trays, for roasting the cauliflower florets and cauliflower leaves, with a greased piece of baking parchment
+* 2 baking trays, for roasting the cauliflower florets and cauliflower leaves, each with a greased piece of baking parchment
 * Frying pan, for the spiced green pepper
 
 ## Method
@@ -72,7 +72,7 @@ From the cauliflower leaves you reserved, choose at least 6 or 8 of the best-sha
 
 ### For the spiced green pepper
 
-Chop the pepper into strips. Fry in the frying pan with a tsp of chipotle flakes and 1 tbsp of olive oil until the pepper softens and stats to brown, around 12–15 mins. Set aside.
+Chop the pepper into strips. Fry in the frying pan with a tsp of chipotle flakes and 1 tbsp of olive oil until the pepper softens and starts to brown, around 12–15 mins. Set aside.
 
 #### Meat alternative
 
@@ -82,7 +82,7 @@ Chop some thin slices of saucisson or chorizo. Fry the slices on each side in a 
 
 Warm the potage, if it's been sitting. Again, stir plenty to prevent it from burning.
 
-For each person put a generous ladle of potage on a small plate, ensuring it flows to the edges. Place one roasted cauliflower floret in the middle of each, and one of the roasted cauliflower leaves beside it. Drape a few pieces of spiced green pepper over each floret. Garnish each plate with the reserved chopped herbs, and serve.
+For each person put a generous ladle of potage on a small plate, ensuring it flows to the edges. Place one roasted cauliflower floret in the middle of each, and one of the roasted cauliflower leaves beside it. Drape a few pieces of spiced green pepper over each floret, or, for your alternative _with_ meat, garnish with slice of the crisp saucisson or chorizo. Garnish each plate with the reserved chopped herbs, and serve.
 
 ![](../.gitbook/assets/img_7431.jpeg)
 
