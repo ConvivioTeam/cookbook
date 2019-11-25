@@ -7,7 +7,7 @@ This is a firm Convivio favourite. It's possibly the original cocktail, and is h
 * 2 measures Bourbon
 * a couple of dashes of bitters
 * a few drops of orange bitters \(optional\)
-* 2 teaspoons of maple syrup / agave syrup
+* 2 teaspoons \(total 10ml\) of maple syrup / agave syrup
 * 2 slices of orange peel, one to spritz, one cut decoratively to garnish
 * lots of ice
 

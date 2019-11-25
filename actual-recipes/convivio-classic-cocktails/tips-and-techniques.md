@@ -1,5 +1,6 @@
 # Tips and Techniques
 
+* These aren't 'official' recipes, these are Convivio versions, so don't take anything as a secret cocktail rule, and you can also feel free to vary them a bit.
 * In our recipes we talk about 'measures' to allow you to scale your drinks. For one normal-sized drink, 1 measure is a full 'single spirit measure' cup \(usually 25ml or 30ml\). You can of course make doubles ;\)
 * Use as much ice as possible. The higher the ice to drink ratio, the cooler the drink, the less the ice melts and dilutes the drink.
 * Chill glasses before use for the same reason. Fill the glass with ice and a little cold water.
