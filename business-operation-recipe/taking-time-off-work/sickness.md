@@ -56,7 +56,7 @@ If people are working evenings or at the weekends we generally take that a sign 
 
 We encourage each other to take regular exercise, which often helps to flood our bodies with 'happy hormones' and fortifies our immune systems. We have a **\#fit2drop** Slack channel where we try to spur each other on.
 
-We like to eat well at Convivio, and that goes to eating healthily too. We have a whole section of this Cookbook handbook where we share [actual food recipes](../../actual-food-recipes/).
+We like to eat well at Convivio, and that goes to eating healthily too. We have a whole section of this Cookbook handbook where we share [actual food recipes](../../actual-recipes/).
 
 ## Reviewing Sickness
 
