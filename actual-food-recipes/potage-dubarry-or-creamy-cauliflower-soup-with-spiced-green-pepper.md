@@ -82,7 +82,7 @@ Chop some thin slices of saucisson or chorizo. Fry the slices on each side in a 
 
 Warm the potage, if it's been sitting. Again, stir plenty to prevent it from burning.
 
-For each person put a generous ladle of potage on a small plate, ensuring it flows to the edges. Place one roasted cauliflower floret in the middle of each, and one of the roasted cauliflower leaves beside it. Drape a few pieces of spiced green pepper over each floret, or, for your alternative _with_ meat, garnish with a slice of the crisp saucisson or chorizo. Garnish each plate with the reserved chopped herbs, and serve.
+For each person put a generous ladle of potage on a small plate, ensuring it flows to the edges. Place one roasted cauliflower floret in the middle of each, and one of the roasted cauliflower leaves beside it. Drape a few pieces of spiced green pepper over each floret, or, for your alternative _with_ meat, decorate with a slice of the crisp saucisson or chorizo. Garnish each plate with the reserved chopped herbs, and serve.
 
 ![](../.gitbook/assets/img_7431.jpeg)
 
