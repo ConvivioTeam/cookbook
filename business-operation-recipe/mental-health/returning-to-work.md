@@ -12,5 +12,7 @@ Would phased return be a good option for you? There are a number of options avai
 
 ### Support available through the company
 
-There are a few different options for support that can be provided by the company. See the section [Therapy and Occupational Health]().
+We are working to find an occupational therapist to support us as a team. This doesn't replace any therapy or medical support you may have, they would simply understand your needs and help advise the company on how to support you.
+
+This section will be updated when we have an occupational therapist in place. Until then please see the resources section for advice helplines, and the Mental Healf First Aid section for peer-support in the company.
 
