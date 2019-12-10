@@ -2,6 +2,10 @@
 
 * [Introduction](README.md)
 * [Working at Convivio](working-at-convivio/README.md)
+  * [The Convivio brand](working-at-convivio/the-convivio-brand.md)
+  * [What do we do?](working-at-convivio/what-do-we-do.md)
+  * [Our work for clients](working-at-convivio/our-work-for-clients.md)
+  * [Staff Benefits](working-at-convivio/staff-benefits.md)
   * [Free-Range Working](working-at-convivio/free-range-working.md)
   * [Help! I'm new. How do I get started?](working-at-convivio/help-im-new.-how-do-i-get-started.md)
   * [Having a buddy](working-at-convivio/having-a-buddy.md)
