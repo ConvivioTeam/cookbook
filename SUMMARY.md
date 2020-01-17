@@ -21,6 +21,7 @@
     * [Help Card: Reviewing CVs](talent-recipe/recruitment/help-card-reviewing-cvs.md)
     * [Help Card: Preparing and Conducting Structured Interviews](talent-recipe/recruitment/help-card-structured-interviews.md)
     * [Help Card: Preparing and Conducting Remote Working Interviews](talent-recipe/recruitment/help-card-remote-working-interviews.md)
+  * [Continuing Professional Development](talent-recipe/continuing-professional-development.md)
 * [New Client Recipe](new-client-recipe/README.md)
   * [Principles For Building New Client Relationships](new-client-recipe/principles-for-building-new-client-relationships.md)
   * [Researching](new-client-recipe/researching.md)
