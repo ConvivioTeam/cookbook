@@ -1,6 +1,6 @@
 # Continuing Professional Development
 
-At Convivio, one of our motivations is to have the inspiration, freedom and support to learn, so we can  do our best work. We value growing ourselves, our knowledge and our expertise as we continually seek to be better, to aim higher and to think long term.
+At Convivio, one of our motivations is to have the inspiration, freedom and support to learn, so we can do our best work. We value growing ourselves, our knowledge and our expertise as we continually seek to be better, to aim higher and to think long-term.
 
 Nowhere is this more important than in our approach to continuing professional development \(CPD\).
 
@@ -26,6 +26,8 @@ Annual Planning looks at what professional development can be achieved in the co
 
 Annual Planning creates a CPD backlog for the coming year.
 
+{% page-ref page="cpd-help-card-annual-planning.md" %}
+
 ### 02. Annual Review
 
 At the end of a year of CPD it is important to review what has happened. This is a look back at what was done, what was not done, what went well, what problems arose, how problems were overcome. There may be time for some demonstrations, if appropriate. You should also assess what to do with things that are left unfinished, whether to bring them to a close or carry on until they’re done. You should also review time and budget, and capability constraints.
@@ -34,11 +36,15 @@ The Annual Review helps shape your next CPD Annual Planning.
 
 The outcome of the Annual Review is a revised CPD backlog of things that might be tackled in the next year of CPD.
 
+{% page-ref page="cpd-help-card-annual-review.md" %}
+
 ### 03. Annual Retrospective
 
 Following a review of the last year of CPD, there should be an Annual Retrospective. The retrospective is a time to look at the CPD process of the previous year, to assess what went well, what could be improved, and what could be committed to doing in the next year.
 
 By the end of the retrospective you should have identified improvements that can be made in the next year of CPD.
+
+{% page-ref page="cpd-help-card-annual-retrospective.md" %}
 
 ### 04. CPD Sprints and Scrums
 
@@ -50,9 +56,11 @@ At CPD Scrums you can inspect how the professional development is progressing an
 
 #### CPD Sprint Review, Retro and Planning
 
-For CPD to be effective and empowering it must not be left to just an annual event before it is reviewed. Rather, we have there needs to be a regular check-in and feedback process that helps to inspect and adapt the year of CPD.
+For CPD to be effective and empowering it must not be left to just an annual event before it is reviewed. Rather, there needs to be a regular check-in and feedback process that helps to inspect and adapt the year of CPD.
 
 At the end of each quarter there are sprint review, retrospective and planning sessions, to adapt and improve the next phase of progress towards the year’s continuing professional development.
+
+{% page-ref page="cpd-help-card-sprints-and-scrums.md" %}
 
 ## Agile CPD Roles
 
