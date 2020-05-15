@@ -7,6 +7,7 @@
   * [Our work for clients](working-at-convivio/our-work-for-clients.md)
   * [Staff Benefits](working-at-convivio/staff-benefits.md)
   * [Free-Range Working](working-at-convivio/free-range-working.md)
+  * [Notes: give & receive feedback](working-at-convivio/notes-give-and-receive-feedback.md)
   * [Help! I'm new. How do I get started?](working-at-convivio/help-im-new.-how-do-i-get-started.md)
   * [Having a buddy](working-at-convivio/having-a-buddy.md)
 * [Talent Recipe](talent-recipe/README.md)
