@@ -28,9 +28,9 @@ Most expenses at Convivio are paid with a company contactless payment card from 
 
 ## Fridays
 
-Fridays are special days. Fridays are the days we improve the business and improve ourselves. We have a video call, usually at the end of Thursday, to work out our 'give back' Friday plans and ask for or offer help if necessary. And then each Friday we have a company video call, to catch up with other staff that we haven't worked with during the week, to hear what people have been working on.
+Fridays are special days. [Fridays are the days we improve the business and improve ourselves](convivio-fridays.md).
 
-Your first Friday Hangout will be a chance to introduce yourself and meet anyone you haven't said hello to yet.
+Your first Friday videocall will be a chance to introduce yourself and meet anyone you haven't said hello to yet.
 
 ## Holidays
 
