@@ -82,5 +82,9 @@ Therefore, the overall contribution in UK taxes generated as a result of our bus
 
 ## Annual accounts for year end Sept 2019
 
-Our full accounts will be available to view here soon.
+Our accounts for this financial year are available on Companies House, and the full unabbreviated accounts are also available here for full transparency:
+
+{% embed url="https://drive.google.com/file/d/1Q-hOZXBkAmf3Sh1aJxei6xYXBBqzh0pv/view" %}
+
+
 
