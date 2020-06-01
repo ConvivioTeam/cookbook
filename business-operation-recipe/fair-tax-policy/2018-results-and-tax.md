@@ -1,5 +1,11 @@
 # 2018 Results and Tax
 
+We have been successfully accredited for the Fair Tax Mark for this financial year.
+
+![The Fair Tax Mark logo](../../.gitbook/assets/ftm_horizontal_rgb.png)
+
+On this page we'll share our financial and company information for the year, for full transparency.
+
 ### Forecast
 
 In September 2017, our forecast for the year was:

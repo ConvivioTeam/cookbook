@@ -1,5 +1,7 @@
 # Fair Tax Policy
 
+![The logo of the Fair Tax Mark](../../.gitbook/assets/ftm_horizontal_rgb.png)
+
 Convivio aims to be a responsible company that makes a positive contribution to society.
 
 We benefit from public services through the education and healthcare our staff receive, the protections of our security and legal system, transport infrastructure, a business and legal framework that enables us to operate, and simply by being in a society where our staff and families have their basic needs met and so can focus on higher economic contributions — and much, much more.
@@ -23,6 +25,12 @@ We commit to NOT:
 * Where our clients or suppliers may have operations in places generally considered to be tax havens, we will not take advantage of those places to secure a tax advantage, and nor will we take advantage of the secrecy such jurisdictions provide for transactions recorded within them.
 
 Our accounts will be prepared in compliance with this policy and will seek to provide all that information that authorities, including HM Revenue & Customs, might need to properly appraise our tax position.
+
+### Fair Tax Mark accreditation
+
+Each year we will submit our accounts for accreditation by the Fair Tax Mark, and independent not-for-profit body which campaigns for companies to pay tax fairly, and oversees the Fair Tax Mark scheme. They arrange for an account to assess us against the criteria to receive the Mark. We will publish the results each year in this section.
+
+We have been [accredited for the Fair Tax Mark since the formation of the company](https://fairtaxmark.net/convivio-public-service-day-accreditation/).
 
 ### Company details
 

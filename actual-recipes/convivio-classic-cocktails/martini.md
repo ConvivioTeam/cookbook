@@ -40,7 +40,9 @@ To enjoy this drink it’s best to experiment and find where you are on our Mart
       <td style="text-align:left">1 Vermouth</td>
     </tr>
   </tbody>
-</table>### Method
+</table>
+
+### Method
 
 1. Fill the serving glass with ice and a little water, to chill the glass while you mix the drink
 2. Fill a mixing glass with ice cubes. Pour over the gin and stir until the gin is well chilled.

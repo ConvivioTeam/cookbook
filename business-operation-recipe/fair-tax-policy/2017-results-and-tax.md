@@ -1,5 +1,13 @@
 # 2017 Results and Tax
 
+
+
+We have been successfully accredited for the Fair Tax Mark for this financial year.
+
+![The logo of the Fair Tax Mark](../../.gitbook/assets/ftm_horizontal_rgb.png)
+
+On this page we'll detail our financial and company information for the year, for full transparency.
+
 Our first financial year was 15 months long, as we had 3 months of setup and 12 trading months.
 
 ### Forecast
