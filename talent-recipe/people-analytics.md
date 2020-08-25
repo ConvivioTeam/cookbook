@@ -4,27 +4,53 @@ We are a small business at the moment but we want to grow. Most importantly, tho
 
 In order to do that, we are beginning to track some important pieces of information about who we are and what we're like. Knowing this information will inform our actions and decisions as we grow. We call this **People Analytics**.
 
+See the [introductory blog on how we understand people analytics](https://blog.weareconvivio.com/how-were-using-people-analytics-to-grow-a-healthy-agency-78a993049aba), and why and how we're using it.
+
+## 2020
+
+This is a summary graphical representation of our People Analytics in August 2020.
+
+{% tabs %}
+{% tab title="Gender" %}
+![](../.gitbook/assets/2020-gender%20%281%29.png)
+{% endtab %}
+
+{% tab title="Ethnicity" %}
+![](../.gitbook/assets/2020-ethnicity.png)
+{% endtab %}
+
+{% tab title="Age" %}
+![](../.gitbook/assets/2020-age.png)
+{% endtab %}
+
+{% tab title="Length of service" %}
+![](../.gitbook/assets/2020-lengthofservice.png)
+{% endtab %}
+{% endtabs %}
+
 ## 2019
 
 This is a summary graphical representation of our People Analytics in April 2019.
 
 {% tabs %}
 {% tab title="Gender" %}
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjgJiPT7JLB6hiT1ZxiRZrgL48IEfyrwu6hCUWVOQEPXIQxdE8kGAPI_H46Lqn0vADa_moiEFupF5/pubchart?oid=412396137&format=image)
+![](../.gitbook/assets/2019-gender.png)
 {% endtab %}
 
-{% tab title="Ethnicity" %}
-![Our ethnicity groupings use the same labels as used in the 2011 UK census ](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjgJiPT7JLB6hiT1ZxiRZrgL48IEfyrwu6hCUWVOQEPXIQxdE8kGAPI_H46Lqn0vADa_moiEFupF5/pubchart?oid=351895539&format=image)
+{% tab title="" %}
+![](../.gitbook/assets/2019-ethnicity.png)
 {% endtab %}
 
-{% tab title="Age" %}
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjgJiPT7JLB6hiT1ZxiRZrgL48IEfyrwu6hCUWVOQEPXIQxdE8kGAPI_H46Lqn0vADa_moiEFupF5/pubchart?oid=1881390106&format=image)
+{% tab title="" %}
+![](../.gitbook/assets/2019-age.png)
 {% endtab %}
 
-{% tab title="Length of Service" %}
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vSRjgJiPT7JLB6hiT1ZxiRZrgL48IEfyrwu6hCUWVOQEPXIQxdE8kGAPI_H46Lqn0vADa_moiEFupF5/pubchart?oid=735501006&format=image)
+{% tab title="Length of service" %}
+![](../.gitbook/assets/2019-lengthofservice.png)
 {% endtab %}
 {% endtabs %}
+
+See the introductory blog about our people analytics for an overview of the 2019 data: [How we’re using people analytics to grow a healthy agency](https://blog.weareconvivio.com/how-were-using-people-analytics-to-grow-a-healthy-agency-78a993049aba).
 
 ## UK Working Age Population
 
