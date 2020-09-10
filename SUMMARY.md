@@ -118,6 +118,7 @@
     * [Document Access Policy](business-operation-recipe/security-policy/document-access-policy.md)
     * [Mobile Equipment Policy](business-operation-recipe/security-policy/mobile-equipment-policy.md)
     * [Two-Factor Authentication \(2FA\)](business-operation-recipe/security-policy/two-factor-authentication-2fa.md)
+    * [VPN Guide](business-operation-recipe/security-policy/vpn-guide.md)
   * [Content Publishing](business-operation-recipe/content-publishing.md)
   * [Git Repository Conventions](business-operation-recipe/git-repository-conventions.md)
   * [Submit Expenses](business-operation-recipe/submit-expenses.md)
