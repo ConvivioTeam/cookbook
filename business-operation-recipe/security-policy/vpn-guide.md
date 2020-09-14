@@ -21,5 +21,7 @@ Instructions for setup can be found [here](https://www.sparklabs.com/support/kb/
 
 ### Windows
 
+We recommend using [Viscosity](https://www.sparklabs.com/viscosity/).
 
+Instructions for setup can be found [here](https://www.sparklabs.com/support/kb/article/getting-started-with-viscosity-windows/).
 
