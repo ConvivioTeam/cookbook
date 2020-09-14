@@ -8,6 +8,8 @@ You will be provided with a Pritunl profile link where you can download either t
 
 We recommend using [Viscosity](https://www.sparklabs.com/viscosity/).
 
+Download the profiles zip archive and then extract it. This will be imported into Viscosity.
+
 Instructions for setup can be found [here](https://www.sparklabs.com/support/kb/article/getting-started-with-viscosity-mac/).
 
 ### Linux
@@ -22,6 +24,8 @@ Instructions for setup can be found [here](https://www.sparklabs.com/support/kb/
 ### Windows
 
 We recommend using [Viscosity](https://www.sparklabs.com/viscosity/).
+
+Download the profiles zip archive and then extract it. This will be imported into Viscosity.
 
 Instructions for setup can be found [here](https://www.sparklabs.com/support/kb/article/getting-started-with-viscosity-windows/).
 
