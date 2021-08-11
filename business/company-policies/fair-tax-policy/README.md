@@ -54,13 +54,13 @@ Companies House records: [https://beta.companieshouse.gov.uk/company/10213988](h
 
 #### Trading Address
 
-This is the best address for normal correspondence: The Gridiron Building, One Pancras Square, London, N1C 4AG
+This is the best address for normal correspondence:  Convivio, 27 Old Gloucester Street, London, WC1N 3AX.
 
 #### Owners and Directors
 
-100% of our shares are owned by Steve Parks, a UK resident and taxpayer. Correspondence address: 34b York Way, London, N1 9AB.
+100% of our shares are owned by Steve Parks, a UK resident and taxpayer. Correspondence address:  Convivio, 27 Old Gloucester Street, London, WC1N 3AX.
 
-We have one director, Steve Parks, a UK resident and taxpayer. Correspondence address: 34b York Way, London, N1 9AB.
+We have one director, Steve Parks, a UK resident and taxpayer. Correspondence address: Convivio, 27 Old Gloucester Street, London, WC1N 3AX.
 
 #### Financing
 
@@ -79,5 +79,5 @@ For each year since the company was formed we disclose our forecasts, trading re
 * [2019 Results and Tax](2019-results-and-tax.md)
 * [2020 Results and Tax](2020-results-and-tax.md)
 
-In that time the total taxes generated for the UK by our business activities has been £437,622.27
+In that time the total taxes generated for the UK by our business activities has been £669,987.79.
 
