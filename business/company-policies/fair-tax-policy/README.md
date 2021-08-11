@@ -66,7 +66,9 @@ We have one director, Steve Parks, a UK resident and taxpayer. Correspondence ad
 
 There is no external equity finance.
 
-The company has no debt finance.
+The company has a £50,000 Bounce Back Loan facility available to it, as part of the UK government's pandemic support measures. The company hasn't used these funds to date.
+
+The company has no other debt finance.
 
 ### Annual Results and Tax
 
@@ -75,6 +77,7 @@ For each year since the company was formed we disclose our forecasts, trading re
 * [2017 Results and Tax](2017-results-and-tax.md)
 * [2018 Results and Tax](2018-results-and-tax.md)
 * [2019 Results and Tax](2019-results-and-tax.md)
+* [2020 Results and Tax](2020-results-and-tax.md)
 
 In that time the total taxes generated for the UK by our business activities has been £437,622.27
 
