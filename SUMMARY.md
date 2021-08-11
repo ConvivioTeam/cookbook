@@ -13,6 +13,7 @@
     * [Environmental Policy](business/company-policies/environmental-policy.md)
     * [Anti-Bribery Policy](business/company-policies/anti-bribery-policy.md)
     * [Fair Tax Policy](business/company-policies/fair-tax-policy/README.md)
+      * [2020 Results and Tax](business/company-policies/fair-tax-policy/2020-results-and-tax.md)
       * [Dividends policy](business/company-policies/fair-tax-policy/dividends-policy.md)
       * [2019 Results and Tax](business/company-policies/fair-tax-policy/2019-results-and-tax.md)
       * [2018 Results and Tax](business/company-policies/fair-tax-policy/2018-results-and-tax.md)
