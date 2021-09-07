@@ -40,12 +40,13 @@ The Corporation Tax incurred by the company in this financial year was calculate
 | :--- | :--- |
 | Profit \(Loss\) before tax | 144,134 |
 |  |  |
-| **Corporation tax on profits at UK standard rate** | **27,835** |
+| **Corporation tax on profits at UK standard rate** | **27,385** |
 | Capital allowances | \(1400\) |
 | Expenses not deductible for tax purposes | 1,814 |
 | Tax losses utilised | - |
 | R&D Tax Credit | \(30,531\) |
-| Deferred taxation | 554 |
+| **Current Tax Charge** | **\(2,732\)** |
+| Movement in deferred taxes | 554 |
 | **Total tax charge for the period** | **\(2,178\)** |
 
 The primary reason for the difference between the expected current tax charge and the actual current tax charge is Research and Development \(R&D\) tax relief. This relief supports companies that work on innovative projects in science and technology. Companies can claim enhanced expenditure for qualifying costs they incur on R&D projects, the deduction can be 230% of the qualifying cost or they can claim a tax credit if the company is making a loss, worth up 14.5% of the surrendered loss.
@@ -55,7 +56,7 @@ Other items that are affecting the current tax charge are:
 * Expenses not deductible for tax - Some expenses incurred may be entirely appropriate charges for inclusion in its financial statements but are not allowed as a deduction against taxable income when calculating tax liability. E.g. Entertaining.
 * Depreciation in excess/\(shortfall\) of capital allowances - The accounting treatment of capital assets differs from the tax treatment. For accounting purposes, an annual rate of depreciation is applied to capital assets and charged to the profit and loss account. For tax purposes, the depreciation charge is added back and instead, a tax capital allowance is claimed, a relief provided by law. Over time, however, these differences will equal one another.
 
-
+Accelerated capital allowances or fixed asset timing differences arise when there are temporary differences between the net book value of qualifying assets in the accounts and their equivalent tax written down values. This is because the accounting treatment of capital assets is usually different than the tax treatment allowable. In the accounts, an asset is depreciated over its useful economic life; whereas capital allowances are set rules in tax law applied to the type of asset. The differences, however, between the net book value of qualifying assets in the accounts and their equivalent tax written down values – are only timing differences – as eventually, the accumulative depreciation and the capital allowances claimed will equal one another. The movements in this deferred tax provision will be recognised in annual instalments over the useful economic lives of the assets. It is not expected that this will have an impact on the company tax bill in the near future.
 
 #### PAYE / NIC
 
